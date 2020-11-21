@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-11-21T05:21:11.070Z</updated>
+    <updated>2020-11-21T06:02:00.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -51,6 +51,17 @@
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> (以下简称OTP) 是一款 Office / Visio / Project 部署工具，支持 Office 2016 / 2019 / 365，借助软件你能很快很方便地部署并激活 Office 。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> (以下简称OTP) 是一款 Office / Visio / Project 部署工具，支持 Office 2016 / 2019 / 365，借助软件你能很快很方便地部署并激活 Office 。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电脑清理优化工具 Wise Care 365 Pro v5.6.1.557 绿色便携版]]></title>
+        <id>https://runine.github.io/WiseCare365/</id>
+        <link href="https://runine.github.io/WiseCare365/">
+        </link>
+        <updated>2020-11-21T06:00:11.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>WiseCare365</strong>是由WiseCleaner开发的一款系统清理加速工具；清理注册表和磁盘垃圾文件，保护个人隐私记录，提高电脑使用安全。全球超过一亿五千次下载，是Windows系统运行速度最好的选择！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>WiseCare365</strong>是由WiseCleaner开发的一款系统清理加速工具；清理注册表和磁盘垃圾文件，保护个人隐私记录，提高电脑使用安全。全球超过一亿五千次下载，是Windows系统运行速度最好的选择！</p>
 ]]></content>
     </entry>
     <entry>
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯公司于2011年1月21日推出的一个为智能终端提供即时通讯服务的免费应用程序。一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯公司于2011年1月21日推出的一个为智能终端提供即时通讯服务的免费应用程序。一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2345看图王 v10.0.0.8852 去广告绿色版]]></title>
-        <id>https://runine.github.io/2345pic/</id>
-        <link href="https://runine.github.io/2345pic/">
-        </link>
-        <updated>2020-11-20T12:51:15.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>2345看图王</strong> 是一款强大的图片浏览管理软件，软件采用了全球最快的强劲图片引擎，即使在低配置的电脑上也用飞快打开几十兆的大图，带给人们超高清完美画质图像，给您最真实的高清看图效果!</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>2345看图王</strong> 是一款强大的图片浏览管理软件，软件采用了全球最快的强劲图片引擎，即使在低配置的电脑上也用飞快打开几十兆的大图，带给人们超高清完美画质图像，给您最真实的高清看图效果!</p>
 ]]></content>
     </entry>
 </feed>
