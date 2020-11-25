@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-11-25T02:39:03.475Z</updated>
+    <updated>2020-11-25T05:49:09.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -32,7 +32,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Win7/8/10 系统激活工具 HEU KMS Activator v19.6.4]]></title>
+        <title type="html"><![CDATA[Windows系统激活工具 HEU KMS Activator v19.6.4]]></title>
         <id>https://runine.github.io/HEU_KMS/</id>
         <link href="https://runine.github.io/HEU_KMS/">
         </link>
@@ -51,6 +51,28 @@
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> (以下简称OTP) 是一款 Office / Visio / Project 部署工具，支持 Office 2016 / 2019 / 365，借助软件你能很快很方便地部署并激活 Office 。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> (以下简称OTP) 是一款 Office / Visio / Project 部署工具，支持 Office 2016 / 2019 / 365，借助软件你能很快很方便地部署并激活 Office 。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浏览器必装辅助神器 - 油猴脚本管理器]]></title>
+        <id>https://runine.github.io/Tampermonkey/</id>
+        <link href="https://runine.github.io/Tampermonkey/">
+        </link>
+        <updated>2020-11-25T15:58:59.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[油猴脚本 - 天翼云盘免登录不限速下载脚本]]></title>
+        <id>https://runine.github.io/ecloudjs/</id>
+        <link href="https://runine.github.io/ecloudjs/">
+        </link>
+        <updated>2020-11-25T03:21:21.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>天翼云盘免登录不限速下载油猴脚本</strong> 可以为你实现免登录下载天翼云盘的所有文件，天翼云盘虽然没有百度网盘那么的出名，不过天翼云盘是中国电信10000的产物所以下载速度也很良心。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>天翼云盘免登录不限速下载油猴脚本</strong> 可以为你实现免登录下载天翼云盘的所有文件，天翼云盘虽然没有百度网盘那么的出名，不过天翼云盘是中国电信10000的产物所以下载速度也很良心。</p>
 ]]></content>
     </entry>
     <entry>
@@ -95,28 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BT下载客户端 uTorrent Pro v3.5.5.45838 去除广告绿色版]]></title>
-        <id>https://runine.github.io/uTorrent/</id>
-        <link href="https://runine.github.io/uTorrent/">
-        </link>
-        <updated>2020-11-22T13:43:18.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>uTorrent Pro</strong> 是一款非常强大的BT下载客户端，同时也是国外最流行的bt种子下载软件，该软件体积小巧，界面简单，能够支持BT扩展协议、磁力链接、DHT网络、UPnP和RSS订阅自动下载。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>uTorrent Pro</strong> 是一款非常强大的BT下载客户端，同时也是国外最流行的bt种子下载软件，该软件体积小巧，界面简单，能够支持BT扩展协议、磁力链接、DHT网络、UPnP和RSS订阅自动下载。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源播放器 ZY Player v2.6.6 全网视频免费观看]]></title>
-        <id>https://runine.github.io/ZYPlayer/</id>
-        <link href="https://runine.github.io/ZYPlayer/">
-        </link>
-        <updated>2020-11-22T13:32:14.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>ZYPlayer</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>ZYPlayer</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
 ]]></content>
     </entry>
 </feed>
