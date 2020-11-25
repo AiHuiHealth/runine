@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-11-24T22:03:47.467Z</updated>
+    <updated>2020-11-25T02:39:03.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -54,6 +54,28 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[驱动更新软件 IObit Driver Booster Pro v8.1.0.276 多语便携版]]></title>
+        <id>https://runine.github.io/IObitDriverBooster/</id>
+        <link href="https://runine.github.io/IObitDriverBooster/">
+        </link>
+        <updated>2020-11-25T02:35:57.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>IObit Driver Booster Pro</strong> 是由 IObit 公司出品的一款驱动更新和备份软件，是最好的驱动程序之一；和国内的驱动精灵、驱动人生功能差不多，但没有捆绑，比较简单。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>IObit Driver Booster Pro</strong> 是由 IObit 公司出品的一款驱动更新和备份软件，是最好的驱动程序之一；和国内的驱动精灵、驱动人生功能差不多，但没有捆绑，比较简单。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万兴全能格式转换器 UniConverter v12.5.0.17 多语便携版]]></title>
+        <id>https://runine.github.io/UniConverter/</id>
+        <link href="https://runine.github.io/UniConverter/">
+        </link>
+        <updated>2020-11-25T02:04:11.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>UniConverter</strong>  “万兴优转” 是深圳万兴科技公司开发的一款多功能音视频转换、DVD刻录软件、视频下载软件。并具有内置播放器，可让您享受完美的视觉体验！深受到5000万客户的喜爱。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>UniConverter</strong>  “万兴优转” 是深圳万兴科技公司开发的一款多功能音视频转换、DVD刻录软件、视频下载软件。并具有内置播放器，可让您享受完美的视觉体验！深受到5000万客户的喜爱。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[三维动画渲染软件 Autodesk 3DS Max 2021 多语中文特别版]]></title>
         <id>https://runine.github.io/3DMAX/</id>
         <link href="https://runine.github.io/3DMAX/">
@@ -95,28 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>ZYPlayer</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>ZYPlayer</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电脑清理优化工具 Wise Care 365 Pro v5.6.1.557 绿色便携版]]></title>
-        <id>https://runine.github.io/WiseCare365/</id>
-        <link href="https://runine.github.io/WiseCare365/">
-        </link>
-        <updated>2020-11-21T06:00:11.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>WiseCare365</strong>是由WiseCleaner开发的一款系统清理加速工具；清理注册表和磁盘垃圾文件，保护个人隐私记录，提高电脑使用安全。全球超过一亿五千次下载，是Windows系统运行速度最好的选择！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>WiseCare365</strong>是由WiseCleaner开发的一款系统清理加速工具；清理注册表和磁盘垃圾文件，保护个人隐私记录，提高电脑使用安全。全球超过一亿五千次下载，是Windows系统运行速度最好的选择！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高清屏幕录制软件 Mirillis Action! v4.13.1.0 多语便携版]]></title>
-        <id>https://runine.github.io/MirillisAction!/</id>
-        <link href="https://runine.github.io/MirillisAction!/">
-        </link>
-        <updated>2020-11-21T05:15:13.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Mirillis Action!</strong> 是一款专业的屏幕录制软件，使用Action! 屏幕录制软件您可以录制和直播您正在玩得游戏，网络播放器视频，录制音乐，屏幕截图，添加摄像头画面，麦克风声音等等！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Mirillis Action!</strong> 是一款专业的屏幕录制软件，使用Action! 屏幕录制软件您可以录制和直播您正在玩得游戏，网络播放器视频，录制音乐，屏幕截图，添加摄像头画面，麦克风声音等等！</p>
 ]]></content>
     </entry>
 </feed>
