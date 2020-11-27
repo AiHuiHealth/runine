@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-11-26T06:22:31.395Z</updated>
+    <updated>2020-11-27T09:22:23.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -14,7 +14,7 @@
         <id>https://runine.github.io/DuPan/</id>
         <link href="https://runine.github.io/DuPan/">
         </link>
-        <updated>2020-11-26T15:59:04.000Z</updated>
+        <updated>2020-11-27T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
@@ -25,7 +25,7 @@
         <id>https://runine.github.io/Adobe/</id>
         <link href="https://runine.github.io/Adobe/">
         </link>
-        <updated>2020-11-26T15:59:03.000Z</updated>
+        <updated>2020-11-27T15:59:03.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
@@ -36,7 +36,7 @@
         <id>https://runine.github.io/HEU_KMS/</id>
         <link href="https://runine.github.io/HEU_KMS/">
         </link>
-        <updated>2020-11-26T15:59:02.000Z</updated>
+        <updated>2020-11-27T15:59:02.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
@@ -47,10 +47,21 @@
         <id>https://runine.github.io/OfficeToolPlus/</id>
         <link href="https://runine.github.io/OfficeToolPlus/">
         </link>
-        <updated>2020-11-26T15:59:01.000Z</updated>
+        <updated>2020-11-27T15:59:01.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> (以下简称OTP) 是一款 Office / Visio / Project 部署工具，支持 Office 2016 / 2019 / 365，借助软件你能很快很方便地部署并激活 Office 。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> (以下简称OTP) 是一款 Office / Visio / Project 部署工具，支持 Office 2016 / 2019 / 365，借助软件你能很快很方便地部署并激活 Office 。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JetBrains v2020.2.4.0 官方便携增强2089激活版]]></title>
+        <id>https://runine.github.io/JetBrains/</id>
+        <link href="https://runine.github.io/JetBrains/">
+        </link>
+        <updated>2020-11-27T15:58:59.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>JetBrains</strong> 是一家捷克的软件开发公司，并在俄罗斯的圣彼得堡及美国麻州波士顿都设有办公室，该公司最为人所熟知的产品是Java编程语言开发撰写时所用的集成开发环境：IntelliJ IDEA。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>JetBrains</strong> 是一家捷克的软件开发公司，并在俄罗斯的圣彼得堡及美国麻州波士顿都设有办公室，该公司最为人所熟知的产品是Java编程语言开发撰写时所用的集成开发环境：IntelliJ IDEA。</p>
 ]]></content>
     </entry>
     <entry>
@@ -58,7 +69,7 @@
         <id>https://runine.github.io/Tampermonkey/</id>
         <link href="https://runine.github.io/Tampermonkey/">
         </link>
-        <updated>2020-11-26T15:58:59.000Z</updated>
+        <updated>2020-11-27T15:58:59.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>天翼云盘免登录不限速下载油猴脚本</strong> 可以为你实现免登录下载天翼云盘的所有文件，天翼云盘虽然没有百度网盘那么的出名，不过天翼云盘是中国电信10000的产物所以下载速度也很良心。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>天翼云盘免登录不限速下载油猴脚本</strong> 可以为你实现免登录下载天翼云盘的所有文件，天翼云盘虽然没有百度网盘那么的出名，不过天翼云盘是中国电信10000的产物所以下载速度也很良心。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[驱动更新软件 IObit Driver Booster Pro v8.1.0.276 多语便携版]]></title>
-        <id>https://runine.github.io/IObitDriverBooster/</id>
-        <link href="https://runine.github.io/IObitDriverBooster/">
-        </link>
-        <updated>2020-11-25T02:35:57.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>IObit Driver Booster Pro</strong> 是由 IObit 公司出品的一款驱动更新和备份软件，是最好的驱动程序之一；和国内的驱动精灵、驱动人生功能差不多，但没有捆绑，比较简单。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>IObit Driver Booster Pro</strong> 是由 IObit 公司出品的一款驱动更新和备份软件，是最好的驱动程序之一；和国内的驱动精灵、驱动人生功能差不多，但没有捆绑，比较简单。</p>
 ]]></content>
     </entry>
 </feed>
