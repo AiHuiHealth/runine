@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-11-30T07:47:59.444Z</updated>
+    <updated>2020-11-30T09:47:16.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,6 +65,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[专业桌面整理分类工具 Stardock Fences v3.0.9.11 中文特别版]]></title>
+        <id>https://runine.github.io/Fences/</id>
+        <link href="https://runine.github.io/Fences/">
+        </link>
+        <updated>2020-11-30T07:58:14.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Stardock Fences</strong> 是著名的 Stardock 公司新推出的一款软件，用来分类和组织桌面上的图标。可以完美的帮你解决桌面杂乱无章等情况，你可以随意的在桌面上创建各种格子并归类你的文件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Stardock Fences</strong> 是著名的 Stardock 公司新推出的一款软件，用来分类和组织桌面上的图标。可以完美的帮你解决桌面杂乱无章等情况，你可以随意的在桌面上创建各种格子并归类你的文件。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[爱奇艺视频 for Win/And v7.11.124.2447 去广告绿色版]]></title>
         <id>https://runine.github.io/iqiyi/</id>
         <link href="https://runine.github.io/iqiyi/">
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>硬件狗狗</strong> 是快科技推出的一款专业电脑硬件检测工具，电脑性能测试软件。提供硬件中文厂商信息、准确硬件温度监测、综合跑分测试、CPU测试、显卡测试、内存测试、磁盘性能测试功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>硬件狗狗</strong> 是快科技推出的一款专业电脑硬件检测工具，电脑性能测试软件。提供硬件中文厂商信息、准确硬件温度监测、综合跑分测试、CPU测试、显卡测试、内存测试、磁盘性能测试功能。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装机必备专业多线程下载器 IDM v6.38.14 多语绿色便携版]]></title>
-        <id>https://runine.github.io/IDM/</id>
-        <link href="https://runine.github.io/IDM/">
-        </link>
-        <updated>2020-11-29T11:11:56.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Internet Download Manager</strong> 是一款曾获国外著名IT网站最高5星评价的下载软件，IDM即使是在国内，也深受很多资深电脑用户喜欢。特别是配合脚本利用IDM下载百度云盘文件，速度也非常惊人 。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Internet Download Manager</strong> 是一款曾获国外著名IT网站最高5星评价的下载软件，IDM即使是在国内，也深受很多资深电脑用户喜欢。特别是配合脚本利用IDM下载百度云盘文件，速度也非常惊人 。</p>
 ]]></content>
     </entry>
 </feed>
