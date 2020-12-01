@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-11-30T15:34:59.817Z</updated>
+    <updated>2020-12-01T07:52:23.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,6 +65,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[装机必备卸载工具 IObit Uninstaller Pro v10.2.0.13 多语便携版]]></title>
+        <id>https://runine.github.io/IObitUninstaller/</id>
+        <link href="https://runine.github.io/IObitUninstaller/">
+        </link>
+        <updated>2020-12-01T07:50:35.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[装机必备解压缩软件 Bandizip v7.13 专业/企业多语特别版]]></title>
         <id>https://runine.github.io/Bandizip/</id>
         <link href="https://runine.github.io/Bandizip/">
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>ZYPlayer</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>ZYPlayer</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专业桌面整理分类工具 Stardock Fences v3.0.9.11 中文特别版]]></title>
-        <id>https://runine.github.io/Fences/</id>
-        <link href="https://runine.github.io/Fences/">
-        </link>
-        <updated>2020-11-30T07:58:14.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Stardock Fences</strong> 是著名的 Stardock 公司新推出的一款软件，用来分类和组织桌面上的图标。可以完美的帮你解决桌面杂乱无章等情况，你可以随意的在桌面上创建各种格子并归类你的文件。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Stardock Fences</strong> 是著名的 Stardock 公司新推出的一款软件，用来分类和组织桌面上的图标。可以完美的帮你解决桌面杂乱无章等情况，你可以随意的在桌面上创建各种格子并归类你的文件。</p>
 ]]></content>
     </entry>
 </feed>
