@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-01T07:53:55.922Z</updated>
+    <updated>2020-12-01T08:25:01.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,6 +65,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[轻量跨平台代码编辑器 Sublime Text v4.0.4094 绿色便携版]]></title>
+        <id>https://runine.github.io/SublimeText/</id>
+        <link href="https://runine.github.io/SublimeText/">
+        </link>
+        <updated>2020-12-01T08:24:51.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Sublime Text</strong> 是一款轻量、简洁、高效、跨平台的文本编辑器，也是程序员必备的代码编辑器。支持代码补全、代码折叠、语法高亮、自定义皮肤等功能，同时支持多种语言和多种操作系统。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Sublime Text</strong> 是一款轻量、简洁、高效、跨平台的文本编辑器，也是程序员必备的代码编辑器。支持代码补全、代码折叠、语法高亮、自定义皮肤等功能，同时支持多种语言和多种操作系统。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[装机必备卸载工具 IObit Uninstaller Pro v10.2.0.13 多语便携版]]></title>
         <id>https://runine.github.io/IObitUninstaller/</id>
         <link href="https://runine.github.io/IObitUninstaller/">
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>酷我音乐</strong> 是在线数字音乐平台，自2005年成立以来，已经积累了领跑行业的版权曲库和无损音乐库。以及国际前沿的音频技术和高性价比音乐硬件产品，持续致力为用户提供个性化、多元化的音乐体验 。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>酷我音乐</strong> 是在线数字音乐平台，自2005年成立以来，已经积累了领跑行业的版权曲库和无损音乐库。以及国际前沿的音频技术和高性价比音乐硬件产品，持续致力为用户提供个性化、多元化的音乐体验 。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源播放器 ZY Player v2.6.7 全网视频免费观看]]></title>
-        <id>https://runine.github.io/ZYPlayer/</id>
-        <link href="https://runine.github.io/ZYPlayer/">
-        </link>
-        <updated>2020-11-30T10:07:03.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>ZYPlayer</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>ZYPlayer</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
 ]]></content>
     </entry>
 </feed>
