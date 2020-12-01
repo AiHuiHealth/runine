@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-01T12:27:45.981Z</updated>
+    <updated>2020-12-01T20:27:57.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -10,11 +10,22 @@
     <icon>https://runine.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 歪果不求仁</rights>
     <entry>
+        <title type="html"><![CDATA[科学上网全平台客户端合集 + 4K稳定机场推荐]]></title>
+        <id>https://runine.github.io/kexue/</id>
+        <link href="https://runine.github.io/kexue/">
+        </link>
+        <updated>2020-12-02T15:59:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端、V2ray客户端、SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端、V2ray客户端、SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全网最新百度云不限速下载方法合集 持续更新]]></title>
         <id>https://runine.github.io/DuPan/</id>
         <link href="https://runine.github.io/DuPan/">
         </link>
-        <updated>2020-12-01T15:59:04.000Z</updated>
+        <updated>2020-12-02T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
@@ -25,7 +36,7 @@
         <id>https://runine.github.io/Adobe/</id>
         <link href="https://runine.github.io/Adobe/">
         </link>
-        <updated>2020-12-01T15:59:03.000Z</updated>
+        <updated>2020-12-02T15:59:03.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
@@ -36,7 +47,7 @@
         <id>https://runine.github.io/HEU_KMS/</id>
         <link href="https://runine.github.io/HEU_KMS/">
         </link>
-        <updated>2020-12-01T15:59:02.000Z</updated>
+        <updated>2020-12-02T15:59:02.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
@@ -47,18 +58,18 @@
         <id>https://runine.github.io/OfficeToolPlus/</id>
         <link href="https://runine.github.io/OfficeToolPlus/">
         </link>
-        <updated>2020-12-01T15:59:01.000Z</updated>
+        <updated>2020-12-02T15:59:01.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JetBrains系列软件 v2020.2.4.0 中文便携增强激活版]]></title>
+        <title type="html"><![CDATA[JetBrains系列软件 v2020.3.0.0 中文便携增强激活版]]></title>
         <id>https://runine.github.io/JetBrains/</id>
         <link href="https://runine.github.io/JetBrains/">
         </link>
-        <updated>2020-12-01T15:58:59.000Z</updated>
+        <updated>2020-12-01T20:16:58.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>JetBrains</strong> 是一家捷克的软件开发公司，并在俄罗斯的圣彼得堡及美国麻州波士顿都设有办公室，该公司最为人所熟知的产品是Java编程语言开发撰写时所用的集成开发环境：IntelliJ IDEA。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>JetBrains</strong> 是一家捷克的软件开发公司，并在俄罗斯的圣彼得堡及美国麻州波士顿都设有办公室，该公司最为人所熟知的产品是Java编程语言开发撰写时所用的集成开发环境：IntelliJ IDEA。</p>
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酷我音乐 for Win/And v9.1.1.3 去广告免登录VIP特权版]]></title>
-        <id>https://runine.github.io/KwMusic/</id>
-        <link href="https://runine.github.io/KwMusic/">
-        </link>
-        <updated>2020-11-30T10:07:19.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>酷我音乐</strong> 是在线数字音乐平台，自2005年成立以来，已经积累了领跑行业的版权曲库和无损音乐库。以及国际前沿的音频技术和高性价比音乐硬件产品，持续致力为用户提供个性化、多元化的音乐体验 。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>酷我音乐</strong> 是在线数字音乐平台，自2005年成立以来，已经积累了领跑行业的版权曲库和无损音乐库。以及国际前沿的音频技术和高性价比音乐硬件产品，持续致力为用户提供个性化、多元化的音乐体验 。</p>
 ]]></content>
     </entry>
 </feed>
