@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-04T14:02:08.156Z</updated>
+    <updated>2020-12-04T14:31:49.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,6 +65,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[直播必备工具 OBS Studio v26.1.1 免费绿色版]]></title>
+        <id>https://runine.github.io/OBS/</id>
+        <link href="https://runine.github.io/OBS/">
+        </link>
+        <updated>2020-12-04T14:31:32.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>OBS Studio</strong> 是一款开源跨平台免费的视频直播录制软件，完全免费开源，软件内置了一些常用的插件，如窗口捕获、视频捕获设备、文本、图像、媒体源等。支持所有流媒体平台。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>OBS Studio</strong> 是一款开源跨平台免费的视频直播录制软件，完全免费开源，软件内置了一些常用的插件，如窗口捕获、视频捕获设备、文本、图像、媒体源等。支持所有流媒体平台。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[系统映像精简工具箱 MSMG ToolKit v10.9 中文汉化版]]></title>
         <id>https://runine.github.io/MSMG-ToolKit/</id>
         <link href="https://runine.github.io/MSMG-ToolKit/">
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>JetBrains</strong> 是一家捷克的软件开发公司，并在俄罗斯的圣彼得堡及美国麻州波士顿都设有办公室，该公司最为人所熟知的产品是Java编程语言开发撰写时所用的集成开发环境：IntelliJ IDEA。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>JetBrains</strong> 是一家捷克的软件开发公司，并在俄罗斯的圣彼得堡及美国麻州波士顿都设有办公室，该公司最为人所熟知的产品是Java编程语言开发撰写时所用的集成开发环境：IntelliJ IDEA。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻量跨平台代码编辑器 Sublime Text v4.0.4094 绿色便携版]]></title>
-        <id>https://runine.github.io/SublimeText/</id>
-        <link href="https://runine.github.io/SublimeText/">
-        </link>
-        <updated>2020-12-01T08:24:51.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Sublime Text</strong> 是一款轻量、简洁、高效、跨平台的文本编辑器，也是程序员必备的代码编辑器。支持代码补全、代码折叠、语法高亮、自定义皮肤等功能，同时支持多种语言和多种操作系统。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Sublime Text</strong> 是一款轻量、简洁、高效、跨平台的文本编辑器，也是程序员必备的代码编辑器。支持代码补全、代码折叠、语法高亮、自定义皮肤等功能，同时支持多种语言和多种操作系统。</p>
 ]]></content>
     </entry>
 </feed>
