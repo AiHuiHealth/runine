@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-04T15:18:12.446Z</updated>
+    <updated>2020-12-04T15:21:28.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,22 +65,11 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[m3u8格式下载器 N_m3u8DL-CLI v2.8.9 中文绿色便携版]]></title>
-        <id>https://runine.github.io/N_m3u8DL-CLI/</id>
-        <link href="https://runine.github.io/N_m3u8DL-CLI/">
-        </link>
-        <updated>2020-12-04T14:43:24.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>N_m3u8DL-CLI</strong> 是一款免费开源简单易用的M3U8下载器，现在很多视频网站的视频都分割成了小片段，其m3u8就是来记录这一堆地址的文件，使用本下载器可以快速的下载并合并成一个完整的视频文件。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>N_m3u8DL-CLI</strong> 是一款免费开源简单易用的M3U8下载器，现在很多视频网站的视频都分割成了小片段，其m3u8就是来记录这一堆地址的文件，使用本下载器可以快速的下载并合并成一个完整的视频文件。</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[直播必备工具 OBS Studio v26.1.1 免费绿色版]]></title>
         <id>https://runine.github.io/OBS/</id>
         <link href="https://runine.github.io/OBS/">
         </link>
-        <updated>2020-12-04T14:31:32.000Z</updated>
+        <updated>2020-12-04T17:03:32.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>OBS Studio</strong> 是一款开源跨平台免费的视频直播录制软件，完全免费开源，软件内置了一些常用的插件，如窗口捕获、视频捕获设备、文本、图像、媒体源等。支持所有流媒体平台。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>OBS Studio</strong> 是一款开源跨平台免费的视频直播录制软件，完全免费开源，软件内置了一些常用的插件，如窗口捕获、视频捕获设备、文本、图像、媒体源等。支持所有流媒体平台。</p>
@@ -91,10 +80,21 @@
         <id>https://runine.github.io/MSMG-ToolKit/</id>
         <link href="https://runine.github.io/MSMG-ToolKit/">
         </link>
-        <updated>2020-12-04T13:53:41.000Z</updated>
+        <updated>2020-12-04T17:02:41.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>MSMG工具箱</strong>（MSMG ToolKit），是一款Windows系统精简工具，用于对系统映像集成或者移除指定的功能、组件或映像中的内置应用。此工具箱是一个操作方便的集成工具，可自定义系统映像中的功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>MSMG工具箱</strong>（MSMG ToolKit），是一款Windows系统精简工具，用于对系统映像集成或者移除指定的功能、组件或映像中的内置应用。此工具箱是一个操作方便的集成工具，可自定义系统映像中的功能。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[m3u8格式下载器 N_m3u8DL-CLI v2.8.9 中文绿色便携版]]></title>
+        <id>https://runine.github.io/N_m3u8DL-CLI/</id>
+        <link href="https://runine.github.io/N_m3u8DL-CLI/">
+        </link>
+        <updated>2020-12-04T17:01:24.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>N_m3u8DL-CLI</strong> 是一款免费开源简单易用的M3U8下载器，现在很多视频网站的视频都分割成了小片段，其m3u8就是来记录这一堆地址的文件，使用本下载器可以快速的下载并合并成一个完整的视频文件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>N_m3u8DL-CLI</strong> 是一款免费开源简单易用的M3U8下载器，现在很多视频网站的视频都分割成了小片段，其m3u8就是来记录这一堆地址的文件，使用本下载器可以快速的下载并合并成一个完整的视频文件。</p>
 ]]></content>
     </entry>
     <entry>
