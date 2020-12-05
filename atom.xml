@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-05T17:34:38.818Z</updated>
+    <updated>2020-12-05T21:15:21.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,11 +65,22 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[系统清理工具 CleanMyPC v1.10.8.2063 多语言便携版]]></title>
+        <id>https://runine.github.io/CleanMyPC/</id>
+        <link href="https://runine.github.io/CleanMyPC/">
+        </link>
+        <updated>2020-12-05T21:15:15.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>CleanMyPC</strong> 是一款功能强大的系统清理工具。能够帮助你清理系统中的流氓软件以及无效文件，从而提升你的电脑日常运行速度。 CleanMyPC 绝不仅仅是 PC 清理工，它更是您呵护电脑必不可少的绝佳工具。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>CleanMyPC</strong> 是一款功能强大的系统清理工具。能够帮助你清理系统中的流氓软件以及无效文件，从而提升你的电脑日常运行速度。 CleanMyPC 绝不仅仅是 PC 清理工，它更是您呵护电脑必不可少的绝佳工具。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Windows 安全中心移除工具 Remove Windows Defender v4.1]]></title>
         <id>https://runine.github.io/WindowsDefender/</id>
         <link href="https://runine.github.io/WindowsDefender/">
         </link>
-        <updated>2020-12-06T14:26:33.000Z</updated>
+        <updated>2020-12-05T21:15:06.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Remove Windows Defender</strong> 是一款可以彻底移除Windows 安全中心的脚本工具，很多时候我们下载的软件或补丁会被 Windows Defender 删除或者无法运行，此工具就可以完完全全帮你解决此问题！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Remove Windows Defender</strong> 是一款可以彻底移除Windows 安全中心的脚本工具，很多时候我们下载的软件或补丁会被 Windows Defender 删除或者无法运行，此工具就可以完完全全帮你解决此问题！</p>
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>2345看图王</strong> 是一款强大的图片浏览管理软件，软件采用了全球最快的强劲图片引擎，即使在低配置的电脑上也用飞快打开几十兆的大图，带给人们超高清完美画质图像，给您最真实的高清看图效果!</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>2345看图王</strong> 是一款强大的图片浏览管理软件，软件采用了全球最快的强劲图片引擎，即使在低配置的电脑上也用飞快打开几十兆的大图，带给人们超高清完美画质图像，给您最真实的高清看图效果!</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BT磁力种子搜索神器 比特冬Pro v20.12.05.12]]></title>
-        <id>https://runine.github.io/BTzhou/</id>
-        <link href="https://runine.github.io/BTzhou/">
-        </link>
-        <updated>2020-12-05T16:36:27.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>比特冬Pro</strong> 是一款磁力种子搜索下载软件。聚合全网资源，支持百度网盘，迅雷BT磁力资源在线搜索下载，搜索结果按照热度排名，自动摈弃废弃下载链接，简单实用。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>比特冬Pro</strong> 是一款磁力种子搜索下载软件。聚合全网资源，支持百度网盘，迅雷BT磁力资源在线搜索下载，搜索结果按照热度排名，自动摈弃废弃下载链接，简单实用。</p>
 ]]></content>
     </entry>
 </feed>
