@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-05T21:15:45.941Z</updated>
+    <updated>2020-12-05T21:30:14.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -69,10 +69,21 @@
         <id>https://runine.github.io/CleanMyPC/</id>
         <link href="https://runine.github.io/CleanMyPC/">
         </link>
-        <updated>2020-12-05T21:15:15.000Z</updated>
+        <updated>2020-12-05T21:29:42.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>CleanMyPC</strong> 是一款功能强大的系统清理工具。能够帮助你清理系统中的流氓软件以及无效文件，从而提升你的电脑日常运行速度。 CleanMyPC 绝不仅仅是 PC 清理工，它更是您呵护电脑必不可少的绝佳工具。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>CleanMyPC</strong> 是一款功能强大的系统清理工具。能够帮助你清理系统中的流氓软件以及无效文件，从而提升你的电脑日常运行速度。 CleanMyPC 绝不仅仅是 PC 清理工，它更是您呵护电脑必不可少的绝佳工具。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全能系统维护军刀 Glary Utilities Pro v5.155.0.181 多语便携版]]></title>
+        <id>https://runine.github.io/GlaryUtilities/</id>
+        <link href="https://runine.github.io/GlaryUtilities/">
+        </link>
+        <updated>2020-12-05T21:24:32.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Glary Utilities</strong> Glary Utilities 是国外一款系统清理与优化工具集合。能够修理、加速、增强和保护你的PC机。它允许你清理系统垃圾文件，无效的注册表键值，上网记录等。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Glary Utilities</strong> Glary Utilities 是国外一款系统清理与优化工具集合。能够修理、加速、增强和保护你的PC机。它允许你清理系统垃圾文件，无效的注册表键值，上网记录等。</p>
 ]]></content>
     </entry>
     <entry>
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>酷我音乐</strong> 是在线数字音乐平台，自2005年成立以来，已经积累了领跑行业的版权曲库和无损音乐库。以及国际前沿的音频技术和高性价比音乐硬件产品，持续致力为用户提供个性化、多元化的音乐体验 。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>酷我音乐</strong> 是在线数字音乐平台，自2005年成立以来，已经积累了领跑行业的版权曲库和无损音乐库。以及国际前沿的音频技术和高性价比音乐硬件产品，持续致力为用户提供个性化、多元化的音乐体验 。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2345看图王 v10.1.0.8899 去广告绿色版]]></title>
-        <id>https://runine.github.io/2345pic/</id>
-        <link href="https://runine.github.io/2345pic/">
-        </link>
-        <updated>2020-12-05T17:06:13.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>2345看图王</strong> 是一款强大的图片浏览管理软件，软件采用了全球最快的强劲图片引擎，即使在低配置的电脑上也用飞快打开几十兆的大图，带给人们超高清完美画质图像，给您最真实的高清看图效果!</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>2345看图王</strong> 是一款强大的图片浏览管理软件，软件采用了全球最快的强劲图片引擎，即使在低配置的电脑上也用飞快打开几十兆的大图，带给人们超高清完美画质图像，给您最真实的高清看图效果!</p>
 ]]></content>
     </entry>
 </feed>
