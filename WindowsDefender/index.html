@@ -6,7 +6,7 @@
 
 <title>Windows 安全中心移除工具 Remove Windows Defender v4.1 | 歪果不求仁</title>
 
-<link rel="shortcut icon" href="https://runine.github.io/favicon.ico?v=1607252345296">
+<link rel="shortcut icon" href="https://runine.github.io/favicon.ico?v=1607254890653">
 
 <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://runine.github.io/styles/main.css">
@@ -106,7 +106,7 @@
             
         </div>
         <div style="text-align: center">
-            <form id="gridea-search-form" style="position: relative" data-update="1607252345296" action="/search/index.html">
+            <form id="gridea-search-form" style="position: relative" data-update="1607254890653" action="/search/index.html">
                 <input class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="搜索文章" />
                 <i class="fas fa-search gt-c-content-color-first" style="position: absolute; top: 9px; left: 10px;"></i>
             </form>
@@ -155,31 +155,35 @@
 <p><a href="https://gitee.com/Runine/picBed/raw/master/img/Win/Tools/img_RemoveWindowsDefender02.png" target="_blank" title="Windows 安全中心移除工具"><img src="https://gitee.com/Runine/picBed/raw/master/img/Win/Tools/img_RemoveWindowsDefender02.png" /></a></p>
 <hr>
 <h4 id="可选方法">可选方法</h4>
+<blockquote>
 <p><strong>暂时关闭 Windows 安全中心</strong><br>
 只是临时关闭关闭 Windows 安全中心，电脑重启后会重置开启！</p>
-<blockquote>
-<p>设置(Win+i) -&gt; 更新和安全 -&gt; Windows 安全中心 -&gt; 打开 Windows 安全中心 -&gt; 病毒和威胁防护 -&gt; 管理设置 -&gt; 依次关闭 “实时保护” + “云提供的保护” + “自动提交样本” + “篡改防护” 即可！</p>
 </blockquote>
+<p>设置(Win+i) -&gt; 更新和安全 -&gt; Windows 安全中心 -&gt; 打开 Windows 安全中心 -&gt; 病毒和威胁防护 -&gt; 管理设置 -&gt; 依次关闭 “实时保护” + “云提供的保护” + “自动提交样本” + “篡改防护” 即可！</p>
 <hr>
+<blockquote>
 <p><strong>永久关闭 Windows 安全中心</strong><br>
 永久性移除 Windows 安全中心，但是可能系统更新时会反弹！</p>
-<blockquote>
-<p>1. 设置(Win+i) -&gt; 更新和安全 -&gt; Windows 安全中心 -&gt; 打开 Windows 安全中心 -&gt; 病毒和威胁防护 -&gt; 管理设置 -&gt; 依次关闭 “实时保护” + “云提供的保护” + “自动提交样本” + “篡改防护” 。<br>
-2. 右键开始菜单选择运行(Win+R) -&gt; 输入命令 “gpedit.msc” 打开本地组策略 -&gt; 管理模板 -&gt; Windows 组件 -&gt; Windows Defender 防病毒程序 -&gt; 关闭 Windows Defender 防病毒程序 -&gt; 已启用 -&gt; 应用/确定，至此 Windows 安全中心 已经彻底关闭！</p>
 </blockquote>
+<p>1. 设置(Win+i) -&gt; 更新和安全 -&gt; Windows 安全中心 -&gt; 打开 Windows 安全中心 -&gt; 病毒和威胁防护 -&gt; 管理设置 -&gt; 依次关闭 “实时保护” + “云提供的保护” + “自动提交样本” + “篡改防护” 。</p>
+<p>2. 右键开始菜单选择运行(Win+R) -&gt; 输入命令 “gpedit.msc” 打开本地组策略 -&gt; 管理模板 -&gt; Windows 组件 -&gt; Windows Defender 防病毒程序 -&gt; 关闭 Windows Defender 防病毒程序 -&gt; 已启用 -&gt; 应用/确定，至此 Windows 安全中心 已经彻底关闭！</p>
 <hr>
+<blockquote>
 <p><strong>Windows 安全中心移除工具 (歪果推荐)</strong><br>
-我才是主角好吗？歪果..... 我只需一键，前面方法太墨迹了吧！行..... 下面介绍你！<br>
-该工具只需一键就可以彻底移除Windows Defender，并且无法重新安装。修改文件夹和注册表项后，计算机将在10秒内自动重新启动以完成该过程。在运行工具之前，请准备好重新启动计算机，关闭所有正在运行的窗口并保存项目。</p>
-<blockquote>
-<p>运行软件输入 “1” 选择在线移除 (默认)； “2” 选择离线移除 (需要挂载系统镜像，适合系统封装的小伙伴)；</p>
+无需复杂操作，只需一键即可永久性移除 Windows Defender。</p>
 </blockquote>
+<p>该工具只需一键就可以彻底移除Windows Defender，并且无法重新安装。修改文件夹和注册表项后，计算机将在10秒内自动重新启动以完成该过程。在运行工具之前，请准备好重新启动计算机，关闭所有正在运行的窗口并保存项目。</p>
+<p>[1] 选择在线移除 (默认)；<br>
+[2] 选择离线移除 (需要挂载系统镜像，适合系统封装的小伙伴)；<br>
+最后等待工具自动移除Windows Defender，提示完成后重启系统即可！</p>
 <hr>
+<blockquote>
 <p><strong>安全防护软件推荐 (歪果推荐)</strong><br>
-火绒互联网安全软件 — 轻巧、高效、超强防御的安全防护软件。功能强悍，体量轻巧，既干净又安静。它能全面防御病毒、木马、流氓软件、流氓网站等对电脑系统和用户信息的威胁行为。火绒是国产安全软件中的一股清流，首先小巧流畅、不占内存，运行不卡，页面干净清爽，功能实用，自带火绒剑等扩展工具，无乱七八槽的东西；其次，自定义规则灵活，根据行为判断病毒木马，不用经常更新病毒库，不会乱报误杀。</p>
-<p>官网自己下载吧！歪果给你们留个链接！<br>
-预防小白又去某度搜索下载到非正版的捆版软件，到时候都是广告弹窗！<br>
-https://www.huorong.cn</p>
+推荐你卸载掉电脑上乱七八糟或某数字杀软，推荐使用火绒安全防护软件，功能强悍不会乱报误杀。</p>
+</blockquote>
+<p>火绒安全是国产安全软件中的一股清流，首先小巧流畅、不占内存，运行不卡，页面干净清爽，功能实用，自带火绒剑等扩展工具，无乱七八槽的东西；其次，自定义规则灵活，根据行为判断病毒木马，不用经常更新病毒库，不会乱报误杀。</p>
+<p>官网自己下载吧！歪果给你们留个链接！「<a href="https://www.huorong.cn">www.huorong.cn</a>」<br>
+预防小白又去某度搜索下载到非正版的捆版软件，到时候都是广告弹窗！</p>
 <hr>
 <p><strong>文件信息</strong> (请务必核对文件信息，不正确切勿使用! )</p>
 <blockquote>
