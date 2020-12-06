@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-05T21:35:57.684Z</updated>
+    <updated>2020-12-06T10:59:10.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,6 +65,28 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Windows 7/8/10 Manager v5.2.0/2.2.8/3.3.7 多语特别版]]></title>
+        <id>https://runine.github.io/YamicSoft/</id>
+        <link href="https://runine.github.io/YamicSoft/">
+        </link>
+        <updated>2020-12-06T10:57:15.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Windows 7/8/10 Manager</strong> 是一个强大且专业的Windows自定义优化多种实用程序，它允许用户通过提供更多高级选项来优化和定制他们的Windows设备。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Windows 7/8/10 Manager</strong> 是一个强大且专业的Windows自定义优化多种实用程序，它允许用户通过提供更多高级选项来优化和定制他们的Windows设备。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卸载工具 HiBit Uninstaller v2.5.70 多语中文便携版]]></title>
+        <id>https://runine.github.io/HiBitUninstaller/</id>
+        <link href="https://runine.github.io/HiBitUninstaller/">
+        </link>
+        <updated>2020-12-06T10:46:36.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>HiBit Uninstaller</strong> 是一款Windows 程序卸载工具，可以完全卸载 Windows 程序，并且还具有十多个工具，包括驱动器和注册表清理，进程和启动管理器等。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>HiBit Uninstaller</strong> 是一款Windows 程序卸载工具，可以完全卸载 Windows 程序，并且还具有十多个工具，包括驱动器和注册表清理，进程和启动管理器等。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[系统清理工具 CleanMyPC v1.10.8.2063 多语言便携版]]></title>
         <id>https://runine.github.io/CleanMyPC/</id>
         <link href="https://runine.github.io/CleanMyPC/">
@@ -95,28 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>Remove Windows Defender</strong> 是一款可以彻底移除Windows 安全中心的脚本工具，很多时候我们下载的软件或补丁会被 Windows Defender 删除或者无法运行，此工具就可以完完全全帮你解决此问题！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Remove Windows Defender</strong> 是一款可以彻底移除Windows 安全中心的脚本工具，很多时候我们下载的软件或补丁会被 Windows Defender 删除或者无法运行，此工具就可以完完全全帮你解决此问题！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雷电安卓模拟器 v4.0.42 去广告精简绿色便携版]]></title>
-        <id>https://runine.github.io/LDPlayer/</id>
-        <link href="https://runine.github.io/LDPlayer/">
-        </link>
-        <updated>2020-12-05T17:21:49.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>雷电模拟器</strong> 是上海畅指网络旗下的一款安卓模拟器，能够让你在电脑上畅玩手机游戏。使模拟器具备极高兼容性，加上超高帧率模式，能够在电脑上运行高性能、高清手游。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>雷电模拟器</strong> 是上海畅指网络旗下的一款安卓模拟器，能够让你在电脑上畅玩手机游戏。使模拟器具备极高兼容性，加上超高帧率模式，能够在电脑上运行高性能、高清手游。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酷我音乐 for Win/And v9.1.1.3 去广告免登录VIP特权版]]></title>
-        <id>https://runine.github.io/KwMusic/</id>
-        <link href="https://runine.github.io/KwMusic/">
-        </link>
-        <updated>2020-12-05T17:10:08.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>酷我音乐</strong> 是在线数字音乐平台，自2005年成立以来，已经积累了领跑行业的版权曲库和无损音乐库。以及国际前沿的音频技术和高性价比音乐硬件产品，持续致力为用户提供个性化、多元化的音乐体验 。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>酷我音乐</strong> 是在线数字音乐平台，自2005年成立以来，已经积累了领跑行业的版权曲库和无损音乐库。以及国际前沿的音频技术和高性价比音乐硬件产品，持续致力为用户提供个性化、多元化的音乐体验 。</p>
 ]]></content>
     </entry>
 </feed>
