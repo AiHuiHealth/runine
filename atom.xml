@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-06T15:04:14.171Z</updated>
+    <updated>2020-12-07T17:25:15.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -14,7 +14,7 @@
         <id>https://runine.github.io/kexue/</id>
         <link href="https://runine.github.io/kexue/">
         </link>
-        <updated>2020-12-07T15:59:05.000Z</updated>
+        <updated>2020-12-08T15:59:05.000Z</updated>
         <summary type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
@@ -25,7 +25,7 @@
         <id>https://runine.github.io/DuPan/</id>
         <link href="https://runine.github.io/DuPan/">
         </link>
-        <updated>2020-12-07T15:59:04.000Z</updated>
+        <updated>2020-12-08T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
@@ -36,7 +36,7 @@
         <id>https://runine.github.io/Adobe/</id>
         <link href="https://runine.github.io/Adobe/">
         </link>
-        <updated>2020-12-07T15:59:03.000Z</updated>
+        <updated>2020-12-08T15:59:03.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
@@ -47,7 +47,7 @@
         <id>https://runine.github.io/HEU_KMS/</id>
         <link href="https://runine.github.io/HEU_KMS/">
         </link>
-        <updated>2020-12-07T15:59:02.000Z</updated>
+        <updated>2020-12-08T15:59:02.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
@@ -58,10 +58,43 @@
         <id>https://runine.github.io/OfficeToolPlus/</id>
         <link href="https://runine.github.io/OfficeToolPlus/">
         </link>
-        <updated>2020-12-07T15:59:01.000Z</updated>
+        <updated>2020-12-08T15:59:01.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装机必备解压缩工具 WinRAR v6.00 中文绿色便携版]]></title>
+        <id>https://runine.github.io/WinRAR/</id>
+        <link href="https://runine.github.io/WinRAR/">
+        </link>
+        <updated>2020-12-07T16:46:01.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>WinRAR</strong> WinRAR是一款功能强大的压缩包管理器，它提供了RAR和ZIP文件的完整支持，能解压ARJ、CAB、LZH、ACE、TAR、GZ、UUE、BZ2、JAR、ISO格式文件。是目前最受欢迎的解压缩软件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>WinRAR</strong> WinRAR是一款功能强大的压缩包管理器，它提供了RAR和ZIP文件的完整支持，能解压ARJ、CAB、LZH、ACE、TAR、GZ、UUE、BZ2、JAR、ISO格式文件。是目前最受欢迎的解压缩软件。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信PC版 v3.x 多开消息防撤回补丁 20.12.08]]></title>
+        <id>https://runine.github.io/WeChatPatch/</id>
+        <link href="https://runine.github.io/WeChatPatch/">
+        </link>
+        <updated>2020-12-07T16:43:08.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯公司于2011年1月21日推出的一个为智能终端提供即时通讯服务的免费应用程序。一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯公司于2011年1月21日推出的一个为智能终端提供即时通讯服务的免费应用程序。一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装机必备镜像 Windows 10 20H2 八合一纯净精简版]]></title>
+        <id>https://runine.github.io/Windows1020H2/</id>
+        <link href="https://runine.github.io/Windows1020H2/">
+        </link>
+        <updated>2020-12-07T16:38:08.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 八合一纯净精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 八合一纯净精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
 ]]></content>
     </entry>
     <entry>
@@ -84,39 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>CleanMyPC</strong> 是一款功能强大的系统清理工具。能够帮助你清理系统中的流氓软件以及无效文件，从而提升你的电脑日常运行速度。 CleanMyPC 绝不仅仅是 PC 清理工，它更是您呵护电脑必不可少的绝佳工具。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>CleanMyPC</strong> 是一款功能强大的系统清理工具。能够帮助你清理系统中的流氓软件以及无效文件，从而提升你的电脑日常运行速度。 CleanMyPC 绝不仅仅是 PC 清理工，它更是您呵护电脑必不可少的绝佳工具。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 7/8/10 Manager v5.2.0/2.2.8/3.3.7 多语特别版]]></title>
-        <id>https://runine.github.io/YamicSoft/</id>
-        <link href="https://runine.github.io/YamicSoft/">
-        </link>
-        <updated>2020-12-06T10:57:15.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Windows 7/8/10 Manager</strong> 是一个强大且专业的Windows自定义优化多种实用程序，它允许用户通过提供更多高级选项来优化和定制他们的Windows设备。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Windows 7/8/10 Manager</strong> 是一个强大且专业的Windows自定义优化多种实用程序，它允许用户通过提供更多高级选项来优化和定制他们的Windows设备。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卸载工具 HiBit Uninstaller v2.5.70 多语中文便携版]]></title>
-        <id>https://runine.github.io/HiBitUninstaller/</id>
-        <link href="https://runine.github.io/HiBitUninstaller/">
-        </link>
-        <updated>2020-12-06T10:46:36.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>HiBit Uninstaller</strong> 是一款Windows 程序卸载工具，可以完全卸载 Windows 程序，并且还具有十多个工具，包括驱动器和注册表清理，进程和启动管理器等。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>HiBit Uninstaller</strong> 是一款Windows 程序卸载工具，可以完全卸载 Windows 程序，并且还具有十多个工具，包括驱动器和注册表清理，进程和启动管理器等。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全能系统维护军刀 Glary Utilities Pro v5.155.0.181 多语便携版]]></title>
-        <id>https://runine.github.io/GlaryUtilities/</id>
-        <link href="https://runine.github.io/GlaryUtilities/">
-        </link>
-        <updated>2020-12-05T21:24:32.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Glary Utilities</strong> Glary Utilities 是国外一款系统清理与优化工具集合。能够修理、加速、增强和保护你的PC机。它允许你清理系统垃圾文件，无效的注册表键值，上网记录等。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Glary Utilities</strong> Glary Utilities 是国外一款系统清理与优化工具集合。能够修理、加速、增强和保护你的PC机。它允许你清理系统垃圾文件，无效的注册表键值，上网记录等。</p>
 ]]></content>
     </entry>
 </feed>
