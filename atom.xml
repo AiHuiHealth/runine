@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-07T17:26:19.551Z</updated>
+    <updated>2020-12-07T17:30:02.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -87,14 +87,14 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[装机必备镜像 Windows 10 20H2 八合一纯净精简版]]></title>
+        <title type="html"><![CDATA[装机必备镜像 Windows 10 20H2 纯净多合一精简版]]></title>
         <id>https://runine.github.io/Windows1020H2/</id>
         <link href="https://runine.github.io/Windows1020H2/">
         </link>
         <updated>2020-12-07T16:38:08.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 八合一纯净精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
+        <summary type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 纯净多合一精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 八合一纯净精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
+        <content type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 纯净多合一精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
 ]]></content>
     </entry>
     <entry>
