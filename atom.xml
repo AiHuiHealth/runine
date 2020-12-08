@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-08T14:44:06.077Z</updated>
+    <updated>2020-12-08T14:52:48.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -76,6 +76,28 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Adobe Illustrator 2021 25.0.1.66 直装特别版]]></title>
+        <id>https://runine.github.io/Illustrator/</id>
+        <link href="https://runine.github.io/Illustrator/">
+        </link>
+        <updated>2020-12-08T14:52:24.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Adobe Illustrator</strong> （简称AI）是一款 Adobe 公司推出的基于向量的图形制作软件，该软件广泛应用于广告设计、印刷出版、海报书籍、插画绘制、图像处理、PDF文档设计、WEB页面等设计。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Adobe Illustrator</strong> （简称AI）是一款 Adobe 公司推出的基于向量的图形制作软件，该软件广泛应用于广告设计、印刷出版、海报书籍、插画绘制、图像处理、PDF文档设计、WEB页面等设计。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Photoshop 2021 v22.1.0.94​​ 直装特别版]]></title>
+        <id>https://runine.github.io/Photoshop/</id>
+        <link href="https://runine.github.io/Photoshop/">
+        </link>
+        <updated>2020-12-08T14:51:17.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Adobe Photoshop</strong> (简称PS) 是一款 Adobe 公司最知名的软件之一，它集成图像扫描、编辑修改、图像制作、广告创意，图像输入与输出于一体，深受广大平面设计人员和电脑美术爱好者的喜爱。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Adobe Photoshop</strong> (简称PS) 是一款 Adobe 公司最知名的软件之一，它集成图像扫描、编辑修改、图像制作、广告创意，图像输入与输出于一体，深受广大平面设计人员和电脑美术爱好者的喜爱。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[装机必备解压缩工具 WinRAR v6.00 中文绿色便携版]]></title>
         <id>https://runine.github.io/WinRAR/</id>
         <link href="https://runine.github.io/WinRAR/">
@@ -95,28 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯公司于2011年1月21日推出的一个为智能终端提供即时通讯服务的免费应用程序。一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯公司于2011年1月21日推出的一个为智能终端提供即时通讯服务的免费应用程序。一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装机必备镜像 Windows 10 20H2 纯净多合一精简版]]></title>
-        <id>https://runine.github.io/Windows1020H2/</id>
-        <link href="https://runine.github.io/Windows1020H2/">
-        </link>
-        <updated>2020-12-07T16:38:08.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 纯净多合一精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 纯净多合一精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全网热门公共 BitTorrent Tracker 列表每天更新]]></title>
-        <id>https://runine.github.io/Tracker/</id>
-        <link href="https://runine.github.io/Tracker/">
-        </link>
-        <updated>2020-12-07T12:23:05.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>全网热门公共 BitTorrent Tracker 列表</strong> 部分内容来源 TrackersList 由 Github：XIU2 维护。整合了全网热门 Tracker，经过层层过滤，最终得到了一个优质的 Tracker 列表方便大家使用！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>全网热门公共 BitTorrent Tracker 列表</strong> 部分内容来源 TrackersList 由 Github：XIU2 维护。整合了全网热门 Tracker，经过层层过滤，最终得到了一个优质的 Tracker 列表方便大家使用！</p>
 ]]></content>
     </entry>
 </feed>
