@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-07T17:30:59.160Z</updated>
+    <updated>2020-12-08T11:32:46.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -14,7 +14,7 @@
         <id>https://runine.github.io/kexue/</id>
         <link href="https://runine.github.io/kexue/">
         </link>
-        <updated>2020-12-08T15:59:05.000Z</updated>
+        <updated>2020-12-09T15:59:05.000Z</updated>
         <summary type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
@@ -25,7 +25,7 @@
         <id>https://runine.github.io/DuPan/</id>
         <link href="https://runine.github.io/DuPan/">
         </link>
-        <updated>2020-12-08T15:59:04.000Z</updated>
+        <updated>2020-12-09T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
@@ -36,7 +36,7 @@
         <id>https://runine.github.io/Adobe/</id>
         <link href="https://runine.github.io/Adobe/">
         </link>
-        <updated>2020-12-08T15:59:03.000Z</updated>
+        <updated>2020-12-09T15:59:03.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
@@ -47,7 +47,7 @@
         <id>https://runine.github.io/HEU_KMS/</id>
         <link href="https://runine.github.io/HEU_KMS/">
         </link>
-        <updated>2020-12-08T15:59:02.000Z</updated>
+        <updated>2020-12-09T15:59:02.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
@@ -58,10 +58,21 @@
         <id>https://runine.github.io/OfficeToolPlus/</id>
         <link href="https://runine.github.io/OfficeToolPlus/">
         </link>
-        <updated>2020-12-08T15:59:01.000Z</updated>
+        <updated>2020-12-09T15:59:01.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据恢复软件 R-Studio v8.15.180015 多语中文便携版]]></title>
+        <id>https://runine.github.io/RStudio/</id>
+        <link href="https://runine.github.io/RStudio/">
+        </link>
+        <updated>2020-12-09T11:31:48.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>R-Studio</strong> 是一款反删除和数据恢复软件，借助最新颖的独特数据恢复技术。能够恢复严重损坏或未知文件系统的原始文件，灵活的参数设置使您可以完全控制数据恢复，是全面的数据恢复解决方案。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>R-Studio</strong> 是一款反删除和数据恢复软件，借助最新颖的独特数据恢复技术。能够恢复严重损坏或未知文件系统的原始文件，灵活的参数设置使您可以完全控制数据恢复，是全面的数据恢复解决方案。</p>
 ]]></content>
     </entry>
     <entry>
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>全网热门公共 BitTorrent Tracker 列表</strong> 部分内容来源 TrackersList 由 Github：XIU2 维护。整合了全网热门 Tracker，经过层层过滤，最终得到了一个优质的 Tracker 列表方便大家使用！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>全网热门公共 BitTorrent Tracker 列表</strong> 部分内容来源 TrackersList 由 Github：XIU2 维护。整合了全网热门 Tracker，经过层层过滤，最终得到了一个优质的 Tracker 列表方便大家使用！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[系统清理工具 CleanMyPC v1.10.8.2063 多语言便携版]]></title>
-        <id>https://runine.github.io/CleanMyPC/</id>
-        <link href="https://runine.github.io/CleanMyPC/">
-        </link>
-        <updated>2020-12-06T11:20:28.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>CleanMyPC</strong> 是一款功能强大的系统清理工具。能够帮助你清理系统中的流氓软件以及无效文件，从而提升你的电脑日常运行速度。 CleanMyPC 绝不仅仅是 PC 清理工，它更是您呵护电脑必不可少的绝佳工具。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>CleanMyPC</strong> 是一款功能强大的系统清理工具。能够帮助你清理系统中的流氓软件以及无效文件，从而提升你的电脑日常运行速度。 CleanMyPC 绝不仅仅是 PC 清理工，它更是您呵护电脑必不可少的绝佳工具。</p>
 ]]></content>
     </entry>
 </feed>
