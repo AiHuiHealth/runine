@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-08T17:32:05.239Z</updated>
+    <updated>2020-12-08T17:33:28.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,6 +65,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PS多功能整合插件 超级面板v1.0.0 增强汉化版]]></title>
+        <id>https://runine.github.io/CJMB-Plugin/</id>
+        <link href="https://runine.github.io/CJMB-Plugin/">
+        </link>
+        <updated>2020-12-09T14:29:36.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>超级面板</strong> 是一款插件PS多功能整合增强插件。由多款热门强大的插件面板整合制作而成，把我们熟知的DR3/UR3/ILM亮度蒙版都融合了在一起，是一款功能很强大的PS扩展面板插件！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>超级面板</strong> 是一款插件PS多功能整合增强插件。由多款热门强大的插件面板整合制作而成，把我们熟知的DR3/UR3/ILM亮度蒙版都融合了在一起，是一款功能很强大的PS扩展面板插件！</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[数据恢复软件 R-Studio v8.15.180015 多语中文便携版]]></title>
         <id>https://runine.github.io/RStudio/</id>
         <link href="https://runine.github.io/RStudio/">
@@ -73,17 +84,6 @@
         <summary type="html"><![CDATA[<p><strong>R-Studio</strong> 是一款反删除和数据恢复软件，借助最新颖的独特数据恢复技术。能够恢复严重损坏或未知文件系统的原始文件，灵活的参数设置使您可以完全控制数据恢复，是全面的数据恢复解决方案。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>R-Studio</strong> 是一款反删除和数据恢复软件，借助最新颖的独特数据恢复技术。能够恢复严重损坏或未知文件系统的原始文件，灵活的参数设置使您可以完全控制数据恢复，是全面的数据恢复解决方案。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PS多功能整合插件 超级面板v1.0.0 增强汉化版]]></title>
-        <id>https://runine.github.io/CJMB-Plugin/</id>
-        <link href="https://runine.github.io/CJMB-Plugin/">
-        </link>
-        <updated>2020-12-08T17:29:36.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>超级面板</strong>是一款插件PS多功能整合增强插件。由多款热门强大的插件面板整合制作而成，把我们熟知的DR3/UR3/ILM亮度蒙版都融合了在一起，是一款功能很强大的PS扩展面板插件！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>超级面板</strong>是一款插件PS多功能整合增强插件。由多款热门强大的插件面板整合制作而成，把我们熟知的DR3/UR3/ILM亮度蒙版都融合了在一起，是一款功能很强大的PS扩展面板插件！</p>
 ]]></content>
     </entry>
     <entry>
