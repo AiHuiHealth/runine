@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-10T18:26:06.384Z</updated>
+    <updated>2020-12-10T21:59:20.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -76,6 +76,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[腾讯视频 for Win/And v11.8.3145 去广告免登录VIP特权版]]></title>
+        <id>https://runine.github.io/QQLive/</id>
+        <link href="https://runine.github.io/QQLive/">
+        </link>
+        <updated>2020-12-10T21:58:36.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>腾讯视频</strong> 是腾讯推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>腾讯视频</strong> 是腾讯推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[达芬奇 DaVinci Resolve Studio v17.0.0.13 Beta 4 中文特别版]]></title>
         <id>https://runine.github.io/DaVinciResolve/</id>
         <link href="https://runine.github.io/DaVinciResolve/">
@@ -99,24 +110,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[装机必备 微软常用运行库合集 v2020.12.10 x32/64]]></title>
-        <id>https://runine.github.io/MSVC2020/</id>
-        <link href="https://runine.github.io/MSVC2020/">
+        <id>https://runine.github.io/MSVC/</id>
+        <link href="https://runine.github.io/MSVC/">
         </link>
         <updated>2020-12-10T17:57:06.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装机必备 多线程下载器 IDM v6.38.15 绿色便携版]]></title>
-        <id>https://runine.github.io/IDM/</id>
-        <link href="https://runine.github.io/IDM/">
-        </link>
-        <updated>2020-12-10T04:30:50.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Internet Download Manager</strong> 是一款曾获国外著名IT网站最高5星评价的下载软件，IDM即使是在国内，也深受很多资深电脑用户喜欢。特别是配合脚本利用IDM下载百度云盘文件，速度也非常惊人 。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Internet Download Manager</strong> 是一款曾获国外著名IT网站最高5星评价的下载软件，IDM即使是在国内，也深受很多资深电脑用户喜欢。特别是配合脚本利用IDM下载百度云盘文件，速度也非常惊人 。</p>
 ]]></content>
     </entry>
 </feed>
