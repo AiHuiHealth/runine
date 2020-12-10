@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-10T17:23:14.734Z</updated>
+    <updated>2020-12-10T17:57:33.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -69,10 +69,32 @@
         <id>https://runine.github.io/CCleaner/</id>
         <link href="https://runine.github.io/CCleaner/">
         </link>
-        <updated>2020-12-10T17:21:23.000Z</updated>
+        <updated>2020-12-11T15:21:23.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>CCleaner</strong> 是一款由梨子公司（Piriform）开发的系统优化和隐私保护软件，能够清除所有的垃圾文件，全面保护系统隐私，远超国内的主流系统安全辅助软件。在国内用的人也非常多。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>CCleaner</strong> 是一款由梨子公司（Piriform）开发的系统优化和隐私保护软件，能够清除所有的垃圾文件，全面保护系统隐私，远超国内的主流系统安全辅助软件。在国内用的人也非常多。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装机必备 影音播放器 PotPlayer v1.7.21395 去除广告绿色版]]></title>
+        <id>https://runine.github.io/PotPlayer/</id>
+        <link href="https://runine.github.io/PotPlayer/">
+        </link>
+        <updated>2020-12-10T17:57:15.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>PotPlayer</strong> 是由 KMPlayer 的原作者姜勇希在跳槽到 Daum 公司后使用 C++ 完全重写的播放器。它基本上继承了 KMPlayer 方便的滤镜以及外挂式的管理系统。同时简化了内部的解码器体系。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>PotPlayer</strong> 是由 KMPlayer 的原作者姜勇希在跳槽到 Daum 公司后使用 C++ 完全重写的播放器。它基本上继承了 KMPlayer 方便的滤镜以及外挂式的管理系统。同时简化了内部的解码器体系。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装机必备 微软常用运行库合集 v2020.12.10 x32/64]]></title>
+        <id>https://runine.github.io/MSVC2020/</id>
+        <link href="https://runine.github.io/MSVC2020/">
+        </link>
+        <updated>2020-12-10T17:57:06.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
 ]]></content>
     </entry>
     <entry>
@@ -87,17 +109,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[装机必备 微软常用运行库合集 v2020.12.09 x32/64]]></title>
-        <id>https://runine.github.io/MSVC2020/</id>
-        <link href="https://runine.github.io/MSVC2020/">
-        </link>
-        <updated>2020-12-10T04:30:39.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[开源播放器 ZY Player v2.6.9 全网视频免费观看]]></title>
         <id>https://runine.github.io/ZYPlayer/</id>
         <link href="https://runine.github.io/ZYPlayer/">
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>ZYPlayer</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>ZYPlayer</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[桌面护眼工具 CareUEyes v2.0.0.7 中文便携版]]></title>
-        <id>https://runine.github.io/CareUEyes/</id>
-        <link href="https://runine.github.io/CareUEyes/">
-        </link>
-        <updated>2020-12-10T03:29:33.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>CareUEyes</strong> 是一款非常简单易用的屏幕调整护眼软件。经常面对电脑，会对我们的视力造成一定的损害，但是我们又无法避免，毕竟我们的工作就是一天到晚面对电脑，所以小编推荐这个小工具给大家。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>CareUEyes</strong> 是一款非常简单易用的屏幕调整护眼软件。经常面对电脑，会对我们的视力造成一定的损害，但是我们又无法避免，毕竟我们的工作就是一天到晚面对电脑，所以小编推荐这个小工具给大家。</p>
 ]]></content>
     </entry>
 </feed>
