@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-08T17:33:49.998Z</updated>
+    <updated>2020-12-10T03:07:32.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -14,7 +14,7 @@
         <id>https://runine.github.io/kexue/</id>
         <link href="https://runine.github.io/kexue/">
         </link>
-        <updated>2020-12-09T15:59:05.000Z</updated>
+        <updated>2020-12-10T15:59:05.000Z</updated>
         <summary type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
@@ -25,7 +25,7 @@
         <id>https://runine.github.io/DuPan/</id>
         <link href="https://runine.github.io/DuPan/">
         </link>
-        <updated>2020-12-09T15:59:04.000Z</updated>
+        <updated>2020-12-10T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
@@ -36,7 +36,7 @@
         <id>https://runine.github.io/Adobe/</id>
         <link href="https://runine.github.io/Adobe/">
         </link>
-        <updated>2020-12-09T15:59:03.000Z</updated>
+        <updated>2020-12-10T15:59:03.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
@@ -47,7 +47,7 @@
         <id>https://runine.github.io/HEU_KMS/</id>
         <link href="https://runine.github.io/HEU_KMS/">
         </link>
-        <updated>2020-12-09T15:59:02.000Z</updated>
+        <updated>2020-12-10T15:59:02.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
@@ -58,65 +58,65 @@
         <id>https://runine.github.io/OfficeToolPlus/</id>
         <link href="https://runine.github.io/OfficeToolPlus/">
         </link>
-        <updated>2020-12-09T15:59:01.000Z</updated>
+        <updated>2020-12-10T15:59:01.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PS多功能整合插件 超级面板v1.0.0 增强汉化版]]></title>
-        <id>https://runine.github.io/CJMB-Plugin/</id>
-        <link href="https://runine.github.io/CJMB-Plugin/">
+        <title type="html"><![CDATA[装机必备 多线程下载器 IDM v6.38.15 绿色便携版]]></title>
+        <id>https://runine.github.io/IDM/</id>
+        <link href="https://runine.github.io/IDM/">
         </link>
-        <updated>2020-12-09T14:29:36.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>超级面板</strong> 是一款插件PS多功能整合增强插件。由多款热门强大的插件面板整合制作而成，把我们熟知的DR3/UR3/ILM亮度蒙版都融合了在一起，是一款功能很强大的PS扩展面板插件！</p>
+        <updated>2020-12-10T03:07:26.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Internet Download Manager</strong> 是一款曾获国外著名IT网站最高5星评价的下载软件，IDM即使是在国内，也深受很多资深电脑用户喜欢。特别是配合脚本利用IDM下载百度云盘文件，速度也非常惊人 。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>超级面板</strong> 是一款插件PS多功能整合增强插件。由多款热门强大的插件面板整合制作而成，把我们熟知的DR3/UR3/ILM亮度蒙版都融合了在一起，是一款功能很强大的PS扩展面板插件！</p>
+        <content type="html"><![CDATA[<p><strong>Internet Download Manager</strong> 是一款曾获国外著名IT网站最高5星评价的下载软件，IDM即使是在国内，也深受很多资深电脑用户喜欢。特别是配合脚本利用IDM下载百度云盘文件，速度也非常惊人 。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据恢复软件 R-Studio v8.15.180015 多语中文便携版]]></title>
-        <id>https://runine.github.io/RStudio/</id>
-        <link href="https://runine.github.io/RStudio/">
+        <title type="html"><![CDATA[装机必备 微软常用运行库合集 v2020.12.09 x32/64]]></title>
+        <id>https://runine.github.io/MSVC2020/</id>
+        <link href="https://runine.github.io/MSVC2020/">
         </link>
-        <updated>2020-12-09T11:31:48.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>R-Studio</strong> 是一款反删除和数据恢复软件，借助最新颖的独特数据恢复技术。能够恢复严重损坏或未知文件系统的原始文件，灵活的参数设置使您可以完全控制数据恢复，是全面的数据恢复解决方案。</p>
+        <updated>2020-12-10T03:07:17.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>R-Studio</strong> 是一款反删除和数据恢复软件，借助最新颖的独特数据恢复技术。能够恢复严重损坏或未知文件系统的原始文件，灵活的参数设置使您可以完全控制数据恢复，是全面的数据恢复解决方案。</p>
+        <content type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe Illustrator 2021 25.0.1.66 直装特别版]]></title>
-        <id>https://runine.github.io/Illustrator/</id>
-        <link href="https://runine.github.io/Illustrator/">
+        <title type="html"><![CDATA[三维数字雕刻软件 ZBrush v2021.5 多语特别版]]></title>
+        <id>https://runine.github.io/ZBrush/</id>
+        <link href="https://runine.github.io/ZBrush/">
         </link>
-        <updated>2020-12-08T14:52:24.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Adobe Illustrator</strong> （简称AI）是一款 Adobe 公司推出的基于向量的图形制作软件，该软件广泛应用于广告设计、印刷出版、海报书籍、插画绘制、图像处理、PDF文档设计、WEB页面等设计。</p>
+        <updated>2020-12-10T02:59:15.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>ZBrush  2021</strong> 是一款三维数字雕刻软件，不仅拥有多种自定义的画笔工具，帮助你完成 3D 雕刻的绘画，同时你还可以使用虚拟粘土来完成造型工作。从而让你可以在电脑上完成 3D 雕刻模型的制作。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>Adobe Illustrator</strong> （简称AI）是一款 Adobe 公司推出的基于向量的图形制作软件，该软件广泛应用于广告设计、印刷出版、海报书籍、插画绘制、图像处理、PDF文档设计、WEB页面等设计。</p>
+        <content type="html"><![CDATA[<p><strong>ZBrush  2021</strong> 是一款三维数字雕刻软件，不仅拥有多种自定义的画笔工具，帮助你完成 3D 雕刻的绘画，同时你还可以使用虚拟粘土来完成造型工作。从而让你可以在电脑上完成 3D 雕刻模型的制作。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe Photoshop 2021 v22.1.0.94​​ 直装特别版]]></title>
-        <id>https://runine.github.io/Photoshop/</id>
-        <link href="https://runine.github.io/Photoshop/">
+        <title type="html"><![CDATA[专业三维建模软件 Rhinoceros v7.1.20343.09491 中文特别版]]></title>
+        <id>https://runine.github.io/Rhinoceros/</id>
+        <link href="https://runine.github.io/Rhinoceros/">
         </link>
-        <updated>2020-12-08T14:51:17.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Adobe Photoshop</strong> (简称PS) 是一款 Adobe 公司最知名的软件之一，它集成图像扫描、编辑修改、图像制作、广告创意，图像输入与输出于一体，深受广大平面设计人员和电脑美术爱好者的喜爱。</p>
+        <updated>2020-12-10T02:15:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>Rhinoceros 7 (犀牛) 是由美国 Robert McNeel 公司推出的一款强大的专业三维建模软件，在国内外有大量的使用人群，包括知名工作室。它为用户提供了一系列建模和渲染工具，你只需要发挥想象创造力。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>Adobe Photoshop</strong> (简称PS) 是一款 Adobe 公司最知名的软件之一，它集成图像扫描、编辑修改、图像制作、广告创意，图像输入与输出于一体，深受广大平面设计人员和电脑美术爱好者的喜爱。</p>
+        <content type="html"><![CDATA[<p>Rhinoceros 7 (犀牛) 是由美国 Robert McNeel 公司推出的一款强大的专业三维建模软件，在国内外有大量的使用人群，包括知名工作室。它为用户提供了一系列建模和渲染工具，你只需要发挥想象创造力。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[装机必备解压缩工具 WinRAR v6.00 中文绿色便携版]]></title>
-        <id>https://runine.github.io/WinRAR/</id>
-        <link href="https://runine.github.io/WinRAR/">
+        <title type="html"><![CDATA[专业简易翻译器 Easy Translator v16.0.2 免费便携版]]></title>
+        <id>https://runine.github.io/EasyTranslator/</id>
+        <link href="https://runine.github.io/EasyTranslator/">
         </link>
-        <updated>2020-12-07T16:46:01.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>WinRAR</strong> WinRAR是一款功能强大的压缩包管理器，它提供了RAR和ZIP文件的完整支持，能解压ARJ、CAB、LZH、ACE、TAR、GZ、UUE、BZ2、JAR、ISO格式文件。是目前最受欢迎的解压缩软件。</p>
+        <updated>2020-12-10T02:08:33.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Easy Translator</strong> “简易翻译器”是一款强大的翻译工具，让用户能够轻松地把Web内容，信件，聊天和电子邮件的内容翻译成你想要的语言；支持104种语言翻译。协助您日常是一个不错的选择。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>WinRAR</strong> WinRAR是一款功能强大的压缩包管理器，它提供了RAR和ZIP文件的完整支持，能解压ARJ、CAB、LZH、ACE、TAR、GZ、UUE、BZ2、JAR、ISO格式文件。是目前最受欢迎的解压缩软件。</p>
+        <content type="html"><![CDATA[<p><strong>Easy Translator</strong> “简易翻译器”是一款强大的翻译工具，让用户能够轻松地把Web内容，信件，聊天和电子邮件的内容翻译成你想要的语言；支持104种语言翻译。协助您日常是一个不错的选择。</p>
 ]]></content>
     </entry>
 </feed>
