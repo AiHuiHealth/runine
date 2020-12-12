@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-12T10:51:48.930Z</updated>
+    <updated>2020-12-12T11:27:13.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,6 +65,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[装机必备 多线程免费下载器 NDM v1.2 中文汉化版]]></title>
+        <id>https://runine.github.io/NDM/</id>
+        <link href="https://runine.github.io/NDM/">
+        </link>
+        <updated>2020-12-12T11:26:28.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Neat Download Manager</strong> 简称NDM，是一款免费轻量级多线程下载工具。这款下载器很多时候下载速度可以媲美IDM下载器，支持断点续传，HTTP/SOCKS代理协议，支持浏览器扩展，嗅探下载音视频文件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Neat Download Manager</strong> 简称NDM，是一款免费轻量级多线程下载工具。这款下载器很多时候下载速度可以媲美IDM下载器，支持断点续传，HTTP/SOCKS代理协议，支持浏览器扩展，嗅探下载音视频文件。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Adobe通用破解补丁 Adobe Zii 2021 for Mac v6.0.4]]></title>
         <id>https://runine.github.io/Adobe-Zii/</id>
         <link href="https://runine.github.io/Adobe-Zii/">
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[驱动人生国际版 Driver Talent Pro v8.0.0.6 中文绿色版]]></title>
-        <id>https://runine.github.io/DriverTalent/</id>
-        <link href="https://runine.github.io/DriverTalent/">
-        </link>
-        <updated>2020-12-12T07:57:37.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Driver Talent Pro</strong> 驱动人生国际版是一款驱动程序更新程序工具。和国内版对比海外版界面更加简洁，没有弹窗广告和推荐，少了很多国内版一些无用功能。不得不说给老外用的都是好的。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Driver Talent Pro</strong> 驱动人生国际版是一款驱动程序更新程序工具。和国内版对比海外版界面更加简洁，没有弹窗广告和推荐，少了很多国内版一些无用功能。不得不说给老外用的都是好的。</p>
 ]]></content>
     </entry>
 </feed>
