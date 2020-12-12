@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-11T15:48:17.315Z</updated>
+    <updated>2020-12-12T08:33:17.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -14,7 +14,7 @@
         <id>https://runine.github.io/kexue/</id>
         <link href="https://runine.github.io/kexue/">
         </link>
-        <updated>2020-12-11T15:59:05.000Z</updated>
+        <updated>2020-12-12T15:59:05.000Z</updated>
         <summary type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
@@ -25,7 +25,7 @@
         <id>https://runine.github.io/DuPan/</id>
         <link href="https://runine.github.io/DuPan/">
         </link>
-        <updated>2020-12-11T15:59:04.000Z</updated>
+        <updated>2020-12-12T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>众所周知，一直以来百度网盘的限速下载深受网盘用户的诟病，并且自从Pandownload作者被抓之后，大多数百度网盘用户疯狂怒怼百度背后的幕后阴谋。</p>
@@ -36,7 +36,7 @@
         <id>https://runine.github.io/Adobe/</id>
         <link href="https://runine.github.io/Adobe/">
         </link>
-        <updated>2020-12-11T15:59:03.000Z</updated>
+        <updated>2020-12-12T15:59:03.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
@@ -47,7 +47,7 @@
         <id>https://runine.github.io/HEU_KMS/</id>
         <link href="https://runine.github.io/HEU_KMS/">
         </link>
-        <updated>2020-12-11T15:59:02.000Z</updated>
+        <updated>2020-12-12T15:59:02.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
@@ -58,65 +58,65 @@
         <id>https://runine.github.io/OfficeToolPlus/</id>
         <link href="https://runine.github.io/OfficeToolPlus/">
         </link>
-        <updated>2020-12-11T15:59:01.000Z</updated>
+        <updated>2020-12-12T15:59:01.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ 垃圾清理软件 CCleaner Pro v5.75.8238 中文绿色便携版]]></title>
-        <id>https://runine.github.io/CCleaner/</id>
-        <link href="https://runine.github.io/CCleaner/">
+        <title type="html"><![CDATA[文件搜索利器 Everything v1.4.1.1002 官方正式版]]></title>
+        <id>https://runine.github.io/Everything/</id>
+        <link href="https://runine.github.io/Everything/">
         </link>
-        <updated>2020-12-11T15:21:23.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>CCleaner</strong> 是一款由梨子公司（Piriform）开发的系统优化和隐私保护软件，能够清除所有的垃圾文件，全面保护系统隐私，远超国内的主流系统安全辅助软件。在国内用的人也非常多。</p>
+        <updated>2020-12-12T08:01:17.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Everything</strong> 文件搜索利器，小巧免费速度最快的文件搜索工具，其速度之快令人震惊，百G硬盘几十万个文件，可以在几秒钟之内完成NTFS索引；文件名称搜索瞬间呈现结果，关键词高亮。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>CCleaner</strong> 是一款由梨子公司（Piriform）开发的系统优化和隐私保护软件，能够清除所有的垃圾文件，全面保护系统隐私，远超国内的主流系统安全辅助软件。在国内用的人也非常多。</p>
+        <content type="html"><![CDATA[<p><strong>Everything</strong> 文件搜索利器，小巧免费速度最快的文件搜索工具，其速度之快令人震惊，百G硬盘几十万个文件，可以在几秒钟之内完成NTFS索引；文件名称搜索瞬间呈现结果，关键词高亮。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[腾讯视频 for Win/And v11.8.3145 去广告免登录VIP特权版]]></title>
-        <id>https://runine.github.io/QQLive/</id>
-        <link href="https://runine.github.io/QQLive/">
+        <title type="html"><![CDATA[浏览器必装辅助插件 - 油猴脚本管理器 + 脚本持续更新]]></title>
+        <id>https://runine.github.io/Tampermonkey/</id>
+        <link href="https://runine.github.io/Tampermonkey/">
         </link>
-        <updated>2020-12-10T21:58:36.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>腾讯视频</strong> 是腾讯推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
+        <updated>2020-12-12T07:59:48.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>腾讯视频</strong> 是腾讯推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
+        <content type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[达芬奇 DaVinci Resolve Studio v17.0.0.13 Beta 4 中文特别版]]></title>
-        <id>https://runine.github.io/DaVinciResolve/</id>
-        <link href="https://runine.github.io/DaVinciResolve/">
+        <title type="html"><![CDATA[驱动人生国际版 Driver Talent Pro v8.0.0.6 中文绿色版]]></title>
+        <id>https://runine.github.io/DriverTalent/</id>
+        <link href="https://runine.github.io/DriverTalent/">
         </link>
-        <updated>2020-12-10T18:23:04.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>DaVinci Resolve Studio 17</strong> 是一款功能强大的视频剪辑软件，专业8K剪辑、调色、视觉特效和音频后期制作融于一身的解决方案！只要轻轻一点，就能立刻在剪辑、调色、特效和音频流程之间迅速切换。</p>
+        <updated>2020-12-12T07:57:37.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Driver Talent Pro</strong> 驱动人生国际版是一款驱动程序更新程序工具。和国内版对比海外版界面更加简洁，没有弹窗广告和推荐，少了很多国内版一些无用功能。不得不说给老外用的都是好的。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>DaVinci Resolve Studio 17</strong> 是一款功能强大的视频剪辑软件，专业8K剪辑、调色、视觉特效和音频后期制作融于一身的解决方案！只要轻轻一点，就能立刻在剪辑、调色、特效和音频流程之间迅速切换。</p>
+        <content type="html"><![CDATA[<p><strong>Driver Talent Pro</strong> 驱动人生国际版是一款驱动程序更新程序工具。和国内版对比海外版界面更加简洁，没有弹窗广告和推荐，少了很多国内版一些无用功能。不得不说给老外用的都是好的。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[装机必备 影音播放器 PotPlayer v1.7.21395 去除广告绿色版]]></title>
-        <id>https://runine.github.io/PotPlayer/</id>
-        <link href="https://runine.github.io/PotPlayer/">
+        <title type="html"><![CDATA[BT下载客户端 uTorrent Pro v3.5.5.45852 去除广告绿色版]]></title>
+        <id>https://runine.github.io/uTorrent/</id>
+        <link href="https://runine.github.io/uTorrent/">
         </link>
-        <updated>2020-12-10T17:57:15.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>PotPlayer</strong> 是由 KMPlayer 的原作者姜勇希在跳槽到 Daum 公司后使用 C++ 完全重写的播放器。它基本上继承了 KMPlayer 方便的滤镜以及外挂式的管理系统。同时简化了内部的解码器体系。</p>
+        <updated>2020-12-12T07:55:47.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>uTorrent Pro</strong> 是一款非常强大的BT下载客户端，同时也是国外最流行的bt种子下载软件，该软件体积小巧，界面简单，能够支持BT扩展协议、磁力链接、DHT网络、UPnP和RSS订阅自动下载。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>PotPlayer</strong> 是由 KMPlayer 的原作者姜勇希在跳槽到 Daum 公司后使用 C++ 完全重写的播放器。它基本上继承了 KMPlayer 方便的滤镜以及外挂式的管理系统。同时简化了内部的解码器体系。</p>
+        <content type="html"><![CDATA[<p><strong>uTorrent Pro</strong> 是一款非常强大的BT下载客户端，同时也是国外最流行的bt种子下载软件，该软件体积小巧，界面简单，能够支持BT扩展协议、磁力链接、DHT网络、UPnP和RSS订阅自动下载。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[装机必备 微软常用运行库合集 v2020.12.10 x32/64]]></title>
-        <id>https://runine.github.io/MSVC/</id>
-        <link href="https://runine.github.io/MSVC/">
+        <title type="html"><![CDATA[迅雷下载 / 云盘 v11.1.4.1142 不限速SVIP精简绿色版]]></title>
+        <id>https://runine.github.io/Thunde/</id>
+        <link href="https://runine.github.io/Thunde/">
         </link>
-        <updated>2020-12-10T17:57:06.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
+        <updated>2020-12-12T07:54:31.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
+        <content type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
 ]]></content>
     </entry>
 </feed>
