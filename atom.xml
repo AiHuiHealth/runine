@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-17T08:34:29.650Z</updated>
+    <updated>2020-12-17T09:14:17.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,6 +65,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[硬件检测工具 AIDA64 v6.32.5600 多语绿色便携版]]></title>
+        <id>https://runine.github.io/aida64/</id>
+        <link href="https://runine.github.io/aida64/">
+        </link>
+        <updated>2020-12-17T09:14:11.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>AIDA64</strong> 是一款强大的多功能软硬件信息检测工具，提供了诸如协助超频，硬件侦错，压力测试和传感器监测等多种功能，而且还可以对处理器，系统内存和磁盘驱动器的性能进行全面评估。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>AIDA64</strong> 是一款强大的多功能软硬件信息检测工具，提供了诸如协助超频，硬件侦错，压力测试和传感器监测等多种功能，而且还可以对处理器，系统内存和磁盘驱动器的性能进行全面评估。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Adobe Acrobat Pro DC v2020.013.20074 直装特别版]]></title>
         <id>https://runine.github.io/Acrobat/</id>
         <link href="https://runine.github.io/Acrobat/">
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>CrystalDiskMark</strong> 是一款免费的专业磁盘性能测试工具。它是由日本人hiyohiyo开发的硬盘基准测试软件，用于检测机械硬盘及固态硬盘的读取和写入速度，混合随机读写、持续传输率、随机4K性能测试。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>CrystalDiskMark</strong> 是一款免费的专业磁盘性能测试工具。它是由日本人hiyohiyo开发的硬盘基准测试软件，用于检测机械硬盘及固态硬盘的读取和写入速度，混合随机读写、持续传输率、随机4K性能测试。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全网无损付费音乐下载工具 MusicTools v1.9.1.0]]></title>
-        <id>https://runine.github.io/MusicTools/</id>
-        <link href="https://runine.github.io/MusicTools/">
-        </link>
-        <updated>2020-12-14T07:57:36.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>MusicTools</strong> 是一款全网无损付费音乐免费下载工具，软件完全免费使用，支持网易云/QQ音乐/虾米音乐/酷狗音乐/百度音乐等等各大音乐平台的无损付费音乐下载。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>MusicTools</strong> 是一款全网无损付费音乐免费下载工具，软件完全免费使用，支持网易云/QQ音乐/虾米音乐/酷狗音乐/百度音乐等等各大音乐平台的无损付费音乐下载。</p>
 ]]></content>
     </entry>
 </feed>
