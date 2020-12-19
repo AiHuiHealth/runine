@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-19T12:30:16.917Z</updated>
+    <updated>2020-12-19T14:02:41.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,6 +65,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CorelDRAW 2020 v22.2.0.532 中文特别版]]></title>
+        <id>https://runine.github.io/CorelDRAW/</id>
+        <link href="https://runine.github.io/CorelDRAW/">
+        </link>
+        <updated>2020-12-19T13:44:52.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>CorelDRAW Graphics Suite 2020</strong> 是加拿大Corel公司的平面设计软件；这款软件给设计师提供了矢量动画、页面设计、网站制作、位图编辑和网页动画等多种功能。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>CorelDRAW Graphics Suite 2020</strong> 是加拿大Corel公司的平面设计软件；这款软件给设计师提供了矢量动画、页面设计、网站制作、位图编辑和网页动画等多种功能。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[网易有道词典 v8.9.6.0 去广告VIP纯净绿色版]]></title>
         <id>https://runine.github.io/YoudaoDict/</id>
         <link href="https://runine.github.io/YoudaoDict/">
@@ -81,9 +92,9 @@
         <link href="https://runine.github.io/UltraISO/">
         </link>
         <updated>2020-12-19T12:24:49.000Z</updated>
-        <summary type="html"><![CDATA[<p>UltraISO软碟通是一款功能强大而又方便实用的光盘映像文件制作/编辑/转换工具，它可以直接编辑ISO文件和从ISO中提取文件和目录，也可以从CD-ROM制作光盘映像或者将硬盘上的文件制作成ISO文件。</p>
+        <summary type="html"><![CDATA[<p><strong>UltraISO</strong> (软碟通) 是一款功能强大而又方便实用的光盘映像文件制作/编辑/转换工具，它可以直接编辑ISO文件和从ISO中提取文件和目录，也可以从CD-ROM制作光盘映像或者将硬盘上的文件制作成ISO文件。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>UltraISO软碟通是一款功能强大而又方便实用的光盘映像文件制作/编辑/转换工具，它可以直接编辑ISO文件和从ISO中提取文件和目录，也可以从CD-ROM制作光盘映像或者将硬盘上的文件制作成ISO文件。</p>
+        <content type="html"><![CDATA[<p><strong>UltraISO</strong> (软碟通) 是一款功能强大而又方便实用的光盘映像文件制作/编辑/转换工具，它可以直接编辑ISO文件和从ISO中提取文件和目录，也可以从CD-ROM制作光盘映像或者将硬盘上的文件制作成ISO文件。</p>
 ]]></content>
     </entry>
     <entry>
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>优启通</strong> 是IT天空精心打造的一款系统预安装环境（PE），它具有简约、易操作等特点，使用起来十分人性化。以U盘作为使用载体，空间更为充分，携带更为方便。同时整合各种装机必备工具。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>优启通</strong> 是IT天空精心打造的一款系统预安装环境（PE），它具有简约、易操作等特点，使用起来十分人性化。以U盘作为使用载体，空间更为充分，携带更为方便。同时整合各种装机必备工具。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硬件检测工具 硬件狗狗 v2.0.1.11 单文件便携版]]></title>
-        <id>https://runine.github.io/yjgg/</id>
-        <link href="https://runine.github.io/yjgg/">
-        </link>
-        <updated>2020-12-18T05:54:41.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>硬件狗狗</strong> 是快科技推出的一款专业电脑硬件检测工具，电脑性能测试软件。提供硬件中文厂商信息、准确硬件温度监测、综合跑分测试、CPU测试、显卡测试、内存测试、磁盘性能测试功能。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>硬件狗狗</strong> 是快科技推出的一款专业电脑硬件检测工具，电脑性能测试软件。提供硬件中文厂商信息、准确硬件温度监测、综合跑分测试、CPU测试、显卡测试、内存测试、磁盘性能测试功能。</p>
 ]]></content>
     </entry>
 </feed>
