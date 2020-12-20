@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-20T09:07:51.640Z</updated>
+    <updated>2020-12-20T09:33:24.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -80,10 +80,21 @@
         <id>https://runine.github.io/ZYPlayer/</id>
         <link href="https://runine.github.io/ZYPlayer/">
         </link>
-        <updated>2020-12-20T03:40:32.000Z</updated>
+        <updated>2020-12-20T09:33:17.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯视频 for Win/And v11.11.5051 去广告免登录VIP特权版]]></title>
+        <id>https://runine.github.io/QQLive/</id>
+        <link href="https://runine.github.io/QQLive/">
+        </link>
+        <updated>2020-12-20T09:32:44.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>腾讯视频</strong> 是腾讯推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>腾讯视频</strong> 是腾讯推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
 ]]></content>
     </entry>
     <entry>
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>Adobe Zii 2021</strong> 是一款适用于Mac上的Adobe产品破解河蟹工具，可借助这出色的工具一键激活Adobe CC的所有应用程序，支持最新Adobe系列产品激活。软件简单易用，Mac用户电脑必备！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Adobe Zii 2021</strong> 是一款适用于Mac上的Adobe产品破解河蟹工具，可借助这出色的工具一键激活Adobe CC的所有应用程序，支持最新Adobe系列产品激活。软件简单易用，Mac用户电脑必备！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器必装辅助插件 - 油猴脚本管理器 + 脚本持续更新]]></title>
-        <id>https://runine.github.io/Tampermonkey/</id>
-        <link href="https://runine.github.io/Tampermonkey/">
-        </link>
-        <updated>2020-12-20T03:10:38.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Tampermonkey</strong> “油猴”是一款免费的浏览器扩展插件和最为流行的用户脚本管理器，支持市面上几乎所有主流的浏览器。 是chrome插件商店中最火爆的浏览器插件之一，安装后即可开启全新的黑科技浏览体验。</p>
 ]]></content>
     </entry>
 </feed>
