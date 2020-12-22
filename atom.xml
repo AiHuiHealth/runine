@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-21T21:09:19.531Z</updated>
+    <updated>2020-12-22T06:46:33.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -65,6 +65,28 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[视频编辑王 ApowerEdit Pro v1.6.8.13 多语便携版]]></title>
+        <id>https://runine.github.io/ApowerEdit/</id>
+        <link href="https://runine.github.io/ApowerEdit/">
+        </link>
+        <updated>2020-12-22T06:44:21.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>ApowerEdit</strong> (视频编辑王) 是香港 Apowersoft 公司最近开发的一款集分割/剪辑/合并/缩放/裁剪/加马赛克等多功能为一体多轨道视频剪辑软件。为用户轻轻松松创造精彩、生动的视频。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>ApowerEdit</strong> (视频编辑王) 是香港 Apowersoft 公司最近开发的一款集分割/剪辑/合并/缩放/裁剪/加马赛克等多功能为一体多轨道视频剪辑软件。为用户轻轻松松创造精彩、生动的视频。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[批量打印工具 Print Conductor v7.1.2012.18090 多语特别版]]></title>
+        <id>https://runine.github.io/PrintConductor/</id>
+        <link href="https://runine.github.io/PrintConductor/">
+        </link>
+        <updated>2020-12-22T05:07:10.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Print Conductor</strong> 是一款功能强大的文档批量打印工具，快速的打印引擎以及简单的界面来批量打印各种类型的文档。使用直观而简单的界面即可打印许多文件，而无需打开每个文件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Print Conductor</strong> 是一款功能强大的文档批量打印工具，快速的打印引擎以及简单的界面来批量打印各种类型的文档。使用直观而简单的界面即可打印许多文件，而无需打开每个文件。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[专业文字识别软件 ABBYY FineReader v15.0.115.5572 特别版]]></title>
         <id>https://runine.github.io/ABBYY/</id>
         <link href="https://runine.github.io/ABBYY/">
@@ -95,28 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>CareUEyes</strong> 是一款非常简单易用的屏幕调整护眼软件。经常面对电脑，会对我们的视力造成一定的损害，但是我们又无法避免，毕竟我们的工作就是一天到晚面对电脑，所以小编推荐这个小工具给大家。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>CareUEyes</strong> 是一款非常简单易用的屏幕调整护眼软件。经常面对电脑，会对我们的视力造成一定的损害，但是我们又无法避免，毕竟我们的工作就是一天到晚面对电脑，所以小编推荐这个小工具给大家。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[系统优化清理工具 Advanced SystemCare Pro v14.1.0.206]]></title>
-        <id>https://runine.github.io/IObit-Advanced-SystemCare/</id>
-        <link href="https://runine.github.io/IObit-Advanced-SystemCare/">
-        </link>
-        <updated>2020-12-21T18:32:51.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Advanced SystemCare</strong> 是 IObit 公司开发的一款功能强大的电脑系统优化类的软件，软件为用户提供十分丰富的功能，包括防病毒、优化清理、电脑加速以及各种实用的系统优化以及修复清理的工具。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Advanced SystemCare</strong> 是 IObit 公司开发的一款功能强大的电脑系统优化类的软件，软件为用户提供十分丰富的功能，包括防病毒、优化清理、电脑加速以及各种实用的系统优化以及修复清理的工具。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CorelDRAW 2020 v22.2.0.532 中文特别版]]></title>
-        <id>https://runine.github.io/CorelDRAW/</id>
-        <link href="https://runine.github.io/CorelDRAW/">
-        </link>
-        <updated>2020-12-20T13:44:52.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>CorelDRAW Graphics Suite 2020</strong> 是加拿大Corel公司的平面设计软件；这款软件给设计师提供了矢量动画、页面设计、网站制作、位图编辑和网页动画等多种功能。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>CorelDRAW Graphics Suite 2020</strong> 是加拿大Corel公司的平面设计软件；这款软件给设计师提供了矢量动画、页面设计、网站制作、位图编辑和网页动画等多种功能。</p>
 ]]></content>
     </entry>
 </feed>
