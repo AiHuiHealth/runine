@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-22T15:54:14.815Z</updated>
+    <updated>2020-12-22T15:57:47.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -76,6 +76,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KMS激活脚本 Microsoft Activation Scripts v1.4.0]]></title>
+        <id>https://runine.github.io/MAS/</id>
+        <link href="https://runine.github.io/MAS/">
+        </link>
+        <updated>2020-12-22T15:10:04.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Microsoft Activation Scripts</strong> (简称MAS) 是一款多功能集成Microsoft激活脚本，脚本自身具备HWID数字激活/KMS38激活/在线KMS激活，这款批处理版KMS激活脚本最大特色是代码开源，小巧不误报。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Microsoft Activation Scripts</strong> (简称MAS) 是一款多功能集成Microsoft激活脚本，脚本自身具备HWID数字激活/KMS38激活/在线KMS激活，这款批处理版KMS激活脚本最大特色是代码开源，小巧不误报。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[视频编辑王 ApowerEdit Pro v1.6.8.13 多语便携版]]></title>
         <id>https://runine.github.io/ApowerEdit/</id>
         <link href="https://runine.github.io/ApowerEdit/">
@@ -106,17 +117,6 @@
         <summary type="html"><![CDATA[<p><strong>ABBYY FineReader</strong>（泰比）是一款家喻户晓的专业OCR文字识别软件，语言翻译领域领先的专业PDF软件。ABBYY拥有目前最强基于AI的OCR技术，能够识别和转换190种语言，识别准确率高达99.8％。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>ABBYY FineReader</strong>（泰比）是一款家喻户晓的专业OCR文字识别软件，语言翻译领域领先的专业PDF软件。ABBYY拥有目前最强基于AI的OCR技术，能够识别和转换190种语言，识别准确率高达99.8％。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全能系统维护军刀 Glary Utilities Pro v5.157.0.183 多语便携版]]></title>
-        <id>https://runine.github.io/GlaryUtilities/</id>
-        <link href="https://runine.github.io/GlaryUtilities/">
-        </link>
-        <updated>2020-12-21T20:29:30.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Glary Utilities</strong> Glary Utilities 是国外一款系统清理与优化工具集合。能够修理、加速、增强和保护你的PC机。它允许你清理系统垃圾文件，无效的注册表键值，上网记录等。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Glary Utilities</strong> Glary Utilities 是国外一款系统清理与优化工具集合。能够修理、加速、增强和保护你的PC机。它允许你清理系统垃圾文件，无效的注册表键值，上网记录等。</p>
 ]]></content>
     </entry>
 </feed>
