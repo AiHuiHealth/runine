@@ -2,10 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-22T16:04:44.102Z</updated>
+    <updated>2020-12-22T16:32:40.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
+    <subtitle>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;//lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css&quot;&gt;
+&lt;script src=&quot;//lib.baomitu.com/jquery/3.4.1/jquery.min.js&quot;&gt;&lt;/script&gt;</subtitle>
     <logo>https://runine.github.io/images/avatar.png</logo>
     <icon>https://runine.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 歪果不求仁</rights>
