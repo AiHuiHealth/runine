@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-22T15:57:47.037Z</updated>
+    <updated>2020-12-22T16:00:49.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -76,7 +76,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KMS激活脚本 Microsoft Activation Scripts v1.4.0]]></title>
+        <title type="html"><![CDATA[微软激活脚本 Microsoft Activation Scripts v1.4.0]]></title>
         <id>https://runine.github.io/MAS/</id>
         <link href="https://runine.github.io/MAS/">
         </link>
