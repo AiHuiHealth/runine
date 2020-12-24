@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-24T01:12:38.608Z</updated>
+    <updated>2020-12-24T16:38:50.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <id>https://runine.github.io/kexue/</id>
         <link href="https://runine.github.io/kexue/">
         </link>
-        <updated>2020-12-24T15:59:05.000Z</updated>
+        <updated>2020-12-25T15:59:05.000Z</updated>
         <summary type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
@@ -27,7 +27,7 @@
         <id>https://runine.github.io/DuPan/</id>
         <link href="https://runine.github.io/DuPan/">
         </link>
-        <updated>2020-12-24T15:59:04.000Z</updated>
+        <updated>2020-12-25T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[<p>全网最新百度云不限速下载方法合集由 歪果不求仁 小站不定期收集整理更新，没有任何商业目的，任何收费订阅与小站无关，整理发布初心只是为了让广大网友另辟蹊径多一个下载百度网盘资源的方法。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>全网最新百度云不限速下载方法合集由 歪果不求仁 小站不定期收集整理更新，没有任何商业目的，任何收费订阅与小站无关，整理发布初心只是为了让广大网友另辟蹊径多一个下载百度网盘资源的方法。</p>
@@ -38,21 +38,10 @@
         <id>https://runine.github.io/Adobe/</id>
         <link href="https://runine.github.io/Adobe/">
         </link>
-        <updated>2020-12-24T15:59:03.000Z</updated>
+        <updated>2020-12-25T15:59:03.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows/Office 激活工具 HEU KMS Activator v20.0.0]]></title>
-        <id>https://runine.github.io/HEU_KMS/</id>
-        <link href="https://runine.github.io/HEU_KMS/">
-        </link>
-        <updated>2020-12-24T15:59:02.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
 ]]></content>
     </entry>
     <entry>
@@ -60,10 +49,32 @@
         <id>https://runine.github.io/OfficeToolPlus/</id>
         <link href="https://runine.github.io/OfficeToolPlus/">
         </link>
-        <updated>2020-12-24T15:59:01.000Z</updated>
+        <updated>2020-12-25T15:59:02.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows/Office 激活工具 HEU KMS Activator v20.0.0]]></title>
+        <id>https://runine.github.io/HEU_KMS/</id>
+        <link href="https://runine.github.io/HEU_KMS/">
+        </link>
+        <updated>2020-12-25T15:59:01.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多功能系统管理器 PC Reviver v3.12.0.44 汉化便携版]]></title>
+        <id>https://runine.github.io/PC-Reviver/</id>
+        <link href="https://runine.github.io/PC-Reviver/">
+        </link>
+        <updated>2020-12-24T16:05:44.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>PC Reviver</strong>是ReviverSoft推出的一款运行在Windows系统上多功能修复、优化和维护PC电脑的软件。拥有先进的诊断工具，可执行全面而完整的扫描以查找您电脑的问题，并有效安全地解决这些问题。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>PC Reviver</strong>是ReviverSoft推出的一款运行在Windows系统上多功能修复、优化和维护PC电脑的软件。拥有先进的诊断工具，可执行全面而完整的扫描以查找您电脑的问题，并有效安全地解决这些问题。</p>
 ]]></content>
     </entry>
     <entry>
@@ -108,17 +119,6 @@
         <summary type="html"><![CDATA[<p><strong>IObit Driver Booster Pro</strong> 是由 IObit 公司出品的一款驱动更新和备份软件，是最好的驱动程序之一；和国内的驱动精灵、驱动人生功能差不多，但没有捆绑，比较简单。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>IObit Driver Booster Pro</strong> 是由 IObit 公司出品的一款驱动更新和备份软件，是最好的驱动程序之一；和国内的驱动精灵、驱动人生功能差不多，但没有捆绑，比较简单。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[系统优化清理工具 Advanced SystemCare Pro v14.1.0.208]]></title>
-        <id>https://runine.github.io/IObit-Advanced-SystemCare/</id>
-        <link href="https://runine.github.io/IObit-Advanced-SystemCare/">
-        </link>
-        <updated>2020-12-23T22:07:04.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Advanced SystemCare</strong> 是 IObit 公司开发的一款功能强大的电脑系统优化类的软件，软件为用户提供十分丰富的功能，包括防病毒、优化清理、电脑加速以及各种实用的系统优化以及修复清理的工具。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Advanced SystemCare</strong> 是 IObit 公司开发的一款功能强大的电脑系统优化类的软件，软件为用户提供十分丰富的功能，包括防病毒、优化清理、电脑加速以及各种实用的系统优化以及修复清理的工具。</p>
 ]]></content>
     </entry>
 </feed>
