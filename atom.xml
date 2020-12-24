@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-24T23:23:29.081Z</updated>
+    <updated>2020-12-24T23:25:09.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -119,6 +119,28 @@
         <summary type="html"><![CDATA[<p><strong>DaVinci Resolve Studio 17</strong> 是一款功能强大的视频剪辑软件，专业8K剪辑、调色、视觉特效和音频后期制作融于一身的解决方案！只要轻轻一点，就能立刻在剪辑、调色、特效和音频流程之间迅速切换。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>DaVinci Resolve Studio 17</strong> 是一款功能强大的视频剪辑软件，专业8K剪辑、调色、视觉特效和音频后期制作融于一身的解决方案！只要轻轻一点，就能立刻在剪辑、调色、特效和音频流程之间迅速切换。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[图像处理软件 ON1 Photo RAW 2021 v15.0.1.9794 多语特别版]]></title>
+        <id>https://runine.github.io/ON1PhotoRAW/</id>
+        <link href="https://runine.github.io/ON1PhotoRAW/">
+        </link>
+        <updated>2020-12-24T21:53:13.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>ON1 Photo RAW 2021</strong> 是一款专业化的摄影后期处理软件，全新的ON1 Photo RAW 2020将摄影师的主要照片编辑需求放在一个屋顶下，使工作流程优雅，强大而又简单。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>ON1 Photo RAW 2021</strong> 是一款专业化的摄影后期处理软件，全新的ON1 Photo RAW 2020将摄影师的主要照片编辑需求放在一个屋顶下，使工作流程优雅，强大而又简单。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装机必备卸载工具 IObit Uninstaller Pro v10.2.0.15 多语便携版]]></title>
+        <id>https://runine.github.io/IObitUninstaller/</id>
+        <link href="https://runine.github.io/IObitUninstaller/">
+        </link>
+        <updated>2020-12-24T21:45:17.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
 ]]></content>
     </entry>
 </feed>
