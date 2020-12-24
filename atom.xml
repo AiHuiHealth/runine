@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-24T23:25:52.106Z</updated>
+    <updated>2020-12-24T23:28:58.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -67,6 +67,63 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[多功能系统优化管理器 PC Reviver v3.12.0.44 汉化便携版]]></title>
+        <id>https://runine.github.io/PC-Reviver/</id>
+        <link href="https://runine.github.io/PC-Reviver/">
+        </link>
+        <updated>2020-12-25T14:05:44.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>PC Reviver</strong>是ReviverSoft推出的一款运行在Windows系统上多功能修复、优化和维护PC电脑的软件。拥有先进的诊断工具，可执行全面而完整的扫描以查找您电脑的问题，并有效安全地解决这些问题。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>PC Reviver</strong>是ReviverSoft推出的一款运行在Windows系统上多功能修复、优化和维护PC电脑的软件。拥有先进的诊断工具，可执行全面而完整的扫描以查找您电脑的问题，并有效安全地解决这些问题。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win10增强菜单工具 StartIsBack++ v2.9.8 多语特别版]]></title>
+        <id>https://runine.github.io/StartIsBack/</id>
+        <link href="https://runine.github.io/StartIsBack/">
+        </link>
+        <updated>2020-12-25T13:44:31.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>StartIsBack</strong> 是一款专为Windows 10/Windows 8.1所设计的开始菜单恢复工具，可以有效的完美<br>
+恢复成完整功能的Windows 7风格开始菜单。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>StartIsBack</strong> 是一款专为Windows 10/Windows 8.1所设计的开始菜单恢复工具，可以有效的完美<br>
+恢复成完整功能的Windows 7风格开始菜单。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装机必备卸载工具 IObit Uninstaller Pro v10.2.0.15 多语便携版]]></title>
+        <id>https://runine.github.io/IObitUninstaller/</id>
+        <link href="https://runine.github.io/IObitUninstaller/">
+        </link>
+        <updated>2020-12-25T12:45:17.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[图像处理软件 ON1 Photo RAW 2021 v15.0.1.9794 多语特别版]]></title>
+        <id>https://runine.github.io/ON1PhotoRAW/</id>
+        <link href="https://runine.github.io/ON1PhotoRAW/">
+        </link>
+        <updated>2020-12-25T11:53:13.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>ON1 Photo RAW 2021</strong> 是一款专业化的摄影后期处理软件，全新的ON1 Photo RAW 2020将摄影师的主要照片编辑需求放在一个屋顶下，使工作流程优雅，强大而又简单。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>ON1 Photo RAW 2021</strong> 是一款专业化的摄影后期处理软件，全新的ON1 Photo RAW 2020将摄影师的主要照片编辑需求放在一个屋顶下，使工作流程优雅，强大而又简单。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[达芬奇 DaVinci Resolve Studio v17.0.0.18 中文特别版]]></title>
+        <id>https://runine.github.io/DaVinciResolve/</id>
+        <link href="https://runine.github.io/DaVinciResolve/">
+        </link>
+        <updated>2020-12-25T10:00:12.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>DaVinci Resolve Studio 17</strong> 是一款功能强大的视频剪辑软件，专业8K剪辑、调色、视觉特效和音频后期制作融于一身的解决方案！只要轻轻一点，就能立刻在剪辑、调色、特效和音频流程之间迅速切换。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>DaVinci Resolve Studio 17</strong> 是一款功能强大的视频剪辑软件，专业8K剪辑、调色、视觉特效和音频后期制作融于一身的解决方案！只要轻轻一点，就能立刻在剪辑、调色、特效和音频流程之间迅速切换。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[专业扫描仪增强软件 VueScan Pro v9.7.38 多语便携版]]></title>
         <id>https://runine.github.io/VueScan/</id>
         <link href="https://runine.github.io/VueScan/">
@@ -86,61 +143,6 @@
         <summary type="html"><![CDATA[<p><strong>IObit SmartDefrag</strong> 是IObit旗下的一款磁盘优化碎片整理软件，采用业界先进的Express Defrag 碎片整理引擎，专为现代大容量硬盘设计的一款免费、高效、快速、智能的磁盘碎片整理。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>IObit SmartDefrag</strong> 是IObit旗下的一款磁盘优化碎片整理软件，采用业界先进的Express Defrag 碎片整理引擎，专为现代大容量硬盘设计的一款免费、高效、快速、智能的磁盘碎片整理。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万兴全能格式转换器 UniConverter v12.5.1.8 多语便携版]]></title>
-        <id>https://runine.github.io/UniConverter/</id>
-        <link href="https://runine.github.io/UniConverter/">
-        </link>
-        <updated>2020-12-24T22:27:34.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>UniConverter</strong>  “万兴优转” 是深圳万兴科技公司开发的一款多功能音视频转换、DVD刻录软件、视频下载软件。并具有内置播放器，可让您享受完美的视觉体验！深受到5000万客户的喜爱。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>UniConverter</strong>  “万兴优转” 是深圳万兴科技公司开发的一款多功能音视频转换、DVD刻录软件、视频下载软件。并具有内置播放器，可让您享受完美的视觉体验！深受到5000万客户的喜爱。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源跨平台代码编辑器 Visual Studio Code v1.52.1 便携版]]></title>
-        <id>https://runine.github.io/VSCode/</id>
-        <link href="https://runine.github.io/VSCode/">
-        </link>
-        <updated>2020-12-24T22:20:44.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Visual Studio Code</strong> 是由微软推出免费开源的一款跨平台代码编辑器，使用 Visual Studio Code 在 Azure 上进行编辑、调试和部署，Visual Studio Code 是一款功能强大的代码编辑器。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Visual Studio Code</strong> 是由微软推出免费开源的一款跨平台代码编辑器，使用 Visual Studio Code 在 Azure 上进行编辑、调试和部署，Visual Studio Code 是一款功能强大的代码编辑器。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[达芬奇 DaVinci Resolve Studio v17.0.0.18 中文特别版]]></title>
-        <id>https://runine.github.io/DaVinciResolve/</id>
-        <link href="https://runine.github.io/DaVinciResolve/">
-        </link>
-        <updated>2020-12-24T22:00:12.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>DaVinci Resolve Studio 17</strong> 是一款功能强大的视频剪辑软件，专业8K剪辑、调色、视觉特效和音频后期制作融于一身的解决方案！只要轻轻一点，就能立刻在剪辑、调色、特效和音频流程之间迅速切换。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>DaVinci Resolve Studio 17</strong> 是一款功能强大的视频剪辑软件，专业8K剪辑、调色、视觉特效和音频后期制作融于一身的解决方案！只要轻轻一点，就能立刻在剪辑、调色、特效和音频流程之间迅速切换。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图像处理软件 ON1 Photo RAW 2021 v15.0.1.9794 多语特别版]]></title>
-        <id>https://runine.github.io/ON1PhotoRAW/</id>
-        <link href="https://runine.github.io/ON1PhotoRAW/">
-        </link>
-        <updated>2020-12-24T21:53:13.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>ON1 Photo RAW 2021</strong> 是一款专业化的摄影后期处理软件，全新的ON1 Photo RAW 2020将摄影师的主要照片编辑需求放在一个屋顶下，使工作流程优雅，强大而又简单。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>ON1 Photo RAW 2021</strong> 是一款专业化的摄影后期处理软件，全新的ON1 Photo RAW 2020将摄影师的主要照片编辑需求放在一个屋顶下，使工作流程优雅，强大而又简单。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装机必备卸载工具 IObit Uninstaller Pro v10.2.0.15 多语便携版]]></title>
-        <id>https://runine.github.io/IObitUninstaller/</id>
-        <link href="https://runine.github.io/IObitUninstaller/">
-        </link>
-        <updated>2020-12-24T21:45:17.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
 ]]></content>
     </entry>
 </feed>
