@@ -4,9 +4,9 @@
 <meta name="description" content=""/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<title>微信PC版 v3.x 多开消息防撤回补丁 20.12.08 | 歪果不求仁</title>
+<title>微信PC版 v3.x 多开消息防撤回补丁 20.12.26 | 歪果不求仁</title>
 
-<link rel="shortcut icon" href="https://runine.github.io/favicon.ico?v=1608897775028">
+<link rel="shortcut icon" href="https://runine.github.io/favicon.ico?v=1608916294540">
 
 <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://runine.github.io/styles/main.css">
@@ -106,7 +106,7 @@
             
         </div>
         <div style="text-align: center">
-            <form id="gridea-search-form" style="position: relative" data-update="1608897775028" action="/search/index.html">
+            <form id="gridea-search-form" style="position: relative" data-update="1608916294540" action="/search/index.html">
                 <input class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="搜索文章" />
                 <i class="fas fa-search gt-c-content-color-first" style="position: absolute; top: 9px; left: 10px;"></i>
             </form>
@@ -118,11 +118,11 @@
         <div class="post-detail gt-bg-theme-color-second">
             <article class="gt-post-content">
                 <h2 class="post-title">
-                    微信PC版 v3.x 多开消息防撤回补丁 20.12.08
+                    微信PC版 v3.x 多开消息防撤回补丁 20.12.26
                 </h2>
                 <div class="post-info">
                     <time class="post-time gt-c-content-color-first">
-                        · 2020-12-08 ·
+                        · 2020-12-26 ·
                     </time>
                     
                         <a href="https://runine.github.io/bPsQcmkfT/" class="post-tags">
@@ -145,7 +145,7 @@
 <p>经常使用微信电脑版的用户都会发现一个蛋疼的事情，那就是微信PC版不支持多开，也就是不能同时登陆多个账号，这对于需要在电脑上登陆多个微信账号的朋友来说肯定是极其的不方便。另外有的时候别人撤回了一些重要消息，会导致我们错失部分重要内容。微信多开消息防撤回补丁，实现多开，同时可防撤回消息。</p>
 <figure data-type="image" tabindex="1"><img src="https://gitee.com/Runine/picBed/raw/master/img/img_wechat.png" alt="微信" loading="lazy"></figure>
 <hr>
-<h4 id="补丁特性">补丁特性</h4>
+<h3 id="补丁特性">补丁特性</h3>
 <ul>
 <li>反汇编处理实现（非HOOK函数劫持补丁，安全无封号风险）</li>
 <li>解除微信客户端多开限制，无限多开且多个账号可正常登陆</li>
@@ -153,7 +153,7 @@
 <li>移除检测升级，无升级提示，点设置关于界面升级按钮无效</li>
 </ul>
 <hr>
-<h4 id="新版特性">新版特性</h4>
+<h3 id="新版特性">新版特性</h3>
 <p>v3.1.0 测试版 (2020.12.05)<br>
 + 可以给群聊设置备注；<br>
 + 可以在聊天列表中不显示某个聊天；<br>
@@ -164,10 +164,33 @@
 + 优化了小程序在电脑上的体验，现在可以把小程序添加到桌面使用<br>
 + 修复了一些已知问题</p>
 <hr>
-<h4 id="使用说明">使用说明</h4>
-<p>下载<a href="https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe">微信</a>官方版并安装，关闭软件（若自动运行）；<br>
-下载此补丁 &quot;以管理员身份运行&quot; 并单击 &quot;应用&quot; 即可；<br>
-享用此软件！</p>
+<h3 id="使用说明">使用说明</h3>
+<p>下载微信官方PC客户端：https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe<br>
+下载多开消息防撤回补丁 &quot;以管理员身份运行&quot; 单击 &quot;应用&quot; 即可；<br>
+或者您还可以OD载入修改 WeChatWin.dll (可查阅以下OD修改示例)</p>
+<hr>
+<h3 id="od修改">OD修改</h3>
+<pre><code>OD载入修改 WeChatWin.dll
+//解除多开，且多账号可正常登陆！
+找到函数WeChatMainWndForPC 领空的Call跟进去
+62FD0206  |.  84C0          test al,al     //改为xor al,al（多号登陆不会被挤出去）
+62FD0208  |.  74 07         je short WeChatWi.62FD0211  
+62FD020A  |.  33DB          xor ebx,ebx
+62FD020C  |.  E9 7A010000   jmp WeChatWi.62FD038B
+62FD0211  |&gt;  E8 6AF9FFFF   call WeChatWi.62FCFB80   //改为nop （客户端无限多开）
+
+//消息防撤，带对方撤回消息提示！
+字符串：pStrMsgid value is null（所在的汇编段）
+5704F857 85C0 test eax,eax  //改为xor eax,eax
+5704F859 74 7B je short WeChatWi.5704F8D6
+5704F85B . |8BC8 mov ecx,eax
+5704F85D . |E8 AEB46100 call WeChatWi.5766AD10
+5704F862 . |85C0 test eax,eax
+5704F864 . |75 62 jnz short WeChatWi.5704F8C8
+5704F866 . |0F1005 E0AD18&gt;movups xmm0,dqword ptr ds:[5818ADE0]
+5704F86D . |83EC 10 sub esp,10
+5704F870 . |BA 74B81F58 mov edx,WeChatWi.581FB874 ; 02_manager\ChatMgr.cpp
+</code></pre>
 <hr>
 <p><strong>文件信息</strong> (请务必核对文件信息，不正确切勿使用! )</p>
 <blockquote>
@@ -197,8 +220,8 @@ SHA1: 4eb327e39fa6ea904ce48d5d01423c6dac583ffe</p>
         
             <div class="next-post">
                 <div class="next gt-c-content-color-first">下一篇</div>
-                <a href="https://runine.github.io/Windows1020H2/" class="post-title gt-a-link">
-                    装机必备镜像 Windows 10 20H2 纯净多合一精简版
+                <a href="https://runine.github.io/PC-Reviver/" class="post-title gt-a-link">
+                    多功能系统优化管理器 PC Reviver v3.12.0.44 汉化便携版
                 </a>
             </div>
         
