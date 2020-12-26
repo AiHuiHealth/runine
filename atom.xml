@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-25T19:17:17.068Z</updated>
+    <updated>2020-12-26T01:22:59.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -67,14 +67,25 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微信PC版 v3.x 多开消息防撤回补丁 20.12.26]]></title>
+        <title type="html"><![CDATA[装机必备 多线程下载器 IDM v6.38.16 绿色便携版]]></title>
+        <id>https://runine.github.io/IDM/</id>
+        <link href="https://runine.github.io/IDM/">
+        </link>
+        <updated>2020-12-26T00:53:22.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Internet Download Manager</strong> 是一款曾获国外著名IT网站最高5星评价的下载软件，IDM即使是在国内，也深受很多资深电脑用户喜欢。特别是配合脚本利用IDM下载百度云盘文件，速度也非常惊人 。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Internet Download Manager</strong> 是一款曾获国外著名IT网站最高5星评价的下载软件，IDM即使是在国内，也深受很多资深电脑用户喜欢。特别是配合脚本利用IDM下载百度云盘文件，速度也非常惊人 。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信PC版 v3.1.xx 多开防撤回补丁 / 微信绿色便携版]]></title>
         <id>https://runine.github.io/WeChatPatch/</id>
         <link href="https://runine.github.io/WeChatPatch/">
         </link>
         <updated>2020-12-25T17:10:49.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯公司于2011年1月21日推出的一个为智能终端提供即时通讯服务的免费应用程序。一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。</p>
+        <summary type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯推出的基于网络的免费短信、语音对讲的手机聊天通讯应用APP，用户可通过手机/平板来发送文字、语音、视频、图片等信息。并且微信提供了公众平台、朋友圈、消息推送等功能。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯公司于2011年1月21日推出的一个为智能终端提供即时通讯服务的免费应用程序。一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。</p>
+        <content type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯推出的基于网络的免费短信、语音对讲的手机聊天通讯应用APP，用户可通过手机/平板来发送文字、语音、视频、图片等信息。并且微信提供了公众平台、朋友圈、消息推送等功能。</p>
 ]]></content>
     </entry>
     <entry>
@@ -132,17 +143,6 @@
         <summary type="html"><![CDATA[<p><strong>DaVinci Resolve Studio 17</strong> 是一款功能强大的视频剪辑软件，专业8K剪辑、调色、视觉特效和音频后期制作融于一身的解决方案！只要轻轻一点，就能立刻在剪辑、调色、特效和音频流程之间迅速切换。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>DaVinci Resolve Studio 17</strong> 是一款功能强大的视频剪辑软件，专业8K剪辑、调色、视觉特效和音频后期制作融于一身的解决方案！只要轻轻一点，就能立刻在剪辑、调色、特效和音频流程之间迅速切换。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专业扫描仪增强软件 VueScan Pro v9.7.38 多语便携版]]></title>
-        <id>https://runine.github.io/VueScan/</id>
-        <link href="https://runine.github.io/VueScan/">
-        </link>
-        <updated>2020-12-24T23:13:58.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>VueScan Pro</strong> 扫描仪增强软件是著名的第三方底片扫描仪驱动程序，支持市场可见绝大多数型号的底片扫描仪，可以更为灵活地控制扫描过程，更深入地发掘硬件潜力，获取色彩完美的高质量扫描结果。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>VueScan Pro</strong> 扫描仪增强软件是著名的第三方底片扫描仪驱动程序，支持市场可见绝大多数型号的底片扫描仪，可以更为灵活地控制扫描过程，更深入地发掘硬件潜力，获取色彩完美的高质量扫描结果。</p>
 ]]></content>
     </entry>
 </feed>
