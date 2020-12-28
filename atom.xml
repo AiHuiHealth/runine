@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2020-12-27T20:37:20.832Z</updated>
+    <updated>2020-12-28T11:48:56.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -64,6 +64,17 @@
         <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装机必备效率神器 QuickLook v3.6.10 增强绿色版]]></title>
+        <id>https://runine.github.io/QuickLook/</id>
+        <link href="https://runine.github.io/QuickLook/">
+        </link>
+        <updated>2020-12-28T11:48:40.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>QuickLook</strong> 是一款 Windows 下的桌面快速预览工具，开源、免费。只需要用鼠标选中文件，然后点击空格，即可预览。就像 macOS 里的那样，支持图片、压缩包、PDF、Office 文档、视频等等。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>QuickLook</strong> 是一款 Windows 下的桌面快速预览工具，开源、免费。只需要用鼠标选中文件，然后点击空格，即可预览。就像 macOS 里的那样，支持图片、压缩包、PDF、Office 文档、视频等等。</p>
 ]]></content>
     </entry>
     <entry>
@@ -130,19 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>PC Reviver</strong>是ReviverSoft推出的一款运行在Windows系统上多功能修复、优化和维护PC电脑的软件。拥有先进的诊断工具，可执行全面而完整的扫描以查找您电脑的问题，并有效安全地解决这些问题。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>PC Reviver</strong>是ReviverSoft推出的一款运行在Windows系统上多功能修复、优化和维护PC电脑的软件。拥有先进的诊断工具，可执行全面而完整的扫描以查找您电脑的问题，并有效安全地解决这些问题。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Win10增强菜单工具 StartIsBack++ v2.9.8 多语特别版]]></title>
-        <id>https://runine.github.io/StartIsBack/</id>
-        <link href="https://runine.github.io/StartIsBack/">
-        </link>
-        <updated>2020-12-25T13:44:31.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>StartIsBack</strong> 是一款专为Windows 10/Windows 8.1所设计的开始菜单恢复工具，可以有效的完美<br>
-恢复成完整功能的Windows 7风格开始菜单。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>StartIsBack</strong> 是一款专为Windows 10/Windows 8.1所设计的开始菜单恢复工具，可以有效的完美<br>
-恢复成完整功能的Windows 7风格开始菜单。</p>
 ]]></content>
     </entry>
 </feed>
