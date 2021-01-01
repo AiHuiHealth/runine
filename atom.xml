@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-01T02:18:22.612Z</updated>
+    <updated>2021-01-01T20:53:16.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <id>https://runine.github.io/kexue/</id>
         <link href="https://runine.github.io/kexue/">
         </link>
-        <updated>2021-01-01T15:59:05.000Z</updated>
+        <updated>2021-01-02T15:59:05.000Z</updated>
         <summary type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
@@ -27,7 +27,7 @@
         <id>https://runine.github.io/DuPan/</id>
         <link href="https://runine.github.io/DuPan/">
         </link>
-        <updated>2021-01-01T15:59:04.000Z</updated>
+        <updated>2021-01-02T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[<p>全网最新百度云不限速下载方法合集由 歪果不求仁 小站不定期收集整理更新，没有任何商业目的，任何收费订阅与小站无关，整理发布初心只是为了让广大网友另辟蹊径多一个下载百度网盘资源的方法。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>全网最新百度云不限速下载方法合集由 歪果不求仁 小站不定期收集整理更新，没有任何商业目的，任何收费订阅与小站无关，整理发布初心只是为了让广大网友另辟蹊径多一个下载百度网盘资源的方法。</p>
@@ -38,7 +38,7 @@
         <id>https://runine.github.io/Adobe/</id>
         <link href="https://runine.github.io/Adobe/">
         </link>
-        <updated>2021-01-01T15:59:03.000Z</updated>
+        <updated>2021-01-02T15:59:03.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
@@ -49,7 +49,7 @@
         <id>https://runine.github.io/OfficeToolPlus/</id>
         <link href="https://runine.github.io/OfficeToolPlus/">
         </link>
-        <updated>2021-01-01T15:59:02.000Z</updated>
+        <updated>2021-01-02T15:59:02.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
@@ -60,10 +60,54 @@
         <id>https://runine.github.io/HEU_KMS/</id>
         <link href="https://runine.github.io/HEU_KMS/">
         </link>
-        <updated>2021-01-01T15:59:01.000Z</updated>
+        <updated>2021-01-02T15:59:01.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搜狗输入法 v10.0.0.4300 去广告精简优化版]]></title>
+        <id>https://runine.github.io/SogouInput/</id>
+        <link href="https://runine.github.io/SogouInput/">
+        </link>
+        <updated>2021-01-01T20:50:41.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>搜狗输入法</strong> 是一款Windows平台下的汉字拼音输入法软件。搜狗输入法是基于搜索引擎技术的、特别适合网民使用的、新一代的输入法产品，为中国国内现今主流汉字拼音输入法之一，奉行永久免费的原则。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>搜狗输入法</strong> 是一款Windows平台下的汉字拼音输入法软件。搜狗输入法是基于搜索引擎技术的、特别适合网民使用的、新一代的输入法产品，为中国国内现今主流汉字拼音输入法之一，奉行永久免费的原则。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源播放器 ZY Player v2.7.1 全网VIP剧集/电影免费观看]]></title>
+        <id>https://runine.github.io/ZYPlayer/</id>
+        <link href="https://runine.github.io/ZYPlayer/">
+        </link>
+        <updated>2021-01-01T20:13:52.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[系统映像精简工具箱 MSMG ToolKit v11.0 中文汉化版]]></title>
+        <id>https://runine.github.io/MSMG-ToolKit/</id>
+        <link href="https://runine.github.io/MSMG-ToolKit/">
+        </link>
+        <updated>2021-01-01T20:05:24.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>MSMG工具箱</strong>（MSMG ToolKit），是一款Windows系统精简工具，用于对系统映像集成或者移除指定的功能、组件或映像中的内置应用。此工具箱是一个操作方便的集成工具，可自定义系统映像中的功能。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>MSMG工具箱</strong>（MSMG ToolKit），是一款Windows系统精简工具，用于对系统映像集成或者移除指定的功能、组件或映像中的内置应用。此工具箱是一个操作方便的集成工具，可自定义系统映像中的功能。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 7/8/10 Manager v5.2.0/2.2.8/3.4.0 多语特别版]]></title>
+        <id>https://runine.github.io/YamicSoft/</id>
+        <link href="https://runine.github.io/YamicSoft/">
+        </link>
+        <updated>2021-01-01T20:04:21.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Windows 7/8/10 Manager</strong> 是一个强大且专业的Windows自定义优化多种实用程序，它允许用户通过提供更多高级选项来优化和定制他们的Windows设备。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Windows 7/8/10 Manager</strong> 是一个强大且专业的Windows自定义优化多种实用程序，它允许用户通过提供更多高级选项来优化和定制他们的Windows设备。</p>
 ]]></content>
     </entry>
     <entry>
@@ -97,50 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>WiseCare365</strong>是由WiseCleaner开发的一款系统清理加速工具；清理注册表和磁盘垃圾文件，保护个人隐私记录，提高电脑使用安全。全球超过一亿五千次下载，是Windows系统运行速度最好的选择！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>WiseCare365</strong>是由WiseCleaner开发的一款系统清理加速工具；清理注册表和磁盘垃圾文件，保护个人隐私记录，提高电脑使用安全。全球超过一亿五千次下载，是Windows系统运行速度最好的选择！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows右键管理工具 v2.2 绿色单文件版]]></title>
-        <id>https://runine.github.io/ContextMenuManager/</id>
-        <link href="https://runine.github.io/ContextMenuManager/">
-        </link>
-        <updated>2020-12-31T18:28:11.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>ContextMenuManager</strong> 是一款功能强大且开源免费的 Windows 资源管理器右键菜单管理工具，你可以自定义进行右键菜单管理，让你随心所欲管理启用或禁用显示右键菜单。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>ContextMenuManager</strong> 是一款功能强大且开源免费的 Windows 资源管理器右键菜单管理工具，你可以自定义进行右键菜单管理，让你随心所欲管理启用或禁用显示右键菜单。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[系统优化清理工具 Advanced SystemCare Pro v14.1.0.210]]></title>
-        <id>https://runine.github.io/IObit-Advanced-SystemCare/</id>
-        <link href="https://runine.github.io/IObit-Advanced-SystemCare/">
-        </link>
-        <updated>2020-12-31T18:19:53.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Advanced SystemCare</strong> 是 IObit 公司开发的一款功能强大的电脑系统优化类的软件，软件为用户提供十分丰富的功能，包括防病毒、优化清理、电脑加速以及各种实用的系统优化以及修复清理的工具。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Advanced SystemCare</strong> 是 IObit 公司开发的一款功能强大的电脑系统优化类的软件，软件为用户提供十分丰富的功能，包括防病毒、优化清理、电脑加速以及各种实用的系统优化以及修复清理的工具。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迅雷下载 / 云盘 v11.1.5.1218 不限速SVIP精简绿色版]]></title>
-        <id>https://runine.github.io/Thunde/</id>
-        <link href="https://runine.github.io/Thunde/">
-        </link>
-        <updated>2020-12-30T16:02:03.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BT磁力种子搜索神器 比特冬Pro v20.12.19.11]]></title>
-        <id>https://runine.github.io/BTzhou/</id>
-        <link href="https://runine.github.io/BTzhou/">
-        </link>
-        <updated>2020-12-30T16:00:18.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>比特冬Pro</strong> 是一款磁力种子搜索下载软件。聚合全网资源，支持百度网盘，迅雷BT磁力资源在线搜索下载，搜索结果按照热度排名，自动摈弃废弃下载链接，简单实用。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>比特冬Pro</strong> 是一款磁力种子搜索下载软件。聚合全网资源，支持百度网盘，迅雷BT磁力资源在线搜索下载，搜索结果按照热度排名，自动摈弃废弃下载链接，简单实用。</p>
 ]]></content>
     </entry>
 </feed>
