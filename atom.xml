@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-04T04:22:03.380Z</updated>
+    <updated>2021-01-04T04:36:20.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -71,10 +71,21 @@
         <id>https://runine.github.io/25/</id>
         <link href="https://runine.github.io/25/">
         </link>
-        <updated>2021-01-04T03:21:01.000Z</updated>
+        <updated>2021-01-04T04:35:00.000Z</updated>
         <summary type="html"><![CDATA[<p>2021/01/04 祝自己25岁生日快乐呀！此摘要想省略..................emmmmm 祝自己生日快乐吧！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>2021/01/04 祝自己25岁生日快乐呀！此摘要想省略..................emmmmm 祝自己生日快乐吧！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专业扫描仪增强软件 VueScan Pro v9.7.40 多语便携版]]></title>
+        <id>https://runine.github.io/VueScan/</id>
+        <link href="https://runine.github.io/VueScan/">
+        </link>
+        <updated>2021-01-04T04:34:34.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>VueScan Pro</strong> 扫描仪增强软件是著名的第三方底片扫描仪驱动程序，支持市场可见绝大多数型号的底片扫描仪，可以更为灵活地控制扫描过程，更深入地发掘硬件潜力，获取色彩完美的高质量扫描结果。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>VueScan Pro</strong> 扫描仪增强软件是著名的第三方底片扫描仪驱动程序，支持市场可见绝大多数型号的底片扫描仪，可以更为灵活地控制扫描过程，更深入地发掘硬件潜力，获取色彩完美的高质量扫描结果。</p>
 ]]></content>
     </entry>
     <entry>
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>MSMG工具箱</strong>（MSMG ToolKit），是一款Windows系统精简工具，用于对系统映像集成或者移除指定的功能、组件或映像中的内置应用。此工具箱是一个操作方便的集成工具，可自定义系统映像中的功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>MSMG工具箱</strong>（MSMG ToolKit），是一款Windows系统精简工具，用于对系统映像集成或者移除指定的功能、组件或映像中的内置应用。此工具箱是一个操作方便的集成工具，可自定义系统映像中的功能。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 7/8/10 Manager v5.2.0/2.2.8/3.4.0 多语特别版]]></title>
-        <id>https://runine.github.io/YamicSoft/</id>
-        <link href="https://runine.github.io/YamicSoft/">
-        </link>
-        <updated>2021-01-01T20:04:21.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Windows 7/8/10 Manager</strong> 是一个强大且专业的Windows自定义优化多种实用程序，它允许用户通过提供更多高级选项来优化和定制他们的Windows设备。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Windows 7/8/10 Manager</strong> 是一个强大且专业的Windows自定义优化多种实用程序，它允许用户通过提供更多高级选项来优化和定制他们的Windows设备。</p>
 ]]></content>
     </entry>
 </feed>
