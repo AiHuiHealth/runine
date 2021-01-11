@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-10T10:12:35.876Z</updated>
+    <updated>2021-01-11T18:59:50.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <id>https://runine.github.io/kexue/</id>
         <link href="https://runine.github.io/kexue/">
         </link>
-        <updated>2021-01-10T15:59:05.000Z</updated>
+        <updated>2021-01-12T15:59:05.000Z</updated>
         <summary type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>目前，各种科学上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的科学上网客户端供大家选择！</p>
@@ -27,7 +27,7 @@
         <id>https://runine.github.io/DuPan/</id>
         <link href="https://runine.github.io/DuPan/">
         </link>
-        <updated>2021-01-10T15:59:04.000Z</updated>
+        <updated>2021-01-12T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[<p>全网最新百度云不限速下载方法合集由 歪果不求仁 小站不定期收集整理更新，没有任何商业目的，任何收费订阅与小站无关，整理发布初心只是为了让广大网友另辟蹊径多一个下载百度网盘资源的方法。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>全网最新百度云不限速下载方法合集由 歪果不求仁 小站不定期收集整理更新，没有任何商业目的，任何收费订阅与小站无关，整理发布初心只是为了让广大网友另辟蹊径多一个下载百度网盘资源的方法。</p>
@@ -38,7 +38,7 @@
         <id>https://runine.github.io/Adobe/</id>
         <link href="https://runine.github.io/Adobe/">
         </link>
-        <updated>2021-01-10T15:59:03.000Z</updated>
+        <updated>2021-01-12T15:59:03.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
@@ -49,7 +49,7 @@
         <id>https://runine.github.io/OfficeToolPlus/</id>
         <link href="https://runine.github.io/OfficeToolPlus/">
         </link>
-        <updated>2021-01-10T15:59:02.000Z</updated>
+        <updated>2021-01-12T15:59:02.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
@@ -60,10 +60,43 @@
         <id>https://runine.github.io/HEU_KMS/</id>
         <link href="https://runine.github.io/HEU_KMS/">
         </link>
-        <updated>2021-01-10T15:59:01.000Z</updated>
+        <updated>2021-01-12T15:59:01.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装机必备系统镜像 Windows 10 20H2 纯净多合一精简版]]></title>
+        <id>https://runine.github.io/Windows1020H2/</id>
+        <link href="https://runine.github.io/Windows1020H2/">
+        </link>
+        <updated>2021-01-11T21:19:23.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 纯净多合一精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 纯净多合一精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万兴全能格式转换器 UniConverter v12.5.3.1 绿色特别版]]></title>
+        <id>https://runine.github.io/UniConverter/</id>
+        <link href="https://runine.github.io/UniConverter/">
+        </link>
+        <updated>2021-01-11T18:49:39.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>UniConverter</strong>  “万兴优转” 是深圳万兴科技公司开发的一款多功能音视频转换、DVD刻录软件、视频下载软件。并具有内置播放器，可让您享受完美的视觉体验！深受到5000万客户的喜爱。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>UniConverter</strong>  “万兴优转” 是深圳万兴科技公司开发的一款多功能音视频转换、DVD刻录软件、视频下载软件。并具有内置播放器，可让您享受完美的视觉体验！深受到5000万客户的喜爱。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迅雷下载 / 云盘 v11.1.6.1242 不限速SVIP精简绿色版]]></title>
+        <id>https://runine.github.io/Thunde/</id>
+        <link href="https://runine.github.io/Thunde/">
+        </link>
+        <updated>2021-01-11T18:42:25.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
 ]]></content>
     </entry>
     <entry>
@@ -75,17 +108,6 @@
         <summary type="html"><![CDATA[<p><strong>SD Maid</strong> (简称SD女佣) 是一款国外非常受欢迎的 Android 系统专业储存卡垃圾文件清理工具，原生无广告有简体中文，其功能非常强大，且清理占用空间少，操作简便，手机SD卡垃圾清理安卓必备利器。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>SD Maid</strong> (简称SD女佣) 是一款国外非常受欢迎的 Android 系统专业储存卡垃圾文件清理工具，原生无广告有简体中文，其功能非常强大，且清理占用空间少，操作简便，手机SD卡垃圾清理安卓必备利器。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装机必备系统镜像 Windows 10 20H2 纯净多合一精简版]]></title>
-        <id>https://runine.github.io/Windows1020H2/</id>
-        <link href="https://runine.github.io/Windows1020H2/">
-        </link>
-        <updated>2021-01-09T21:19:23.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 纯净多合一精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 纯净多合一精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
 ]]></content>
     </entry>
     <entry>
@@ -111,17 +133,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[万兴全能格式转换器 UniConverter v12.5.2.5 绿色特别版]]></title>
-        <id>https://runine.github.io/UniConverter/</id>
-        <link href="https://runine.github.io/UniConverter/">
-        </link>
-        <updated>2021-01-08T09:36:47.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>UniConverter</strong>  “万兴优转” 是深圳万兴科技公司开发的一款多功能音视频转换、DVD刻录软件、视频下载软件。并具有内置播放器，可让您享受完美的视觉体验！深受到5000万客户的喜爱。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>UniConverter</strong>  “万兴优转” 是深圳万兴科技公司开发的一款多功能音视频转换、DVD刻录软件、视频下载软件。并具有内置播放器，可让您享受完美的视觉体验！深受到5000万客户的喜爱。</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[卸载工具 HiBit Uninstaller v2.5.90 多语中文便携版]]></title>
         <id>https://runine.github.io/HiBitUninstaller/</id>
         <link href="https://runine.github.io/HiBitUninstaller/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>HiBit Uninstaller</strong> 是一款Windows 程序卸载工具，可以完全卸载 Windows 程序，并且还具有十多个工具，包括驱动器和注册表清理，进程和启动管理器等。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>HiBit Uninstaller</strong> 是一款Windows 程序卸载工具，可以完全卸载 Windows 程序，并且还具有十多个工具，包括驱动器和注册表清理，进程和启动管理器等。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装机必备 微软常用运行库合集 v2021.01.08 x32/64]]></title>
-        <id>https://runine.github.io/MSVC/</id>
-        <link href="https://runine.github.io/MSVC/">
-        </link>
-        <updated>2021-01-08T08:44:01.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
 ]]></content>
     </entry>
 </feed>
