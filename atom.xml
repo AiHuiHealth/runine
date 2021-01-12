@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-12T16:01:21.059Z</updated>
+    <updated>2021-01-12T16:20:57.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -83,9 +83,9 @@
         <link href="https://runine.github.io/SketchUp/">
         </link>
         <updated>2021-01-12T16:00:11.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>SketchUp</strong> 是Trimble公司推出的一款三维设计软件，是目前行业软件中最优秀的三维建筑设计软件之一，该软件以3d形式设计、记录和传达创意的最直观方式，能够在3D空间完成您的创意项目。</p>
+        <summary type="html"><![CDATA[<p><strong>SketchUp</strong> (草图大师) 是Trimble公司推出的一款三维设计软件，是目前行业软件中最优秀的三维建筑设计软件之一，该软件以3d形式设计、记录和传达创意的最直观方式，能够在3D空间完成您的创意项目。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>SketchUp</strong> 是Trimble公司推出的一款三维设计软件，是目前行业软件中最优秀的三维建筑设计软件之一，该软件以3d形式设计、记录和传达创意的最直观方式，能够在3D空间完成您的创意项目。</p>
+        <content type="html"><![CDATA[<p><strong>SketchUp</strong> (草图大师) 是Trimble公司推出的一款三维设计软件，是目前行业软件中最优秀的三维建筑设计软件之一，该软件以3d形式设计、记录和传达创意的最直观方式，能够在3D空间完成您的创意项目。</p>
 ]]></content>
     </entry>
     <entry>
