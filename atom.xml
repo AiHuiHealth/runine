@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-15T16:48:20.578Z</updated>
+    <updated>2021-01-15T19:38:00.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,28 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Netflix视频下载器 Netflix Video Downloader v1.4.0 多语便携版]]></title>
+        <id>https://runine.github.io/TunePatNVD/</id>
+        <link href="https://runine.github.io/TunePatNVD/">
+        </link>
+        <updated>2021-01-15T19:10:07.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>TunePat Netflix Video Downloader</strong> 是一款Netflix视频下载器，由歪果不求仁便携制作发布，可帮助用户在任何设备上欣赏Netflix电影和电视节目而无需花费流量，同时不会破坏Netflix的局限性。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>TunePat Netflix Video Downloader</strong> 是一款Netflix视频下载器，由歪果不求仁便携制作发布，可帮助用户在任何设备上欣赏Netflix电影和电视节目而无需花费流量，同时不会破坏Netflix的局限性。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify音乐转换 Spotify Converter v1.3.0 多语便携版]]></title>
+        <id>https://runine.github.io/TSC/</id>
+        <link href="https://runine.github.io/TSC/">
+        </link>
+        <updated>2021-01-15T19:04:35.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>TunePat Spotify Converter</strong> 是一款非常好用的音频转换器，专为Spotify用户设计，可将Spotify音乐或播放列表转换为MP3、AAC、WAV或FLAC等其他流行音频格式，并具有无损质量。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>TunePat Spotify Converter</strong> 是一款非常好用的音频转换器，专为Spotify用户设计，可将Spotify音乐或播放列表转换为MP3、AAC、WAV或FLAC等其他流行音频格式，并具有无损质量。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全网无损付费音乐下载工具 MusicTools v1.9.2.0]]></title>
         <id>https://runine.github.io/MusicTools/</id>
         <link href="https://runine.github.io/MusicTools/">
@@ -119,28 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>IObit Uninstaller Pro</strong> 是一款类似的Windows添加/删除程序，其体积小巧，功能强大，运行速度快，可靠性高。其使用方法非常简单，而且还是一款免费软件。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电脑清理优化工具 Wise Care 365 Pro v5.6.3.559 绿色便携版]]></title>
-        <id>https://runine.github.io/WiseCare365/</id>
-        <link href="https://runine.github.io/WiseCare365/">
-        </link>
-        <updated>2021-01-15T16:03:17.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>WiseCare365</strong>是由WiseCleaner开发的一款系统清理加速工具；清理注册表和磁盘垃圾文件，保护个人隐私记录，提高电脑使用安全。全球超过一亿五千次下载，是Windows系统运行速度最好的选择！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>WiseCare365</strong>是由WiseCleaner开发的一款系统清理加速工具；清理注册表和磁盘垃圾文件，保护个人隐私记录，提高电脑使用安全。全球超过一亿五千次下载，是Windows系统运行速度最好的选择！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ 垃圾清理软件 CCleaner Pro v5.76.0.8269 中文绿色便携版]]></title>
-        <id>https://runine.github.io/CCleaner/</id>
-        <link href="https://runine.github.io/CCleaner/">
-        </link>
-        <updated>2021-01-14T22:06:56.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>CCleaner</strong> 是一款由梨子公司（Piriform）开发的系统优化和隐私保护软件，能够清除所有的垃圾文件，全面保护系统隐私，远超国内的主流系统安全辅助软件。在国内用的人也非常多。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>CCleaner</strong> 是一款由梨子公司（Piriform）开发的系统优化和隐私保护软件，能够清除所有的垃圾文件，全面保护系统隐私，远超国内的主流系统安全辅助软件。在国内用的人也非常多。</p>
 ]]></content>
     </entry>
 </feed>
