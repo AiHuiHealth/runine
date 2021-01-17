@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-17T01:11:26.747Z</updated>
+    <updated>2021-01-17T09:42:58.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JetBrains系列软件 v2020.3.1 中文便携增强激活版]]></title>
+        <id>https://runine.github.io/JetBrains/</id>
+        <link href="https://runine.github.io/JetBrains/">
+        </link>
+        <updated>2021-01-17T08:57:54.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>JetBrains</strong> 是一家捷克的软件开发公司，并在俄罗斯的圣彼得堡及美国麻州波士顿都设有办公室，该公司最为人所熟知的产品是Java编程语言开发撰写时所用的集成开发环境：IntelliJ IDEA。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>JetBrains</strong> 是一家捷克的软件开发公司，并在俄罗斯的圣彼得堡及美国麻州波士顿都设有办公室，该公司最为人所熟知的产品是Java编程语言开发撰写时所用的集成开发环境：IntelliJ IDEA。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[垃圾清理工具 Glary Disk Cleaner v5.0.1.228 单文件便携版]]></title>
         <id>https://runine.github.io/Disk-Cleaner/</id>
         <link href="https://runine.github.io/Disk-Cleaner/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>格式工厂</strong> (Format Factory) 是一款功能全面的格式转换软件，支持格式一键转换，支持移动设备等，支持几乎所有主流的多媒体文件格式，无论是音频、视频、图像都可以用格式工厂转换。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>格式工厂</strong> (Format Factory) 是一款功能全面的格式转换软件，支持格式一键转换，支持移动设备等，支持几乎所有主流的多媒体文件格式，无论是音频、视频、图像都可以用格式工厂转换。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信PC版 v3.1.0.66 多开防撤回绿色版]]></title>
-        <id>https://runine.github.io/WeChatPatch/</id>
-        <link href="https://runine.github.io/WeChatPatch/">
-        </link>
-        <updated>2021-01-15T16:31:50.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯推出的基于网络的免费短信、语音对讲的手机聊天通讯应用APP，用户可通过手机/平板来发送文字、语音、视频、图片等信息。并且微信提供了公众平台、朋友圈、消息推送等功能。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯推出的基于网络的免费短信、语音对讲的手机聊天通讯应用APP，用户可通过手机/平板来发送文字、语音、视频、图片等信息。并且微信提供了公众平台、朋友圈、消息推送等功能。</p>
 ]]></content>
     </entry>
 </feed>
