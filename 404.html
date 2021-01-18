@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh_CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Page Not Found</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Page Not Found</title>
   <style>
     * {
       margin: 0;
@@ -15,72 +15,72 @@
       flex-direction: column;
       height: 100vh;
       text-align: center;
+	  width: 100%;
+	  min-height: calc(100vh - 178px);
+      background-image: url(404.svg);
+      background-repeat: no-repeat;
+      background-position: 50%;
+      background-size: cover;
+	  font-family: Dosis,Open Sans,pingfang SC,-apple-system,Helvetica Neue,Helvetica,Arial,PingFang SC,PingFang TC,Hiragino Sans GB,Microsoft Yahei,Microsoft Jhenghei,sans-serif;
     }
-    .box {
-      flex: 1;
-      display: flex;
-      justify-content: center;
-      flex-direction: column;
-    }
-    .number {
-      font-size: 80px;
-      color: #666;
-      font-weight: bold;
-    }
-    .text {
-      font-size: 14px;
-      margin: 24px;
-      color: #333;
-    }
+	
+	.inner-wrapper {
+      position: absolute;
+      width: 100%;
+      text-align: center;
+      padding: 50px 0;
+      top: 50%;
+      transform: translateY(-50%);
+	}
+
+	.inner-wrapper p {
+      font-size: 35px;
+      line-height: 42px;
+      margin: -30px 0 50px;
+	}
+
+
+	.number {
+      margin-bottom: 3rem!important;
+	  font-size: 50px!important;
+	        color: #3c4248;
+
+	}
+
+	.text {
+      color: #757575;
+      opacity: .7;
+	}
+
     .btn-container {
       display: flex;
       justify-content: center;
     }
+	
     .btn {
-      padding: 8px 24px;
+      padding: 10px 36px;
       display: inline-block;
       text-decoration: none;
-      background: #fff;
-      border: 2px solid #efefef;
-      color: #333;
-      margin: 24px;
+      background: #fafcfe;
+      border: 1px solid #3191ff;
+      color: #555;
+      margin: 25px;
       border-radius: 20px;
       cursor: pointer;
       display: flex;
       align-items: center;
     }
-    .footer {
-      padding: 16px;
-      border-top: 1px solid #efefef;
-      color: #777;
-      font-weight: lighter;
-    }
-    .footer a {
-      text-decoration: none;
-      font-weight: bold;
-      color: #000;
-    }
+
   </style>
 </head>
 <body>
-  <div class="box">
-    <div class="number">4 0 4</div>
-    <div class="text">
-      未找到相关页面，请检查网址是否正确。
-    </div>
-    <div class="btn-container">
-      <a class="btn" id="back">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" style="margin-right: 8px;">
-          <path fill="none" d="M0 0h24v24H0z"/>
-          <path d="M5.828 7l2.536 2.536L6.95 10.95 2 6l4.95-4.95 1.414 1.414L5.828 5H13a8 8 0 1 1 0 16H4v-2h9a6 6 0 1 0 0-12H5.828z"/>
-        </svg>
-        返回
-      </a>
-    </div>
-  </div>
-  <footer class="footer">
-    Powered by <a href="https://runine.cn" target="_blank">歪果不求仁</a>
-  </footer>
+<div class="inner-wrapper">
+	<h3 class="number">Page Not Found</h1>
+	<p class="text">未找到相关页面，请检查网址是否正确。</p> 
+	  <div class="btn-container">
+		<a class="btn" id="back">回到首页</a>
+		</div>
+</div>
   <script>
     var back = document.getElementById('back')
     back.onclick = function() { console.log('run...'); history.back() }
