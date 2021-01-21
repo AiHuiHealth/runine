@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-20T23:20:14.113Z</updated>
+    <updated>2021-01-21T00:07:53.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,50 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[4K Video Downloader v4.14.0.4020 多语中文便携版]]></title>
+        <id>https://runine.github.io/4KVD/</id>
+        <link href="https://runine.github.io/4KVD/">
+        </link>
+        <updated>2021-01-21T00:06:04.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>4K Video Downloader</strong>（4K视频下载器）油管高清视频下载利器，可提取视频字幕和音乐，智能下载高清画质视频，一键下载字幕，下载所有油管频道及列表。它是一款支持中文的YouTube高画质视频下载工具。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>4K Video Downloader</strong>（4K视频下载器）油管高清视频下载利器，可提取视频字幕和音乐，智能下载高清画质视频，一键下载字幕，下载所有油管频道及列表。它是一款支持中文的YouTube高画质视频下载工具。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitComet (比特彗星) v1.74 绿色便携豪华版]]></title>
+        <id>https://runine.github.io/BitComet/</id>
+        <link href="https://runine.github.io/BitComet/">
+        </link>
+        <updated>2021-01-20T23:57:39.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>BitComet</strong> (比特彗星) 是一款专业的老牌国产BT下载软件，堪称BT资源下载利器！支持断点续传和边下载边播放下载管理软件，也称BT下载客户端，同时也是一个集BT/HTTP/FTP于一体的下载管理器。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>BitComet</strong> (比特彗星) 是一款专业的老牌国产BT下载软件，堪称BT资源下载利器！支持断点续传和边下载边播放下载管理软件，也称BT下载客户端，同时也是一个集BT/HTTP/FTP于一体的下载管理器。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻量BT下载器 qBittorrent v4.3.3.10 绿色增强版]]></title>
+        <id>https://runine.github.io/qBittorrent/</id>
+        <link href="https://runine.github.io/qBittorrent/">
+        </link>
+        <updated>2021-01-20T23:51:55.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>qBittorrent</strong> 是一款轻量级BitTorrent客户端，支持Linux、windows及其他操作系统，软件简单易用，漂亮的外观，功能强大。现在它可以被视为一个良好的替代其他BitTorrent软件的客户端。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>qBittorrent</strong> 是一款轻量级BitTorrent客户端，支持Linux、windows及其他操作系统，软件简单易用，漂亮的外观，功能强大。现在它可以被视为一个良好的替代其他BitTorrent软件的客户端。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件搜索利器 Everything v1.4.1.1004 官方正式版]]></title>
+        <id>https://runine.github.io/Everything/</id>
+        <link href="https://runine.github.io/Everything/">
+        </link>
+        <updated>2021-01-20T23:34:10.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Everything</strong> 文件搜索利器，小巧免费速度最快的文件搜索工具，其速度之快令人震惊，百G硬盘几十万个文件，可以在几秒钟之内完成NTFS索引；文件名称搜索瞬间呈现结果，关键词高亮。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Everything</strong> 文件搜索利器，小巧免费速度最快的文件搜索工具，其速度之快令人震惊，百G硬盘几十万个文件，可以在几秒钟之内完成NTFS索引；文件名称搜索瞬间呈现结果，关键词高亮。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[优酷视频 for Win/And v8.0.8.12173 去广告绿色版]]></title>
         <id>https://runine.github.io/YouKu/</id>
         <link href="https://runine.github.io/YouKu/">
@@ -97,50 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>PDF Shaper</strong> 强大实用的PDF全能工具箱！这款PDF转换器包含了很多非常实用的PDF功能，可以轻松的把 PDF 转成 Word，PDF 转图像，PDF 加密等。界面简单易用，实乃PDF工具必备利器！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>PDF Shaper</strong> 强大实用的PDF全能工具箱！这款PDF转换器包含了很多非常实用的PDF功能，可以轻松的把 PDF 转成 Word，PDF 转图像，PDF 加密等。界面简单易用，实乃PDF工具必备利器！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JetBrains系列软件 v2020.3.1 中文便携增强激活版]]></title>
-        <id>https://runine.github.io/JetBrains/</id>
-        <link href="https://runine.github.io/JetBrains/">
-        </link>
-        <updated>2021-01-17T08:57:54.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>JetBrains</strong> 是一家捷克的软件开发公司，并在俄罗斯的圣彼得堡及美国麻州波士顿都设有办公室，该公司最为人所熟知的产品是Java编程语言开发撰写时所用的集成开发环境：IntelliJ IDEA。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>JetBrains</strong> 是一家捷克的软件开发公司，并在俄罗斯的圣彼得堡及美国麻州波士顿都设有办公室，该公司最为人所熟知的产品是Java编程语言开发撰写时所用的集成开发环境：IntelliJ IDEA。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[垃圾清理工具 Glary Disk Cleaner v5.0.1.228 单文件便携版]]></title>
-        <id>https://runine.github.io/Disk-Cleaner/</id>
-        <link href="https://runine.github.io/Disk-Cleaner/">
-        </link>
-        <updated>2021-01-17T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Glary Disk Cleaner</strong> 是GlarySoft旗下一款免费的Windows系统垃圾扫描清理工具，简单直观易用，扫描速度非常快，不仅速度快它的清理效果也非常显著。软件由歪果单文件打包制作，只有4.6MB大小。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Glary Disk Cleaner</strong> 是GlarySoft旗下一款免费的Windows系统垃圾扫描清理工具，简单直观易用，扫描速度非常快，不仅速度快它的清理效果也非常显著。软件由歪果单文件打包制作，只有4.6MB大小。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix视频下载器 Netflix Video Downloader v1.4.0 多语便携版]]></title>
-        <id>https://runine.github.io/TunePatNVD/</id>
-        <link href="https://runine.github.io/TunePatNVD/">
-        </link>
-        <updated>2021-01-15T19:10:07.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>TunePat Netflix Video Downloader</strong> 是一款Netflix视频下载器，由歪果不求仁便携制作发布，可帮助用户在任何设备上欣赏Netflix电影和电视节目而无需花费流量，同时不会破坏Netflix的局限性。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>TunePat Netflix Video Downloader</strong> 是一款Netflix视频下载器，由歪果不求仁便携制作发布，可帮助用户在任何设备上欣赏Netflix电影和电视节目而无需花费流量，同时不会破坏Netflix的局限性。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify音乐转换 Spotify Converter v1.3.0 多语便携版]]></title>
-        <id>https://runine.github.io/TSC/</id>
-        <link href="https://runine.github.io/TSC/">
-        </link>
-        <updated>2021-01-15T19:04:35.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>TunePat Spotify Converter</strong> 是一款非常好用的音频转换器，专为Spotify用户设计，可将Spotify音乐或播放列表转换为MP3、AAC、WAV或FLAC等其他流行音频格式，并具有无损质量。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>TunePat Spotify Converter</strong> 是一款非常好用的音频转换器，专为Spotify用户设计，可将Spotify音乐或播放列表转换为MP3、AAC、WAV或FLAC等其他流行音频格式，并具有无损质量。</p>
 ]]></content>
     </entry>
 </feed>
