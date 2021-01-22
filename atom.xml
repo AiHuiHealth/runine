@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-22T06:05:57.816Z</updated>
+    <updated>2021-01-22T06:10:29.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -83,6 +83,10 @@
         <link href="https://runine.github.io/jianying/">
         </link>
         <updated>2021-01-22T06:03:09.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>剪映专业版</strong>是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>剪映专业版</strong>是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CPU检测工具 CPU-Z v1.95.0 简体中文便携版]]></title>
