@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-23T03:02:26.293Z</updated>
+    <updated>2021-01-23T12:41:51.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[开源播放器 ZY Player v2.7.2 全网VIP剧集/电影免费观看]]></title>
+        <id>https://runine.github.io/ZYPlayer/</id>
+        <link href="https://runine.github.io/ZYPlayer/">
+        </link>
+        <updated>2021-01-23T12:37:28.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[剪映专业PC版 for Windows v0.6.9 内测尝鲜版]]></title>
         <id>https://runine.github.io/jianying/</id>
         <link href="https://runine.github.io/jianying/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>BitComet</strong> (比特彗星) 是一款专业的老牌国产BT下载软件，堪称BT资源下载利器！支持断点续传和边下载边播放下载管理软件，也称BT下载客户端，同时也是一个集BT/HTTP/FTP于一体的下载管理器。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>BitComet</strong> (比特彗星) 是一款专业的老牌国产BT下载软件，堪称BT资源下载利器！支持断点续传和边下载边播放下载管理软件，也称BT下载客户端，同时也是一个集BT/HTTP/FTP于一体的下载管理器。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻量BT下载器 qBittorrent v4.3.3.10 绿色增强版]]></title>
-        <id>https://runine.github.io/qBittorrent/</id>
-        <link href="https://runine.github.io/qBittorrent/">
-        </link>
-        <updated>2021-01-20T23:51:55.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>qBittorrent</strong> 是一款轻量级BitTorrent客户端，支持Linux、windows及其他操作系统，软件简单易用，漂亮的外观，功能强大。现在它可以被视为一个良好的替代其他BitTorrent软件的客户端。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>qBittorrent</strong> 是一款轻量级BitTorrent客户端，支持Linux、windows及其他操作系统，软件简单易用，漂亮的外观，功能强大。现在它可以被视为一个良好的替代其他BitTorrent软件的客户端。</p>
 ]]></content>
     </entry>
 </feed>
