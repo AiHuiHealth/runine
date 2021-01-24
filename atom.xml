@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-24T05:54:53.305Z</updated>
+    <updated>2021-01-24T06:02:10.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,7 +78,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[专业三维建模软件 Rhinoceros v7.2.21021.07001 中文特别版]]></title>
+        <title type="html"><![CDATA[三维建模软件 犀牛 Rhinoceros v7.2.21021.07001 中文特别版]]></title>
         <id>https://runine.github.io/Rhinoceros/</id>
         <link href="https://runine.github.io/Rhinoceros/">
         </link>
