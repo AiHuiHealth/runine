@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-25T07:59:05.842Z</updated>
+    <updated>2021-01-25T10:11:24.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[冰点文库下载器 v3.2.15.0122 去广告单文件版]]></title>
+        <id>https://runine.github.io/BingDian/</id>
+        <link href="https://runine.github.io/BingDian/">
+        </link>
+        <updated>2021-01-25T10:09:52.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>冰点文库下载器</strong> 是一款无需积分就可以自由下载百度、豆丁、丁香、畅享、MBALib、HP009、MAX、Book118等文库文档，无需注册和登录。下载的文档最终生成高清晰度的pdf格式文档。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>冰点文库下载器</strong> 是一款无需积分就可以自由下载百度、豆丁、丁香、畅享、MBALib、HP009、MAX、Book118等文库文档，无需注册和登录。下载的文档最终生成高清晰度的pdf格式文档。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[360驱动大师 v2.0.0.1630 纯净单文件便携版]]></title>
         <id>https://runine.github.io/360Driver/</id>
         <link href="https://runine.github.io/360Driver/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>剪映专业版</strong>是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>剪映专业版</strong>是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPU检测工具 CPU-Z v1.95.0 简体中文便携版]]></title>
-        <id>https://runine.github.io/CPUZ/</id>
-        <link href="https://runine.github.io/CPUZ/">
-        </link>
-        <updated>2021-01-22T05:58:27.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>CPU-Z</strong> 是一款CPU检测软件，除了使用Intel或AMD自己的检测软件之外，我们平时使用最多的此类软件就数它了。它支持的CPU种类相当全面，软件的启动速度及检测速度都很快。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>CPU-Z</strong> 是一款CPU检测软件，除了使用Intel或AMD自己的检测软件之外，我们平时使用最多的此类软件就数它了。它支持的CPU种类相当全面，软件的启动速度及检测速度都很快。</p>
 ]]></content>
     </entry>
 </feed>
