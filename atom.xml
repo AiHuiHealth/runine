@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-25T10:11:54.051Z</updated>
+    <updated>2021-01-25T10:20:20.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -83,9 +83,9 @@
         <link href="https://runine.github.io/BingDian/">
         </link>
         <updated>2021-01-25T10:09:52.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>冰点文库下载器</strong> 是一款无需积分就可以自由下载百度、豆丁、丁香、畅享、MBALib、HP009、MAX、Book118等文库文档，无需注册和登录。下载的文档最终生成高清晰度的pdf格式文档。</p>
+        <summary type="html"><![CDATA[<p><strong>冰点文库下载器</strong> 由等雪的鱼开发。是一款免积分免登陆文档下载神器，付费文档免费下载工具、百度文库免费下载工具。可以自由下载百度，豆丁，道客巴巴，丁香，it68，mbalib，畅享网等文库文档。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>冰点文库下载器</strong> 是一款无需积分就可以自由下载百度、豆丁、丁香、畅享、MBALib、HP009、MAX、Book118等文库文档，无需注册和登录。下载的文档最终生成高清晰度的pdf格式文档。</p>
+        <content type="html"><![CDATA[<p><strong>冰点文库下载器</strong> 由等雪的鱼开发。是一款免积分免登陆文档下载神器，付费文档免费下载工具、百度文库免费下载工具。可以自由下载百度，豆丁，道客巴巴，丁香，it68，mbalib，畅享网等文库文档。</p>
 ]]></content>
     </entry>
     <entry>
