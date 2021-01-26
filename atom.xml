@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-26T10:49:26.504Z</updated>
+    <updated>2021-01-26T11:20:40.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2345看图王 v10.2.0.8989 去广告绿色版]]></title>
+        <id>https://runine.github.io/2345pic/</id>
+        <link href="https://runine.github.io/2345pic/">
+        </link>
+        <updated>2021-01-26T11:20:29.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>2345看图王</strong> 是一款强大的图片浏览管理软件，软件采用了全球最快的强劲图片引擎，即使在低配置的电脑上也用飞快打开几十兆的大图，带给人们超高清完美画质图像，给您最真实的高清看图效果!</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>2345看图王</strong> 是一款强大的图片浏览管理软件，软件采用了全球最快的强劲图片引擎，即使在低配置的电脑上也用飞快打开几十兆的大图，带给人们超高清完美画质图像，给您最真实的高清看图效果!</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[雷电模拟器 v4.0.49.0 去广告精简绿色便携版]]></title>
         <id>https://runine.github.io/LDPlayer/</id>
         <link href="https://runine.github.io/LDPlayer/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>Everything</strong> 文件搜索利器，小巧免费速度最快的文件搜索工具，其速度之快令人震惊，百G硬盘几十万个文件，可以在几秒钟之内完成NTFS索引；文件名称搜索瞬间呈现结果，关键词高亮。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Everything</strong> 文件搜索利器，小巧免费速度最快的文件搜索工具，其速度之快令人震惊，百G硬盘几十万个文件，可以在几秒钟之内完成NTFS索引；文件名称搜索瞬间呈现结果，关键词高亮。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[360驱动大师 v2.0.0.1630 纯净单文件便携版]]></title>
-        <id>https://runine.github.io/360Driver/</id>
-        <link href="https://runine.github.io/360Driver/">
-        </link>
-        <updated>2021-01-24T18:17:58.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>360驱动大师</strong> 是一款专业解决驱动安装更新软件，百万级的驱动库支持，驱动安装一键化，无需手动操作，首创的驱动体检技术，让你更直观了解您电脑的状态，体验一键化安装和升级的乐趣。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>360驱动大师</strong> 是一款专业解决驱动安装更新软件，百万级的驱动库支持，驱动安装一键化，无需手动操作，首创的驱动体检技术，让你更直观了解您电脑的状态，体验一键化安装和升级的乐趣。</p>
 ]]></content>
     </entry>
 </feed>
