@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-25T10:21:45.050Z</updated>
+    <updated>2021-01-26T09:35:07.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <id>https://runine.github.io/kexue/</id>
         <link href="https://runine.github.io/kexue/">
         </link>
-        <updated>2021-01-25T15:59:05.000Z</updated>
+        <updated>2021-01-26T15:59:05.000Z</updated>
         <summary type="html"><![CDATA[<p>目前，各种富强上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的富强上网客户端供大家选择！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>目前，各种富强上网协议不断增多，客户端软件也是越来越多。为了方便大家更好的选择或是下载 Trojan客户端 / V2ray客户端 / SSR客户端等，歪果小站整理了目前最流行的富强上网客户端供大家选择！</p>
@@ -27,7 +27,7 @@
         <id>https://runine.github.io/DuPan/</id>
         <link href="https://runine.github.io/DuPan/">
         </link>
-        <updated>2021-01-25T15:59:04.000Z</updated>
+        <updated>2021-01-26T15:59:04.000Z</updated>
         <summary type="html"><![CDATA[<p>全网最新百度云不限速下载方法合集由 歪果不求仁 小站不定期收集整理更新，没有任何商业目的，任何收费订阅与小站无关，整理发布初心只是为了让广大网友另辟蹊径多一个下载百度网盘资源的方法。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>全网最新百度云不限速下载方法合集由 歪果不求仁 小站不定期收集整理更新，没有任何商业目的，任何收费订阅与小站无关，整理发布初心只是为了让广大网友另辟蹊径多一个下载百度网盘资源的方法。</p>
@@ -38,7 +38,7 @@
         <id>https://runine.github.io/Adobe/</id>
         <link href="https://runine.github.io/Adobe/">
         </link>
-        <updated>2021-01-25T15:59:03.000Z</updated>
+        <updated>2021-01-26T15:59:03.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>赢政天下 Adobe 2020/2021</strong> 是 Adobe 公司最新产品安装包合集，包含 Adobe 2020/2021 全系列所有软件，分为大师版光盘镜像和独立安装版软件，由赢政天下 vposy 大神整理发布。</p>
@@ -49,7 +49,7 @@
         <id>https://runine.github.io/OfficeToolPlus/</id>
         <link href="https://runine.github.io/OfficeToolPlus/">
         </link>
-        <updated>2021-01-25T15:59:02.000Z</updated>
+        <updated>2021-01-26T15:59:02.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office Tool Plus</strong> 简称OTP，是一款可以管理您电脑上的office办公软件的小工具，如果您想高速下载或管理电脑上的office办公软件，那使用这款全新的Office Tool Plus一定不会让你失望。</p>
@@ -60,7 +60,7 @@
         <id>https://runine.github.io/HEU_KMS/</id>
         <link href="https://runine.github.io/HEU_KMS/">
         </link>
-        <updated>2021-01-25T15:59:01.000Z</updated>
+        <updated>2021-01-26T15:59:01.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>HEU KMS Activator</strong> 是由 知彼而知己 大神所开发的一款无需联网完美激活 Windows 和 Office 的激活工具，一键即可激活Office/Win，激活后180天需要再次激活，不想动手的可以安装自动续费功能。</p>
@@ -71,21 +71,65 @@
         <id>https://runine.github.io/Windows1020H2/</id>
         <link href="https://runine.github.io/Windows1020H2/">
         </link>
-        <updated>2021-01-25T15:58:59.000Z</updated>
+        <updated>2021-01-26T15:58:59.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 纯净多合一精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Windows 10 20H2</strong> 纯净多合一精简版ISO镜像，由歪果不求仁精简封装制作，纯净无任何三方软件及个人OEM信息。此精简优化版合集，含专业版、企业版、教育版及专业工作站版，能正常更新补丁。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[冰点文库下载器 v3.2.15.0122 去广告单文件版]]></title>
+        <title type="html"><![CDATA[雷电模拟器 v4.0.49.0 去广告精简绿色便携版]]></title>
+        <id>https://runine.github.io/LDPlayer/</id>
+        <link href="https://runine.github.io/LDPlayer/">
+        </link>
+        <updated>2021-01-26T09:02:47.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>雷电模拟器</strong> 是上海畅指网络旗下的一款安卓模拟器，能够让你在电脑上畅玩手机游戏。使模拟器具备极高兼容性，加上超高帧率模式，能够在电脑上运行高性能、高清手游。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>雷电模拟器</strong> 是上海畅指网络旗下的一款安卓模拟器，能够让你在电脑上畅玩手机游戏。使模拟器具备极高兼容性，加上超高帧率模式，能够在电脑上运行高性能、高清手游。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱奇艺视频 for Win/And v8.1.126.2646 去广告绿色版]]></title>
+        <id>https://runine.github.io/iqiyi/</id>
+        <link href="https://runine.github.io/iqiyi/">
+        </link>
+        <updated>2021-01-26T09:01:13.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>爱奇艺视频</strong> 是爱奇艺推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>爱奇艺视频</strong> 是爱奇艺推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卸载工具 HiBit Uninstaller v2.5.95 多语中文便携版]]></title>
+        <id>https://runine.github.io/HiBitUninstaller/</id>
+        <link href="https://runine.github.io/HiBitUninstaller/">
+        </link>
+        <updated>2021-01-26T08:57:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>HiBit Uninstaller</strong> 是一款Windows 程序卸载工具，可以完全卸载 Windows 程序，并且还具有十多个工具，包括驱动器和注册表清理，进程和启动管理器等。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>HiBit Uninstaller</strong> 是一款Windows 程序卸载工具，可以完全卸载 Windows 程序，并且还具有十多个工具，包括驱动器和注册表清理，进程和启动管理器等。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冰点文库下载器 v3.2.15.0125 去广告单文件版]]></title>
         <id>https://runine.github.io/BingDian/</id>
         <link href="https://runine.github.io/BingDian/">
         </link>
-        <updated>2021-01-25T10:09:52.000Z</updated>
+        <updated>2021-01-26T08:54:52.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>冰点文库下载器</strong> 由等雪的鱼开发。是一款免积分免登陆文档下载神器，付费文档免费下载工具、百度文库免费下载工具。可以自由下载百度，豆丁，道客巴巴，丁香，it68，mbalib，畅享网等文库文档。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>冰点文库下载器</strong> 由等雪的鱼开发。是一款免积分免登陆文档下载神器，付费文档免费下载工具、百度文库免费下载工具。可以自由下载百度，豆丁，道客巴巴，丁香，it68，mbalib，畅享网等文库文档。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件搜索利器 Everything v1.4.1.1005 官方正式版]]></title>
+        <id>https://runine.github.io/Everything/</id>
+        <link href="https://runine.github.io/Everything/">
+        </link>
+        <updated>2021-01-26T08:52:54.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Everything</strong> 文件搜索利器，小巧免费速度最快的文件搜索工具，其速度之快令人震惊，百G硬盘几十万个文件，可以在几秒钟之内完成NTFS索引；文件名称搜索瞬间呈现结果，关键词高亮。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Everything</strong> 文件搜索利器，小巧免费速度最快的文件搜索工具，其速度之快令人震惊，百G硬盘几十万个文件，可以在几秒钟之内完成NTFS索引；文件名称搜索瞬间呈现结果，关键词高亮。</p>
 ]]></content>
     </entry>
     <entry>
@@ -97,50 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>360驱动大师</strong> 是一款专业解决驱动安装更新软件，百万级的驱动库支持，驱动安装一键化，无需手动操作，首创的驱动体检技术，让你更直观了解您电脑的状态，体验一键化安装和升级的乐趣。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>360驱动大师</strong> 是一款专业解决驱动安装更新软件，百万级的驱动库支持，驱动安装一键化，无需手动操作，首创的驱动体检技术，让你更直观了解您电脑的状态，体验一键化安装和升级的乐趣。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CAD文件转换工具 Acme CAD Converter 2021 v8.10.0.1526]]></title>
-        <id>https://runine.github.io/AcmeCADConverter/</id>
-        <link href="https://runine.github.io/AcmeCADConverter/">
-        </link>
-        <updated>2021-01-24T17:37:58.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Acme CAD Converter</strong> 是一款DWG文件查看器，CAD版本转换器，专业实用的CAD图形文件查看和转换工具。完整支持AutoCAD 所有版本的 DWG、DXF、DWF 等格式的图形文件，支持文件版本转换等功能。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Acme CAD Converter</strong> 是一款DWG文件查看器，CAD版本转换器，专业实用的CAD图形文件查看和转换工具。完整支持AutoCAD 所有版本的 DWG、DXF、DWF 等格式的图形文件，支持文件版本转换等功能。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三维建模软件 犀牛 Rhinoceros v7.2.21021.07001 中文特别版]]></title>
-        <id>https://runine.github.io/Rhinoceros/</id>
-        <link href="https://runine.github.io/Rhinoceros/">
-        </link>
-        <updated>2021-01-24T05:45:37.000Z</updated>
-        <summary type="html"><![CDATA[<p>Rhinoceros 7 (犀牛) 是由美国 Robert McNeel 公司推出的一款强大的专业三维建模软件，在国内外有大量的使用人群，包括知名工作室。它为用户提供了一系列建模和渲染工具，你只需要发挥想象创造力。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>Rhinoceros 7 (犀牛) 是由美国 Robert McNeel 公司推出的一款强大的专业三维建模软件，在国内外有大量的使用人群，包括知名工作室。它为用户提供了一系列建模和渲染工具，你只需要发挥想象创造力。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源播放器 ZY Player v2.7.2 全网VIP剧集/电影免费观看]]></title>
-        <id>https://runine.github.io/ZYPlayer/</id>
-        <link href="https://runine.github.io/ZYPlayer/">
-        </link>
-        <updated>2021-01-23T12:37:28.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剪映专业PC版 for Windows v0.6.9 内测尝鲜版]]></title>
-        <id>https://runine.github.io/jianying/</id>
-        <link href="https://runine.github.io/jianying/">
-        </link>
-        <updated>2021-01-22T06:03:09.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>剪映专业版</strong>是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>剪映专业版</strong>是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
 ]]></content>
     </entry>
 </feed>
