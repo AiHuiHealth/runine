@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-26T16:05:23.300Z</updated>
+    <updated>2021-01-27T09:14:45.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,39 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[浏览器 Microsoft Edge v88.0.705.53 增强稳定便携版]]></title>
+        <id>https://runine.github.io/Edge/</id>
+        <link href="https://runine.github.io/Edge/">
+        </link>
+        <updated>2021-01-27T08:54:04.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Microsoft Edge</strong> 是由微软开发的一款基于Chromium内核运行在Windows 10系统上的新型浏览器。Edge浏览器的交互界面更加简洁，还将兼容现有Chrome与Firefox两大浏览器的扩展程序。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Microsoft Edge</strong> 是由微软开发的一款基于Chromium内核运行在Windows 10系统上的新型浏览器。Edge浏览器的交互界面更加简洁，还将兼容现有Chrome与Firefox两大浏览器的扩展程序。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浏览器 Google Chrome v88.0.4324.104 增强稳定便携版]]></title>
+        <id>https://runine.github.io/Chrome/</id>
+        <link href="https://runine.github.io/Chrome/">
+        </link>
+        <updated>2021-01-27T08:48:13.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Google Chrome</strong> 是由Google开发的一款简单便捷的网页浏览工具。谷歌浏览器可以提帮助你快速、安全的搜索到自己需要的内容，功能强大，可以保证用户在多开网页的情况下使浏览器快速稳定运行。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Google Chrome</strong> 是由Google开发的一款简单便捷的网页浏览工具。谷歌浏览器可以提帮助你快速、安全的搜索到自己需要的内容，功能强大，可以保证用户在多开网页的情况下使浏览器快速稳定运行。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思维导图软件 XMind ZEN 2020 v10.3.1 解锁全功能特别版]]></title>
+        <id>https://runine.github.io/XMind/</id>
+        <link href="https://runine.github.io/XMind/">
+        </link>
+        <updated>2021-01-27T05:29:07.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>XMind ZEN 2020</strong> 是一款高颜值国产思维导图软件，历时三年匠心打造。采用全新的内核，拥有经典Xmind操作体验，作为一款有效提升工作和生活效率的生产力工具，受到全球百千万用户的青睐。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>XMind ZEN 2020</strong> 是一款高颜值国产思维导图软件，历时三年匠心打造。采用全新的内核，拥有经典Xmind操作体验，作为一款有效提升工作和生活效率的生产力工具，受到全球百千万用户的青睐。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2345看图王 v10.2.0.8989 去广告绿色版]]></title>
         <id>https://runine.github.io/2345pic/</id>
         <link href="https://runine.github.io/2345pic/">
@@ -108,39 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>爱奇艺视频</strong> 是爱奇艺推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>爱奇艺视频</strong> 是爱奇艺推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卸载工具 HiBit Uninstaller v2.5.95 多语中文便携版]]></title>
-        <id>https://runine.github.io/HiBitUninstaller/</id>
-        <link href="https://runine.github.io/HiBitUninstaller/">
-        </link>
-        <updated>2021-01-26T08:57:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>HiBit Uninstaller</strong> 是一款Windows 程序卸载工具，可以完全卸载 Windows 程序，并且还具有十多个工具，包括驱动器和注册表清理，进程和启动管理器等。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>HiBit Uninstaller</strong> 是一款Windows 程序卸载工具，可以完全卸载 Windows 程序，并且还具有十多个工具，包括驱动器和注册表清理，进程和启动管理器等。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冰点文库下载器 v3.2.15.0125 去广告单文件版]]></title>
-        <id>https://runine.github.io/BingDian/</id>
-        <link href="https://runine.github.io/BingDian/">
-        </link>
-        <updated>2021-01-26T08:54:52.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>冰点文库下载器</strong> 由等雪的鱼开发。是一款免积分免登陆文档下载神器，付费文档免费下载工具、百度文库免费下载工具。可以自由下载百度，豆丁，道客巴巴，丁香，it68，mbalib，畅享网等文库文档。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>冰点文库下载器</strong> 由等雪的鱼开发。是一款免积分免登陆文档下载神器，付费文档免费下载工具、百度文库免费下载工具。可以自由下载百度，豆丁，道客巴巴，丁香，it68，mbalib，畅享网等文库文档。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文件搜索利器 Everything v1.4.1.1005 官方正式版]]></title>
-        <id>https://runine.github.io/Everything/</id>
-        <link href="https://runine.github.io/Everything/">
-        </link>
-        <updated>2021-01-26T08:52:54.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Everything</strong> 文件搜索利器，小巧免费速度最快的文件搜索工具，其速度之快令人震惊，百G硬盘几十万个文件，可以在几秒钟之内完成NTFS索引；文件名称搜索瞬间呈现结果，关键词高亮。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Everything</strong> 文件搜索利器，小巧免费速度最快的文件搜索工具，其速度之快令人震惊，百G硬盘几十万个文件，可以在几秒钟之内完成NTFS索引；文件名称搜索瞬间呈现结果，关键词高亮。</p>
 ]]></content>
     </entry>
 </feed>
