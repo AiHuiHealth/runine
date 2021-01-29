@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-29T06:28:52.999Z</updated>
+    <updated>2021-01-29T10:41:18.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[剪映专业PC版 for Windows v0.7.1.316 内测尝鲜版]]></title>
+        <id>https://runine.github.io/jianying/</id>
+        <link href="https://runine.github.io/jianying/">
+        </link>
+        <updated>2021-01-29T10:39:40.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>剪映专业版</strong>是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>剪映专业版</strong>是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[傲梅分区助手技术员版 v9.1.0 精简便携特别版]]></title>
         <id>https://runine.github.io/AOMEI-Partition/</id>
         <link href="https://runine.github.io/AOMEI-Partition/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>MAGIX VEGAS Pro</strong> 是由德国MAGIX公司推出的一款专业视频编辑软件，具有无可替代的优势，包括业界领先的硬件加速、人工智能驱动的工具、复杂的颜色分级选项、业界领先的HDR支持、强大的插件管理。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>MAGIX VEGAS Pro</strong> 是由德国MAGIX公司推出的一款专业视频编辑软件，具有无可替代的优势，包括业界领先的硬件加速、人工智能驱动的工具、复杂的颜色分级选项、业界领先的HDR支持、强大的插件管理。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe通用破解补丁 Adobe Zii 2021 for Mac v6.0.6]]></title>
-        <id>https://runine.github.io/Adobe-Zii/</id>
-        <link href="https://runine.github.io/Adobe-Zii/">
-        </link>
-        <updated>2021-01-28T11:28:56.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Adobe Zii 2021</strong> 是一款适用于Mac上的Adobe产品破解河蟹工具，可借助这出色的工具一键激活Adobe CC的所有应用程序，支持最新Adobe系列产品激活。软件简单易用，Mac用户电脑必备！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Adobe Zii 2021</strong> 是一款适用于Mac上的Adobe产品破解河蟹工具，可借助这出色的工具一键激活Adobe CC的所有应用程序，支持最新Adobe系列产品激活。软件简单易用，Mac用户电脑必备！</p>
 ]]></content>
     </entry>
 </feed>
