@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-29T12:53:13.086Z</updated>
+    <updated>2021-01-29T14:18:36.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[微信PC版 v3.1.0.72 多开防撤回绿色版]]></title>
+        <id>https://runine.github.io/WeChatPatch/</id>
+        <link href="https://runine.github.io/WeChatPatch/">
+        </link>
+        <updated>2021-01-29T14:12:23.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯推出的基于网络的免费短信、语音对讲的手机聊天通讯应用APP，用户可通过手机/平板来发送文字、语音、视频、图片等信息。并且微信提供了公众平台、朋友圈、消息推送等功能。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯推出的基于网络的免费短信、语音对讲的手机聊天通讯应用APP，用户可通过手机/平板来发送文字、语音、视频、图片等信息。并且微信提供了公众平台、朋友圈、消息推送等功能。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[剪映专业PC版 for Windows v0.7.1.316 内测尝鲜版]]></title>
         <id>https://runine.github.io/jianying/</id>
         <link href="https://runine.github.io/jianying/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专业视频编辑软件 MAGIX VEGAS Pro 18.0.0.434 解锁特别版]]></title>
-        <id>https://runine.github.io/vegas/</id>
-        <link href="https://runine.github.io/vegas/">
-        </link>
-        <updated>2021-01-28T11:29:07.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>MAGIX VEGAS Pro</strong> 是由德国MAGIX公司推出的一款专业视频编辑软件，具有无可替代的优势，包括业界领先的硬件加速、人工智能驱动的工具、复杂的颜色分级选项、业界领先的HDR支持、强大的插件管理。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>MAGIX VEGAS Pro</strong> 是由德国MAGIX公司推出的一款专业视频编辑软件，具有无可替代的优势，包括业界领先的硬件加速、人工智能驱动的工具、复杂的颜色分级选项、业界领先的HDR支持、强大的插件管理。</p>
 ]]></content>
     </entry>
 </feed>
