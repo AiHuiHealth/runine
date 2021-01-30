@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-30T08:00:51.314Z</updated>
+    <updated>2021-01-30T09:36:33.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[装机必备 Windows Defender 安全中心控制工具]]></title>
+        <id>https://runine.github.io/WindowsDefender/</id>
+        <link href="https://runine.github.io/WindowsDefender/">
+        </link>
+        <updated>2021-01-30T09:06:12.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Windows Defender</strong> 是 Windows10 自带一款安全防护软件，很多时候我们下载的软件或补丁会被 Windows Defender 删除或者无法运行，以下歪果给大家提供了几种可选的应对方法！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Windows Defender</strong> 是 Windows10 自带一款安全防护软件，很多时候我们下载的软件或补丁会被 Windows Defender 删除或者无法运行，以下歪果给大家提供了几种可选的应对方法！</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微信PC版 v3.1.0.72 多开防撤回绿色版]]></title>
         <id>https://runine.github.io/WeChatPatch/</id>
         <link href="https://runine.github.io/WeChatPatch/">
@@ -94,9 +105,9 @@
         <link href="https://runine.github.io/jianying/">
         </link>
         <updated>2021-01-29T10:39:40.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>剪映专业版</strong>是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
+        <summary type="html"><![CDATA[<p><strong>剪映专业版</strong> 是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>剪映专业版</strong>是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
+        <content type="html"><![CDATA[<p><strong>剪映专业版</strong> 是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
 ]]></content>
     </entry>
     <entry>
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>Mirillis Action!</strong> 是一款专业的屏幕录制软件，使用Action! 屏幕录制软件您可以录制和直播您正在玩得游戏，网络播放器视频，录制音乐，屏幕截图，添加摄像头画面，麦克风声音等等！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Mirillis Action!</strong> 是一款专业的屏幕录制软件，使用Action! 屏幕录制软件您可以录制和直播您正在玩得游戏，网络播放器视频，录制音乐，屏幕截图，添加摄像头画面，麦克风声音等等！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迅雷下载 / 云盘 v11.1.7.1334 不限速SVIP精简绿色版]]></title>
-        <id>https://runine.github.io/Thunde/</id>
-        <link href="https://runine.github.io/Thunde/">
-        </link>
-        <updated>2021-01-28T11:29:15.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
 ]]></content>
     </entry>
 </feed>
