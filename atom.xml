@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-31T11:05:28.890Z</updated>
+    <updated>2021-01-31T11:24:11.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[优启通 EasyU v3.6.2021.0105 VIP无广告增强版]]></title>
+        <id>https://runine.github.io/EasyU/</id>
+        <link href="https://runine.github.io/EasyU/">
+        </link>
+        <updated>2021-01-31T11:18:03.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>优启通</strong> 是IT天空精心打造的一款系统预安装环境（PE），它具有简约、易操作等特点，使用起来十分人性化。以U盘作为使用载体，空间更为充分，携带更为方便。同时整合各种装机必备工具。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>优启通</strong> 是IT天空精心打造的一款系统预安装环境（PE），它具有简约、易操作等特点，使用起来十分人性化。以U盘作为使用载体，空间更为充分，携带更为方便。同时整合各种装机必备工具。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[轻量代码编辑器 Sublime Text v4.0.4095 绿色便携版]]></title>
         <id>https://runine.github.io/SublimeText/</id>
         <link href="https://runine.github.io/SublimeText/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯推出的基于网络的免费短信、语音对讲的手机聊天通讯应用APP，用户可通过手机/平板来发送文字、语音、视频、图片等信息。并且微信提供了公众平台、朋友圈、消息推送等功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯推出的基于网络的免费短信、语音对讲的手机聊天通讯应用APP，用户可通过手机/平板来发送文字、语音、视频、图片等信息。并且微信提供了公众平台、朋友圈、消息推送等功能。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剪映专业PC版 for Win | Mac v0.7.1 内测尝鲜版]]></title>
-        <id>https://runine.github.io/jianying/</id>
-        <link href="https://runine.github.io/jianying/">
-        </link>
-        <updated>2021-01-29T10:39:40.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>剪映专业版</strong> 是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>剪映专业版</strong> 是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
 ]]></content>
     </entry>
 </feed>
