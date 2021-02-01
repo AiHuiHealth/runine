@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-01T10:32:42.088Z</updated>
+    <updated>2021-02-01T12:59:44.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[专业音频编辑软件 GoldWave v6.54 中文绿色便携版]]></title>
+        <id>https://runine.github.io/GoldWave/</id>
+        <link href="https://runine.github.io/GoldWave/">
+        </link>
+        <updated>2021-02-01T11:56:49.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>GoldWave</strong> 是一款易上手的专业级数字音频编辑软件。从最简单的录制和编辑到最复杂的音频处理、恢复、增强和转换的所有工作。体积小巧，功能却无比强大，支持许多格式的音频文件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>GoldWave</strong> 是一款易上手的专业级数字音频编辑软件。从最简单的录制和编辑到最复杂的音频处理、恢复、增强和转换的所有工作。体积小巧，功能却无比强大，支持许多格式的音频文件。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[轻量代码编辑器 Sublime Text v4.0.4096 绿色便携版]]></title>
         <id>https://runine.github.io/SublimeText/</id>
         <link href="https://runine.github.io/SublimeText/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>腾讯视频</strong> 是腾讯推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>腾讯视频</strong> 是腾讯推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topaz 系列软件全家桶官方版 / 汉化版]]></title>
-        <id>https://runine.github.io/Topaz/</id>
-        <link href="https://runine.github.io/Topaz/">
-        </link>
-        <updated>2021-01-30T19:13:39.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Topaz 全家桶</strong> 是美国 Topaz 旗下推出的系列产品，软件基于强大人工智驱动引擎和图像处理技术受到不少设计爱好者的青睐与追捧，更加放肆的放心创作。使用所有Topaz产品丰富您的工作流程！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Topaz 全家桶</strong> 是美国 Topaz 旗下推出的系列产品，软件基于强大人工智驱动引擎和图像处理技术受到不少设计爱好者的青睐与追捧，更加放肆的放心创作。使用所有Topaz产品丰富您的工作流程！</p>
 ]]></content>
     </entry>
 </feed>
