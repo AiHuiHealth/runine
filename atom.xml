@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-01-31T18:25:04.823Z</updated>
+    <updated>2021-02-01T10:32:11.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,28 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[轻量代码编辑器 Sublime Text v4.0.4096 绿色便携版]]></title>
+        <id>https://runine.github.io/SublimeText/</id>
+        <link href="https://runine.github.io/SublimeText/">
+        </link>
+        <updated>2021-02-01T10:18:30.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Sublime Text</strong> 是一款轻量、简洁、高效、跨平台的文本编辑器，也是程序员必备的代码编辑器。支持代码补全、代码折叠、语法高亮、自定义皮肤等功能，同时支持多种语言和多种操作系统。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Sublime Text</strong> 是一款轻量、简洁、高效、跨平台的文本编辑器，也是程序员必备的代码编辑器。支持代码补全、代码折叠、语法高亮、自定义皮肤等功能，同时支持多种语言和多种操作系统。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[剪映专业PC版 for Win | Mac v0.7.2.377 官方正式版]]></title>
+        <id>https://runine.github.io/jianying/</id>
+        <link href="https://runine.github.io/jianying/">
+        </link>
+        <updated>2021-02-01T10:05:12.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>剪映专业版</strong> 是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>剪映专业版</strong> 是抖音推出的一款免费的全能易用的视频剪辑软件。相比剪映手机版面板更强大，布局更适合电脑端用户，适用更多专业剪辑场景。操作足够简单，资源也着实丰富，受到了不少视频创作者的喜爱。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JetBrains系列软件 v2020.3.2 中文便携增强激活版]]></title>
         <id>https://runine.github.io/JetBrains/</id>
         <link href="https://runine.github.io/JetBrains/">
@@ -100,17 +122,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[轻量代码编辑器 Sublime Text v4.0.4095 绿色便携版]]></title>
-        <id>https://runine.github.io/SublimeText/</id>
-        <link href="https://runine.github.io/SublimeText/">
-        </link>
-        <updated>2021-01-31T11:04:28.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Sublime Text</strong> 是一款轻量、简洁、高效、跨平台的文本编辑器，也是程序员必备的代码编辑器。支持代码补全、代码折叠、语法高亮、自定义皮肤等功能，同时支持多种语言和多种操作系统。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Sublime Text</strong> 是一款轻量、简洁、高效、跨平台的文本编辑器，也是程序员必备的代码编辑器。支持代码补全、代码折叠、语法高亮、自定义皮肤等功能，同时支持多种语言和多种操作系统。</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[腾讯视频 for Win/And v11.14.4038 去广告绿色版]]></title>
         <id>https://runine.github.io/QQLive/</id>
         <link href="https://runine.github.io/QQLive/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>Topaz 全家桶</strong> 是美国 Topaz 旗下推出的系列产品，软件基于强大人工智驱动引擎和图像处理技术受到不少设计爱好者的青睐与追捧，更加放肆的放心创作。使用所有Topaz产品丰富您的工作流程！</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Topaz 全家桶</strong> 是美国 Topaz 旗下推出的系列产品，软件基于强大人工智驱动引擎和图像处理技术受到不少设计爱好者的青睐与追捧，更加放肆的放心创作。使用所有Topaz产品丰富您的工作流程！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[装机必备 Windows Defender 安全中心控制工具]]></title>
-        <id>https://runine.github.io/WindowsDefender/</id>
-        <link href="https://runine.github.io/WindowsDefender/">
-        </link>
-        <updated>2021-01-30T09:06:12.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Windows Defender</strong> 是 Windows10 自带一款安全防护软件，很多时候我们下载的软件或补丁会被 Windows Defender 删除或者无法运行，以下歪果给大家提供了几种可选的应对方法！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Windows Defender</strong> 是 Windows10 自带一款安全防护软件，很多时候我们下载的软件或补丁会被 Windows Defender 删除或者无法运行，以下歪果给大家提供了几种可选的应对方法！</p>
 ]]></content>
     </entry>
 </feed>
