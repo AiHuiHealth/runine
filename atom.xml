@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-03T18:41:42.917Z</updated>
+    <updated>2021-02-03T18:44:27.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,7 +78,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[浏览器 Google Chrome v88.0.4324.104 增强稳定便携版]]></title>
+        <title type="html"><![CDATA[Google Chrome v88.0.4324.104 增强稳定便携版]]></title>
         <id>https://runine.github.io/Chrome/</id>
         <link href="https://runine.github.io/Chrome/">
         </link>
@@ -100,7 +100,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[迅雷下载 / 云盘 v11.1.8.1418 不限速SVIP精简绿色版]]></title>
+        <title type="html"><![CDATA[迅雷11 v11.1.8.1418 不限速SVIP精简绿色版]]></title>
         <id>https://runine.github.io/Thunde/</id>
         <link href="https://runine.github.io/Thunde/">
         </link>
