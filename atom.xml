@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-04T07:33:13.714Z</updated>
+    <updated>2021-02-04T08:12:46.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[装机必备影音播放器 PotPlayer v1.7.21419 去广告绿色版]]></title>
+        <id>https://runine.github.io/PotPlayer/</id>
+        <link href="https://runine.github.io/PotPlayer/">
+        </link>
+        <updated>2021-02-04T08:10:10.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>PotPlayer</strong> 是由 KMPlayer 的原作者姜勇希在跳槽到 Daum 公司后使用 C++ 完全重写的播放器。它基本上继承了 KMPlayer 方便的滤镜以及外挂式的管理系统。同时简化了内部的解码器体系。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>PotPlayer</strong> 是由 KMPlayer 的原作者姜勇希在跳槽到 Daum 公司后使用 C++ 完全重写的播放器。它基本上继承了 KMPlayer 方便的滤镜以及外挂式的管理系统。同时简化了内部的解码器体系。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Chrome v88.0.4324.104 增强稳定便携版]]></title>
         <id>https://runine.github.io/Chrome/</id>
         <link href="https://runine.github.io/Chrome/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>UltraEdit</strong> 被称作是世界上最好的专业文本编辑/十六进制编辑器。支持配置高亮语法和几乎所有编程语言的代码结构，可同时编辑多个文件，编辑功能强大，具有代码提示、折叠、列操作等人性化功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>UltraEdit</strong> 被称作是世界上最好的专业文本编辑/十六进制编辑器。支持配置高亮语法和几乎所有编程语言的代码结构，可同时编辑多个文件，编辑功能强大，具有代码提示、折叠、列操作等人性化功能。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[驱动更新软件 IObit Driver Booster Pro v8.3.0.361 多语便携版]]></title>
-        <id>https://runine.github.io/IObitDriverBooster/</id>
-        <link href="https://runine.github.io/IObitDriverBooster/">
-        </link>
-        <updated>2021-02-02T21:19:11.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>IObit Driver Booster Pro</strong> 是由 IObit 公司出品的一款驱动更新和备份软件，是最好的驱动程序之一；和国内的驱动精灵、驱动人生功能差不多，但没有捆绑，比较简单。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>IObit Driver Booster Pro</strong> 是由 IObit 公司出品的一款驱动更新和备份软件，是最好的驱动程序之一；和国内的驱动精灵、驱动人生功能差不多，但没有捆绑，比较简单。</p>
 ]]></content>
     </entry>
 </feed>
