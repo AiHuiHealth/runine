@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-04T11:25:08.395Z</updated>
+    <updated>2021-02-04T15:15:12.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,39 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[矢量设计软件 Serif Affinity Designer v1.9.0 官方正式版]]></title>
+        <id>https://runine.github.io/AffinityDesigner/</id>
+        <link href="https://runine.github.io/AffinityDesigner/">
+        </link>
+        <updated>2021-02-04T13:53:49.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Serif Affinity Designer</strong> 是由英国 Serif 公司推出的一款专业级矢量图处理编辑软件，功能上类似于 Adobe Illustrator，最初只有 Mac版，软件推出后获得用户的一致好评，后来推出 Windows 版。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Serif Affinity Designer</strong> 是由英国 Serif 公司推出的一款专业级矢量图处理编辑软件，功能上类似于 Adobe Illustrator，最初只有 Mac版，软件推出后获得用户的一致好评，后来推出 Windows 版。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[图像处理软件 Serif Affinity Photo v1.9.0 官方正式版]]></title>
+        <id>https://runine.github.io/AffinityPhoto/</id>
+        <link href="https://runine.github.io/AffinityPhoto/">
+        </link>
+        <updated>2021-02-04T13:53:25.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Serif Affinity Photo</strong> 是英国 Serif 公司历时5年开发的一款强大的图像处理软件，功能上类似于 Adobe Photoshop，最初只有 Mac版，软件推出后获得用户的一致好评，后来推出 Windows 版。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Serif Affinity Photo</strong> 是英国 Serif 公司历时5年开发的一款强大的图像处理软件，功能上类似于 Adobe Photoshop，最初只有 Mac版，软件推出后获得用户的一致好评，后来推出 Windows 版。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[设计出版软件 Serif Affinity Publisher v.1.9.0 官方正式版]]></title>
+        <id>https://runine.github.io/AffinityPublisher/</id>
+        <link href="https://runine.github.io/AffinityPublisher/">
+        </link>
+        <updated>2021-02-04T13:33:36.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Serif Affinity Publisher</strong> 是由英国 Serif 公司推出的一款专业级专业出版软件，功能上类似于 Adobe InDesign，最初只有 Mac版，软件推出后获得用户的一致好评，后来推出 Windows 版。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Serif Affinity Publisher</strong> 是由英国 Serif 公司推出的一款专业级专业出版软件，功能上类似于 Adobe InDesign，最初只有 Mac版，软件推出后获得用户的一致好评，后来推出 Windows 版。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[装机必备影音播放器 PotPlayer v1.7.21419 去广告绿色版]]></title>
         <id>https://runine.github.io/PotPlayer/</id>
         <link href="https://runine.github.io/PotPlayer/">
@@ -108,39 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>2345看图王</strong> 是一款强大的图片浏览管理软件，软件采用了全球最快的强劲图片引擎，即使在低配置的电脑上也用飞快打开几十兆的大图，带给人们超高清完美画质图像，给您最真实的高清看图效果!</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>2345看图王</strong> 是一款强大的图片浏览管理软件，软件采用了全球最快的强劲图片引擎，即使在低配置的电脑上也用飞快打开几十兆的大图，带给人们超高清完美画质图像，给您最真实的高清看图效果!</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迅雷11 v11.1.8.1418 不限速SVIP精简绿色版]]></title>
-        <id>https://runine.github.io/Thunde/</id>
-        <link href="https://runine.github.io/Thunde/">
-        </link>
-        <updated>2021-02-03T17:52:27.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>迅雷11</strong> 是一款基于多资源超线程技术的下载软件。支持多种下载方式，支持BT、电驴、磁力链接、迅雷专链、HTTP、HTTPS以及FTP功能齐全，新版更简洁直观的用户界面，极致的下载、传输和云播速度！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯视频 for Win/And v11.14.4043 去广告绿色版]]></title>
-        <id>https://runine.github.io/QQLive/</id>
-        <link href="https://runine.github.io/QQLive/">
-        </link>
-        <updated>2021-02-03T17:48:03.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>腾讯视频</strong> 是腾讯推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>腾讯视频</strong> 是腾讯推出的在线视频平台，拥有流行内容和专业的媒体运营能力，是聚合热播影视、综艺娱乐、体育赛事、新闻资讯等为一体的综合视频内容平台，为用户提供高清流畅的视频娱乐体验。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专业文件编辑器 IDM UltraEdit v28.0.0.64 中文绿色版]]></title>
-        <id>https://runine.github.io/UltraEdit/</id>
-        <link href="https://runine.github.io/UltraEdit/">
-        </link>
-        <updated>2021-02-03T17:40:01.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>UltraEdit</strong> 被称作是世界上最好的专业文本编辑/十六进制编辑器。支持配置高亮语法和几乎所有编程语言的代码结构，可同时编辑多个文件，编辑功能强大，具有代码提示、折叠、列操作等人性化功能。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>UltraEdit</strong> 被称作是世界上最好的专业文本编辑/十六进制编辑器。支持配置高亮语法和几乎所有编程语言的代码结构，可同时编辑多个文件，编辑功能强大，具有代码提示、折叠、列操作等人性化功能。</p>
 ]]></content>
     </entry>
 </feed>
