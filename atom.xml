@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-05T18:34:28.362Z</updated>
+    <updated>2021-02-05T18:55:05.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -111,6 +111,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[雷电模拟器 v4.0.50 去广告精简绿色便携版]]></title>
+        <id>https://runine.github.io/LDPlayer/</id>
+        <link href="https://runine.github.io/LDPlayer/">
+        </link>
+        <updated>2021-02-05T17:55:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>雷电模拟器</strong> 是上海畅指网络旗下的一款安卓模拟器，能够让你在电脑上畅玩手机游戏。使模拟器具备极高兼容性，加上超高帧率模式，能够在电脑上运行高性能、高清手游。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>雷电模拟器</strong> 是上海畅指网络旗下的一款安卓模拟器，能够让你在电脑上畅玩手机游戏。使模拟器具备极高兼容性，加上超高帧率模式，能够在电脑上运行高性能、高清手游。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[矢量设计软件 Serif Affinity Designer v1.9.0 官方正式版]]></title>
         <id>https://runine.github.io/AffinityDesigner/</id>
         <link href="https://runine.github.io/AffinityDesigner/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>Serif Affinity Photo</strong> 是英国 Serif 公司历时5年开发的一款强大的图像处理软件，功能上类似于 Adobe Photoshop，最初只有 Mac版，软件推出后获得用户的一致好评，后来推出 Windows 版。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Serif Affinity Photo</strong> 是英国 Serif 公司历时5年开发的一款强大的图像处理软件，功能上类似于 Adobe Photoshop，最初只有 Mac版，软件推出后获得用户的一致好评，后来推出 Windows 版。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[设计出版软件 Serif Affinity Publisher v.1.9.0 官方正式版]]></title>
-        <id>https://runine.github.io/AffinityPublisher/</id>
-        <link href="https://runine.github.io/AffinityPublisher/">
-        </link>
-        <updated>2021-02-05T12:00:01.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Serif Affinity Publisher</strong> 是由英国 Serif 公司推出的一款专业级专业出版软件，功能上类似于 Adobe InDesign，最初只有 Mac版，软件推出后获得用户的一致好评，后来推出 Windows 版。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Serif Affinity Publisher</strong> 是由英国 Serif 公司推出的一款专业级专业出版软件，功能上类似于 Adobe InDesign，最初只有 Mac版，软件推出后获得用户的一致好评，后来推出 Windows 版。</p>
 ]]></content>
     </entry>
 </feed>
