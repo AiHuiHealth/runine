@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-05T06:29:54.575Z</updated>
+    <updated>2021-02-05T06:30:26.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[人像处理软件 ON1 Portrait AI 2021 v15.1.0.10035 多语特别版]]></title>
+        <id>https://runine.github.io/ON1PortraitAI/</id>
+        <link href="https://runine.github.io/ON1PortraitAI/">
+        </link>
+        <updated>2021-02-05T15:25:01.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>ON1 Portrait AI 2021</strong> 是一款专业人像AI处理软件。软件通过机器学习分析每张脸，并为皮肤，眼睛和嘴巴添加适量的修饰，只需使用ON1 Portrait AI即可轻松获得专业的效果。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>ON1 Portrait AI 2021</strong> 是一款专业人像AI处理软件。软件通过机器学习分析每张脸，并为皮肤，眼睛和嘴巴添加适量的修饰，只需使用ON1 Portrait AI即可轻松获得专业的效果。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[矢量设计软件 Serif Affinity Designer v1.9.0 官方正式版]]></title>
         <id>https://runine.github.io/AffinityDesigner/</id>
         <link href="https://runine.github.io/AffinityDesigner/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>Sublime Text</strong> 是一款轻量、简洁、高效、跨平台的文本编辑器，也是程序员必备的代码编辑器。支持代码补全、代码折叠、语法高亮、自定义皮肤等功能，同时支持多种语言和多种操作系统。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Sublime Text</strong> 是一款轻量、简洁、高效、跨平台的文本编辑器，也是程序员必备的代码编辑器。支持代码补全、代码折叠、语法高亮、自定义皮肤等功能，同时支持多种语言和多种操作系统。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人像处理软件 ON1 Portrait AI 2021 v15.1.0.10035 多语特别版]]></title>
-        <id>https://runine.github.io/ON1PortraitAI/</id>
-        <link href="https://runine.github.io/ON1PortraitAI/">
-        </link>
-        <updated>2021-02-05T06:25:01.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>ON1 Portrait AI 2021</strong> 是一款专业人像AI处理软件。软件通过机器学习分析每张脸，并为皮肤，眼睛和嘴巴添加适量的修饰，只需使用ON1 Portrait AI即可轻松获得专业的效果。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>ON1 Portrait AI 2021</strong> 是一款专业人像AI处理软件。软件通过机器学习分析每张脸，并为皮肤，眼睛和嘴巴添加适量的修饰，只需使用ON1 Portrait AI即可轻松获得专业的效果。</p>
 ]]></content>
     </entry>
 </feed>
