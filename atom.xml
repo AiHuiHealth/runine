@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-09T20:00:57.709Z</updated>
+    <updated>2021-02-09T20:17:53.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[开源播放器 ZY Player v2.7.3 全网VIP剧集/电影免费观看]]></title>
+        <id>https://runine.github.io/ZYPlayer/</id>
+        <link href="https://runine.github.io/ZYPlayer/">
+        </link>
+        <updated>2021-02-09T20:12:55.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Adobe Photoshop 2021 v22.2.0.183​​ 直装特别版]]></title>
         <id>https://runine.github.io/Photoshop/</id>
         <link href="https://runine.github.io/Photoshop/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯推出的基于网络的免费短信、语音对讲的手机聊天通讯应用APP，用户可通过手机/平板来发送文字、语音、视频、图片等信息。并且微信提供了公众平台、朋友圈、消息推送等功能。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>微信</strong>（WeChat）是腾讯推出的基于网络的免费短信、语音对讲的手机聊天通讯应用APP，用户可通过手机/平板来发送文字、语音、视频、图片等信息。并且微信提供了公众平台、朋友圈、消息推送等功能。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SD女佣 SD Maid for Android v5.0.8 解锁高级版]]></title>
-        <id>https://runine.github.io/SDMaid/</id>
-        <link href="https://runine.github.io/SDMaid/">
-        </link>
-        <updated>2021-02-07T06:50:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>SD Maid</strong> (简称SD女佣) 是一款国外非常受欢迎的 Android 系统专业储存卡垃圾文件清理工具，原生无广告有简体中文，其功能非常强大，且清理占用空间少，操作简便，手机SD卡垃圾清理安卓必备利器。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>SD Maid</strong> (简称SD女佣) 是一款国外非常受欢迎的 Android 系统专业储存卡垃圾文件清理工具，原生无广告有简体中文，其功能非常强大，且清理占用空间少，操作简便，手机SD卡垃圾清理安卓必备利器。</p>
 ]]></content>
     </entry>
 </feed>
