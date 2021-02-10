@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-10T17:31:03.933Z</updated>
+    <updated>2021-02-10T17:53:03.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Topaz 系列软件全家桶官方版 / 汉化版]]></title>
+        <id>https://runine.github.io/Topaz/</id>
+        <link href="https://runine.github.io/Topaz/">
+        </link>
+        <updated>2021-02-10T17:52:56.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Topaz 全家桶</strong> 是美国 Topaz 旗下推出的系列产品，软件基于强大人工智驱动引擎和图像处理技术受到不少设计爱好者的青睐与追捧，更加放肆的放心创作。使用所有Topaz产品丰富您的工作流程！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Topaz 全家桶</strong> 是美国 Topaz 旗下推出的系列产品，软件基于强大人工智驱动引擎和图像处理技术受到不少设计爱好者的青睐与追捧，更加放肆的放心创作。使用所有Topaz产品丰富您的工作流程！</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微信PC版 v3.2.1.42 多开防撤回绿色版]]></title>
         <id>https://runine.github.io/WeChatPatch/</id>
         <link href="https://runine.github.io/WeChatPatch/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>Adobe Photoshop</strong> (简称PS) 是一款 Adobe 公司最知名的软件之一，它集成图像扫描、编辑修改、图像制作、广告创意，图像输入与输出于一体，深受广大平面设计人员和电脑美术爱好者的喜爱。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Adobe Photoshop</strong> (简称PS) 是一款 Adobe 公司最知名的软件之一，它集成图像扫描、编辑修改、图像制作、广告创意，图像输入与输出于一体，深受广大平面设计人员和电脑美术爱好者的喜爱。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Illustrator 2021 v25.2.0.220 直装特别版]]></title>
-        <id>https://runine.github.io/Illustrator/</id>
-        <link href="https://runine.github.io/Illustrator/">
-        </link>
-        <updated>2021-02-09T17:06:37.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Adobe Illustrator</strong> （简称AI）是一款 Adobe 公司推出的基于向量的图形制作软件，该软件广泛应用于广告设计、印刷出版、海报书籍、插画绘制、图像处理、PDF文档设计、WEB页面等设计。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Adobe Illustrator</strong> （简称AI）是一款 Adobe 公司推出的基于向量的图形制作软件，该软件广泛应用于广告设计、印刷出版、海报书籍、插画绘制、图像处理、PDF文档设计、WEB页面等设计。</p>
 ]]></content>
     </entry>
 </feed>
