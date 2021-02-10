@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-10T17:53:03.039Z</updated>
+    <updated>2021-02-10T18:02:54.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,7 +78,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Topaz 系列软件全家桶官方版 / 汉化版]]></title>
+        <title type="html"><![CDATA[Topaz 系列软件全家桶官方版 / 汉化文件]]></title>
         <id>https://runine.github.io/Topaz/</id>
         <link href="https://runine.github.io/Topaz/">
         </link>
