@@ -1830,7 +1830,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-bg-content-color-first {
-          background: #fff5f5!important;
+          background: #f8f9fa!important;
         }
         
         .gt-bg-content-color-second {
@@ -1838,11 +1838,11 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-bg-accent-color-first {
-          background: #a61b29!important;
+          background: #ffd43b!important;
         }
         
         .gt-bg-accent-color-second {
-          background: RGBA(166,27,41,0.2)!important;
+          background: RGBA(255,212,59,0.2)!important;
         }
         
         .gt-c-theme-color-first {
@@ -1854,7 +1854,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-content-color-first {
-          color: #fff5f5!important;
+          color: #f8f9fa!important;
         }
         
         .gt-c-content-color-second {
@@ -1862,50 +1862,50 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-accent-color-first {
-          color: #a61b29!important;
+          color: #ffd43b!important;
         }
         
         .gt-c-accent-color-second {
-          color: RGBA(166,27,41,0.2)!important;
+          color: RGBA(255,212,59,0.2)!important;
         }
         
         body {
-          color: #fff5f5!important;
+          color: #f8f9fa!important;
         }
         
         a {
-          color: #a61b29!important;
+          color: #ffd43b!important;
         }
         
         .post-content h1 {
           display: inline-block;
-          color: #fff5f5!important;
+          color: #f8f9fa!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(166,27,41,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(255,212,59,0.4) 0)!important;
         }
         
         .post-content h2 {
           display: inline-block;
-          color: #fff5f5!important;
+          color: #f8f9fa!important;
           position: relative!important;
         }
         
         .gt-a-link {
-          color: #fff5f5!important;
+          color: #f8f9fa!important;
           position: relative!important;
         }
         
         .gt-post-content a {
-          color: #a61b29!important;
+          color: #ffd43b!important;
         }
         
         .gt-post-content blockquote {
-          background: RGBA(166,27,41,0.2)!important;
-          border-color: #a61b29!important;
+          background: RGBA(255,212,59,0.2)!important;
+          border-color: #ffd43b!important;
         }
         
         .gt-post-content code {
-          background: RGBA(166,27,41,0.2)!important;
+          background: RGBA(255,212,59,0.2)!important;
         }
         
         input::placeholder {
@@ -1913,7 +1913,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .search-input {
-          color: #fff5f5!important;
+          color: #f8f9fa!important;
           background-color: #de1c31!important;
         }
          
