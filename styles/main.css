@@ -1826,7 +1826,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-bg-theme-color-second {
-          background: #de1c31!important;
+          background: #cc163a!important;
         }
         
         .gt-bg-content-color-first {
@@ -1838,11 +1838,11 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-bg-accent-color-first {
-          background: #ffd43b!important;
+          background: #500a16!important;
         }
         
         .gt-bg-accent-color-second {
-          background: RGBA(255,212,59,0.2)!important;
+          background: RGBA(80,10,22,0.2)!important;
         }
         
         .gt-c-theme-color-first {
@@ -1850,7 +1850,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-theme-color-second {
-          color: #de1c31!important;
+          color: #cc163a!important;
         }
         
         .gt-c-content-color-first {
@@ -1862,11 +1862,11 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-accent-color-first {
-          color: #ffd43b!important;
+          color: #500a16!important;
         }
         
         .gt-c-accent-color-second {
-          color: RGBA(255,212,59,0.2)!important;
+          color: RGBA(80,10,22,0.2)!important;
         }
         
         body {
@@ -1874,14 +1874,14 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         a {
-          color: #ffd43b!important;
+          color: #500a16!important;
         }
         
         .post-content h1 {
           display: inline-block;
           color: #f8f9fa!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(255,212,59,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(80,10,22,0.4) 0)!important;
         }
         
         .post-content h2 {
@@ -1896,16 +1896,16 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-post-content a {
-          color: #ffd43b!important;
+          color: #500a16!important;
         }
         
         .gt-post-content blockquote {
-          background: RGBA(255,212,59,0.2)!important;
-          border-color: #ffd43b!important;
+          background: RGBA(80,10,22,0.2)!important;
+          border-color: #500a16!important;
         }
         
         .gt-post-content code {
-          background: RGBA(255,212,59,0.2)!important;
+          background: RGBA(80,10,22,0.2)!important;
         }
         
         input::placeholder {
@@ -1914,7 +1914,7 @@ code::-webkit-scrollbar-thumb:hover {
         
         .search-input {
           color: #f8f9fa!important;
-          background-color: #de1c31!important;
+          background-color: #cc163a!important;
         }
          
        .rcontent {
