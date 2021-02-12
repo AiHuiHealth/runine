@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-11T16:49:27.921Z</updated>
+    <updated>2021-02-12T05:38:06.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,7 +78,14 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[百度网盘PC客户端 v7.1.1.20 去除广告绿色版]]></title>
+        <title type="html"><![CDATA[天翼云盘PC版 v6.3.4.0 去广告绿色精简版]]></title>
+        <id>https://runine.github.io/ecloud/</id>
+        <link href="https://runine.github.io/ecloud/">
+        </link>
+        <updated>2021-02-12T04:42:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度网盘PC版 v7.1.1.20 去广告绿色版]]></title>
         <id>https://runine.github.io/BaiDuPan/</id>
         <link href="https://runine.github.io/BaiDuPan/">
         </link>
@@ -130,17 +137,6 @@
         <summary type="html"><![CDATA[<p><strong>Office 2013-2019 C2R Install</strong> 是由俄罗斯大神 Ratiborus 制作的Microsoft Office下载、安装、激活的自定义部署工具。它能够在线下载安装 Office 2013到2019的各个版本。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Office 2013-2019 C2R Install</strong> 是由俄罗斯大神 Ratiborus 制作的Microsoft Office下载、安装、激活的自定义部署工具。它能够在线下载安装 Office 2013到2019的各个版本。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源播放器 ZY Player v2.7.3 全网VIP剧集/电影免费观看]]></title>
-        <id>https://runine.github.io/ZYPlayer/</id>
-        <link href="https://runine.github.io/ZYPlayer/">
-        </link>
-        <updated>2021-02-09T20:12:55.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>ZY Player</strong> 是一款基于electron开发的一款开源跨平台视频资源播放器，奇特点爬取全网视频资源聚合，一键搜索全网影视剧集无广告播放。并且资源丰富，如果你是一个影迷那推荐你使用。</p>
 ]]></content>
     </entry>
 </feed>
