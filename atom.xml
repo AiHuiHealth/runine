@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-12T05:38:50.321Z</updated>
+    <updated>2021-02-12T05:39:51.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -83,6 +83,10 @@
         <link href="https://runine.github.io/ecloud/">
         </link>
         <updated>2021-02-12T04:42:59.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>天翼云盘</strong> 是由中国电信推出的一款云存储服务，致力为用户提供最安全，最快速的云端存储服务和分享文件服务，为用户提供跨平台的文件存储、备份、同步及分享服务，可以说是国内领先的免费网盘。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>天翼云盘</strong> 是由中国电信推出的一款云存储服务，致力为用户提供最安全，最快速的云端存储服务和分享文件服务，为用户提供跨平台的文件存储、备份、同步及分享服务，可以说是国内领先的免费网盘。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[百度网盘PC版 v7.1.1.20 去广告绿色版]]></title>
