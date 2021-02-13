@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-13T16:07:16.584Z</updated>
+    <updated>2021-02-13T17:28:56.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Office 2013-2019 C2R Install v7.1.4 中文汉化版]]></title>
+        <id>https://runine.github.io/Office-2013-2019-C2R-Install /</id>
+        <link href="https://runine.github.io/Office-2013-2019-C2R-Install /">
+        </link>
+        <updated>2021-02-13T17:27:28.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Office 2013-2019 C2R Install</strong> 是由俄罗斯大神 Ratiborus 制作的Microsoft Office下载、安装、激活的自定义部署工具。它能够在线下载安装 Office 2013到2019的各个版本。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Office 2013-2019 C2R Install</strong> 是由俄罗斯大神 Ratiborus 制作的Microsoft Office下载、安装、激活的自定义部署工具。它能够在线下载安装 Office 2013到2019的各个版本。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[装机必备 多线程下载器 IDM v6.38.17 绿色便携版]]></title>
         <id>https://runine.github.io/IDM/</id>
         <link href="https://runine.github.io/IDM/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>百度网盘</strong> 是百度官方推出的安全云存储服务产品。采用全新Cuka界面引擎，专注下载服务，为用户提供方便快捷的云端下载技术，支持用户在多端上传分享如图片、视频、通讯录、文件等各种格式文档。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>百度网盘</strong> 是百度官方推出的安全云存储服务产品。采用全新Cuka界面引擎，专注下载服务，为用户提供方便快捷的云端下载技术，支持用户在多端上传分享如图片、视频、通讯录、文件等各种格式文档。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topaz 系列软件官方正式版 + 汉化文件]]></title>
-        <id>https://runine.github.io/Topaz/</id>
-        <link href="https://runine.github.io/Topaz/">
-        </link>
-        <updated>2021-02-10T17:52:56.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Topaz 全家桶</strong> 是美国 Topaz 旗下推出的系列产品，软件基于强大人工智驱动引擎和图像处理技术受到不少设计爱好者的青睐与追捧，更加放肆的放心创作。使用所有Topaz产品丰富您的工作流程！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Topaz 全家桶</strong> 是美国 Topaz 旗下推出的系列产品，软件基于强大人工智驱动引擎和图像处理技术受到不少设计爱好者的青睐与追捧，更加放肆的放心创作。使用所有Topaz产品丰富您的工作流程！</p>
 ]]></content>
     </entry>
 </feed>
