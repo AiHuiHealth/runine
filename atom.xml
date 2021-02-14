@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-14T04:57:29.392Z</updated>
+    <updated>2021-02-14T06:49:26.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Win10数字永久激活工具 W10 Digital Activation v1.4.1 中文版]]></title>
+        <id>https://runine.github.io/w10da/</id>
+        <link href="https://runine.github.io/w10da/">
+        </link>
+        <updated>2021-02-14T06:07:06.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>W10 Digital Activation</strong> 是由俄罗斯人Ratiborus制作的一款Windows 10永久激活数字许可激活工具，相比其它激活工具安全不报毒，无需联网操作简单，单执行文件绿色无残留，激活成功率非常不错！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>W10 Digital Activation</strong> 是由俄罗斯人Ratiborus制作的一款Windows 10永久激活数字许可激活工具，相比其它激活工具安全不报毒，无需联网操作简单，单执行文件绿色无残留，激活成功率非常不错！</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Office 2013-2019 C2R Install v7.1.4 中文汉化版]]></title>
         <id>https://runine.github.io/Office-2013-2019-C2R-Install /</id>
         <link href="https://runine.github.io/Office-2013-2019-C2R-Install /">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>天翼云盘</strong> 是由中国电信推出的一款云存储服务，致力为用户提供最安全，最快速的云端存储服务和分享文件服务，为用户提供跨平台的文件存储、备份、同步及分享服务，可以说是国内领先的免费网盘。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>天翼云盘</strong> 是由中国电信推出的一款云存储服务，致力为用户提供最安全，最快速的云端存储服务和分享文件服务，为用户提供跨平台的文件存储、备份、同步及分享服务，可以说是国内领先的免费网盘。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度网盘PC版 v7.1.1.20 去广告绿色版]]></title>
-        <id>https://runine.github.io/BaiDuPan/</id>
-        <link href="https://runine.github.io/BaiDuPan/">
-        </link>
-        <updated>2021-02-10T18:10:24.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>百度网盘</strong> 是百度官方推出的安全云存储服务产品。采用全新Cuka界面引擎，专注下载服务，为用户提供方便快捷的云端下载技术，支持用户在多端上传分享如图片、视频、通讯录、文件等各种格式文档。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>百度网盘</strong> 是百度官方推出的安全云存储服务产品。采用全新Cuka界面引擎，专注下载服务，为用户提供方便快捷的云端下载技术，支持用户在多端上传分享如图片、视频、通讯录、文件等各种格式文档。</p>
 ]]></content>
     </entry>
 </feed>
