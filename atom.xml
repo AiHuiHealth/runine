@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-14T16:05:09.322Z</updated>
+    <updated>2021-02-15T04:59:54.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Adobe通用破解补丁 Adobe 2021 GenP Win v2.7.0 ]]></title>
+        <id>https://runine.github.io/AdobeGenP/</id>
+        <link href="https://runine.github.io/AdobeGenP/">
+        </link>
+        <updated>2021-02-15T04:59:44.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Adobe 2021 GenP</strong> 是国外大神制作的一款通用河蟹补丁，适用于Windows平台的全部Adobe产品授权，使用简单一键破解。如果你个人比较中意官方原版的话那歪果推荐你食用这款补丁！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Adobe 2021 GenP</strong> 是国外大神制作的一款通用河蟹补丁，适用于Windows平台的全部Adobe产品授权，使用简单一键破解。如果你个人比较中意官方原版的话那歪果推荐你食用这款补丁！</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Win10数字永久激活工具 W10 Digital Activation v1.4.1 中文版]]></title>
         <id>https://runine.github.io/w10da/</id>
         <link href="https://runine.github.io/w10da/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>Wirecast Pro</strong> 是国外Telestream开发的一款功能强大跨平台多机位专业摄像直播视频工具，和OBS直播软件不同的是Wirecast表现的更专业，其特点可以把画面推流到多平台进行同时直播和录制。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Wirecast Pro</strong> 是国外Telestream开发的一款功能强大跨平台多机位专业摄像直播视频工具，和OBS直播软件不同的是Wirecast表现的更专业，其特点可以把画面推流到多平台进行同时直播和录制。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天翼云盘PC版 v6.3.4.0 去广告绿色精简版]]></title>
-        <id>https://runine.github.io/ecloud/</id>
-        <link href="https://runine.github.io/ecloud/">
-        </link>
-        <updated>2021-02-12T04:42:59.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>天翼云盘</strong> 是由中国电信推出的一款云存储服务，致力为用户提供最安全，最快速的云端存储服务和分享文件服务，为用户提供跨平台的文件存储、备份、同步及分享服务，可以说是国内领先的免费网盘。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>天翼云盘</strong> 是由中国电信推出的一款云存储服务，致力为用户提供最安全，最快速的云端存储服务和分享文件服务，为用户提供跨平台的文件存储、备份、同步及分享服务，可以说是国内领先的免费网盘。</p>
 ]]></content>
     </entry>
 </feed>
