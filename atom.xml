@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-15T13:31:38.726Z</updated>
+    <updated>2021-02-15T13:32:25.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[三维电影特效软件 SideFX Houdini FX v18.5.462 特别版]]></title>
+        <id>https://runine.github.io/Houdini/</id>
+        <link href="https://runine.github.io/Houdini/">
+        </link>
+        <updated>2021-02-15T13:32:20.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Houdini</strong> 是一款专业的3D特效软件，提供逼真的物理模型特效处理，让你在设计电影、设计电视特效的时候更加简单，完美融合创意技能和技术，您将拥有探索、创建、优化完善从概念到最终效果。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Houdini</strong> 是一款专业的3D特效软件，提供逼真的物理模型特效处理，让你在设计电影、设计电视特效的时候更加简单，完美融合创意技能和技术，您将拥有探索、创建、优化完善从概念到最终效果。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[磁盘性能测试工具 CrystalDiskInfo v8.11.1 中文便携版]]></title>
         <id>https://runine.github.io/CrystalDiskInfo/</id>
         <link href="https://runine.github.io/CrystalDiskInfo/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>Internet Download Manager</strong> 是一款曾获国外著名IT网站最高5星评价的下载软件，IDM即使是在国内，也深受很多资深电脑用户喜欢。特别是配合脚本利用IDM下载百度云盘文件，速度也非常惊人 。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Internet Download Manager</strong> 是一款曾获国外著名IT网站最高5星评价的下载软件，IDM即使是在国内，也深受很多资深电脑用户喜欢。特别是配合脚本利用IDM下载百度云盘文件，速度也非常惊人 。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4K Video Downloader v4.14.3.4090 多语中文便携版]]></title>
-        <id>https://runine.github.io/4KVD/</id>
-        <link href="https://runine.github.io/4KVD/">
-        </link>
-        <updated>2021-02-13T04:35:25.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>4K Video Downloader</strong>（4K视频下载器）油管高清视频下载利器，可提取视频字幕和音乐，智能下载高清画质视频，一键下载字幕，下载所有油管频道及列表。它是一款支持中文的YouTube高画质视频下载工具。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>4K Video Downloader</strong>（4K视频下载器）油管高清视频下载利器，可提取视频字幕和音乐，智能下载高清画质视频，一键下载字幕，下载所有油管频道及列表。它是一款支持中文的YouTube高画质视频下载工具。</p>
 ]]></content>
     </entry>
 </feed>
