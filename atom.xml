@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-15T05:57:31.898Z</updated>
+    <updated>2021-02-15T06:04:23.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -83,6 +83,10 @@
         <link href="https://runine.github.io/CrystalDiskInfo/">
         </link>
         <updated>2021-02-15T05:20:09.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>CrystalDiskInfo</strong> 是由日本人 hiyohiyo 开发的一款小工具，能够全面详细检查硬盘的健康状态及各种参数。是一款非常专业易用的硬盘健康状态信息检测工具。支持检测机械硬盘及固态硬盘信息。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>CrystalDiskInfo</strong> 是由日本人 hiyohiyo 开发的一款小工具，能够全面详细检查硬盘的健康状态及各种参数。是一款非常专业易用的硬盘健康状态信息检测工具。支持检测机械硬盘及固态硬盘信息。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Adobe通用破解补丁 Adobe 2021 GenP Win v2.7.0 ]]></title>
