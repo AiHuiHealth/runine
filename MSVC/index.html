@@ -4,9 +4,9 @@
 <meta name="description" content=""/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<title>装机必备 微软常用运行库合集 v2021.01.08 x32/64 | 歪果不求仁</title>
+<title>装机必备 微软常用运行库合集 v2021.01.15 x32/64 | 歪果不求仁</title>
 
-<link rel="shortcut icon" href="https://runine.github.io/favicon.ico?v=1613495141274">
+<link rel="shortcut icon" href="https://runine.github.io/favicon.ico?v=1613554552598">
 
 <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://runine.github.io/styles/main.css">
@@ -106,7 +106,7 @@
             
         </div>
         <div style="text-align: center">
-            <form id="gridea-search-form" style="position: relative" data-update="1613495141274" action="/search/index.html">
+            <form id="gridea-search-form" style="position: relative" data-update="1613554552598" action="/search/index.html">
                 <input class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="搜索文章" />
                 <i class="fas fa-search gt-c-content-color-first" style="position: absolute; top: 9px; left: 10px;"></i>
             </form>
@@ -118,11 +118,11 @@
         <div class="post-detail gt-bg-theme-color-second">
             <article class="gt-post-content">
                 <h2 class="post-title">
-                    装机必备 微软常用运行库合集 v2021.01.08 x32/64
+                    装机必备 微软常用运行库合集 v2021.01.15 x32/64
                 </h2>
                 <div class="post-info">
                     <time class="post-time gt-c-content-color-first">
-                        · 2021-01-08 ·
+                        · 2021-02-17 ·
                     </time>
                     
                         <a href="https://runine.github.io/rL7Th-t1H/" class="post-tags">
@@ -173,37 +173,45 @@
 ◍ Microsoft Visual C++ 2015 Redistributable – 14.10.25008<br>
 ◍ Microsoft Visual C++ 2005-2019 Redistributable – 14.28.29715<br>
 ◍ Microsoft Visual Studio 2010 Tools for Office Runtime (x86/x64)</p>
-<p>支持 win 版本：XP/2003/Vista/Win7/Win8/Win8.1/Win10（32 位 + 64 位平台）</p>
 <hr>
 <h3 id="安装参数">安装参数</h3>
 <p>系统封装爱好者，可利用静默参数调用安装!</p>
 <p><strong>微软常用运行库合集版</strong><br>
-/SILENT 显示窗口直接安装<br>
-/VERYSILENT 静默安装</p>
+/SILENT -显示窗口直接安装<br>
+/VERYSILENT -静默安装</p>
+<p>示例：全程静默安装所有运行库版本<br>
+微软常用运行库合集.exe /VERYSILENT</p>
+<hr>
 <p><strong>VisualCppRedist版</strong><br>
-/ai 自动安装所有，不显示任何输出<br>
-/y 自动安装所有，有安装界面进度显示<br>
-/aiM 自选安装所有，安装每个版本有提取对话框，并确认询问<br>
-/aiU 自动卸载所有，卸载每个版本有提取对话框，并确认询问<br>
-/aiA 自动安装所有，但隐藏ARP项<br>
-/aiR 自动卸载所有<br>
-/ai5 自动安装Microsoft Visual C ++2005<br>
-/ai8 自动安装Microsoft Visual C ++2008<br>
-/aiX 自动安装Microsoft Visual C ++2010<br>
-/ai2 自动安装Microsoft Visual C ++2012<br>
-/ai3 自动安装Microsoft Visual C ++2013<br>
-/ai9 自动安装Microsoft Visual C ++2019<br>
-/aiT 自动安装Microsoft Visual Studio 2010<br>
-/aiE 自动安装额外的Microsoft Visual Basic/C++<br>
-/aiV 自动安装Microsoft C Runtime Library基础库<br>
-/aiH 系统“卸载程序”界面中“自动隐藏已经安装”项<br>
-/aiP 系统“卸载程序”界面中“手动隐藏或显示已经安装”项<br>
-/aiC 完全自动被动模式。安装所有，但UCRT KB3118401除外<br>
-/aiD 调试模式，创建VCpp_debug.log而不安装/卸载任何组件<br>
-/gm2 用于禁用所有其它开关的提取解压对话框的可选开关</p>
+/ai    -自动安装全部，不显示提取解压对话框<br>
+/y     -自动安装全部，提供安装界面进度显示<br>
+/aiM -自选安装全部，安装每个版本有解压对话框并询问确认<br>
+/aiU  -自动卸载全部，卸载每个版本有提取对话框并询问确认<br>
+/aiA  -自动安装全部，但是隐藏系统卸载程序列表里的ARP项<br>
+/aiR  -自动卸载全部<br>
+/ai5  -安装Microsoft Visual C ++2005<br>
+/ai8  -安装Microsoft Visual C ++2008<br>
+/aiX  -安装Microsoft Visual C ++2010<br>
+/ai2  -安装Microsoft Visual C ++2012<br>
+/ai3  -安装Microsoft Visual C ++2013<br>
+/ai9  -安装Microsoft Visual C ++2019<br>
+/aiT  -安装Microsoft Visual Studio 2010<br>
+/aiE  -安装Microsoft Visual Basic/C++<br>
+/aiV -安装Microsoft C Runtime Library<br>
+/aiH  -系统卸载程序列表中自动隐藏已经安装的项<br>
+/aiP  -系统卸载程序列表中手动隐藏或显示已经安装的项<br>
+/aiC  -完全执行被动模式。安装所有，但UCRT KB3118401除外<br>
+/aiD  -调试模式，创建VCpp_debug.log而不安装/卸载任何组件<br>
+/gm2 -7zSFX的静默模式参数，用于禁用解压对话框的可选参数</p>
+<p>示例：仅静默安装 Microsoft Visual C ++2019<br>
+VisualCppRedist_AIO_x86_x64.exe /ai9 /gm2</p>
+<p>示例：全程静默安装所有运行库版本<br>
+VisualCppRedist_AIO_x86_x64.exe /ai /gm2</p>
 <hr>
 <h3 id="更新日志">更新日志</h3>
 <p>系统常用运行库合集，是装机必备的系统组件之一，之前是由睿派克论坛站长roustar31在维护，由于思杰马克丁的缘故，roustar31暂停了更新，现在是Dreamcast接盘，关注小站会为大家持续更新。</p>
+<p>2021.01.15<br>
+更新 VC++ 2019 v14.28.29812.0</p>
 <p>2021.01.08<br>
 更新 VC++ 2019 v14.28.29715.0</p>
 <p>2020.12.10<br>
@@ -214,20 +222,21 @@
 <p><strong>文件校验</strong> (请务必核对文件信息，不正确切勿使用! )</p>
 <blockquote>
 <p><strong>国人维护版 - 微软常用运行库合集</strong><br>
-文件名称: 微软常用运行库合集_v2021.01.08.exe<br>
-MD5: 5d8b245078a399473340200cd0115bf4<br>
-SHA1: 99c1d8bc355ef1b37432490462c1713c4f77e5f0</p>
+文件名称: 微软常用运行库合集_v2021.01.15.exe<br>
+MD5: f98dfb58b9ddf9186cd6bf0483c308b8<br>
+SHA1: b01b37238d8ce9d83892982935b14dd77268344c</p>
 </blockquote>
 <blockquote>
 <p><strong>老毛子维护版 - VisualCppRedist</strong><br>
-文件名称: VisualCppRedist_AIO_v41.exe<br>
-MD5: 3ba09decacad22e2c0a84866ce539d79<br>
-SHA1: 4a65f5b3bd7537ab26ab919a533da7ac368c0da0</p>
+文件名称: VisualCppRedist_AIO_v44.exe<br>
+MD5: d14d1821d052bba9e55f344b14b1ab7d<br>
+SHA1: 56c523b1f62a7723d33048237653a3c56cc6813e</p>
 </blockquote>
 <hr>
 <h3 id="下载地址">下载地址</h3>
 <p>免责声明：本博客部分软件均来源于网络仅供学习使用，请支持正版！<br>
 转载请申明出处，谢谢合作！<br>
+<a href="http://pan.runine.cn/d/31227200-42502464-9b23fe">高速下载（密码: 52fx）</a><br>
 <a href="https://www.lanzoux.com/b00zsghfc">蓝奏云盘（密码: 52fx）</a><br>
 <a href="https://cloud.189.cn/t/nIvyYzrUfA7v">天翼云盘（密码: 1PIM）</a><br>
 <a href="#">访问官网</a></p>
@@ -245,8 +254,8 @@ SHA1: 4a65f5b3bd7537ab26ab919a533da7ac368c0da0</p>
         
             <div class="next-post">
                 <div class="next gt-c-content-color-first">下一篇</div>
-                <a href="https://runine.github.io/AppGallery/" class="post-title gt-a-link">
-                    华为应用市场PC端 v1.0.0.303 绿色纯净版
+                <a href="https://runine.github.io/Camtasia/" class="post-title gt-a-link">
+                    专业屏幕录像编辑软件 TechSmith Camtasia v2020.0.13 特别版
                 </a>
             </div>
         

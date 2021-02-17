@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-16T17:06:55.119Z</updated>
+    <updated>2021-02-17T09:38:26.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,61 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[图像处理软件 ON1 Photo RAW 2021 v15.1.0.10093 特别版]]></title>
+        <id>https://runine.github.io/ON1PhotoRAW/</id>
+        <link href="https://runine.github.io/ON1PhotoRAW/">
+        </link>
+        <updated>2021-02-17T09:35:51.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>ON1 Photo RAW 2021</strong> 是一款专业化的摄影后期处理软件，全新的ON1 Photo RAW 2020将摄影师的主要照片编辑需求放在一个屋顶下，使工作流程优雅，强大而又简单。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>ON1 Photo RAW 2021</strong> 是一款专业化的摄影后期处理软件，全新的ON1 Photo RAW 2020将摄影师的主要照片编辑需求放在一个屋顶下，使工作流程优雅，强大而又简单。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome v88.0.4324.182 增强稳定便携版]]></title>
+        <id>https://runine.github.io/Chrome/</id>
+        <link href="https://runine.github.io/Chrome/">
+        </link>
+        <updated>2021-02-17T09:35:34.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Google Chrome</strong> 是由Google开发的一款简单便捷的网页浏览工具。谷歌浏览器可以提帮助你快速、安全的搜索到自己需要的内容，功能强大，可以保证用户在多开网页的情况下使浏览器快速稳定运行。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Google Chrome</strong> 是由Google开发的一款简单便捷的网页浏览工具。谷歌浏览器可以提帮助你快速、安全的搜索到自己需要的内容，功能强大，可以保证用户在多开网页的情况下使浏览器快速稳定运行。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge v88.0.705.68 增强稳定便携版]]></title>
+        <id>https://runine.github.io/Edge/</id>
+        <link href="https://runine.github.io/Edge/">
+        </link>
+        <updated>2021-02-17T09:34:33.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Microsoft Edge</strong> 是由微软开发的一款基于Chromium内核运行在Windows 10系统上的新型浏览器。Edge浏览器的交互界面更加简洁，还将兼容现有Chrome与Firefox两大浏览器的扩展程序。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Microsoft Edge</strong> 是由微软开发的一款基于Chromium内核运行在Windows 10系统上的新型浏览器。Edge浏览器的交互界面更加简洁，还将兼容现有Chrome与Firefox两大浏览器的扩展程序。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高清视频录制工具 Bandicam v5.0.2.1813 绿色便携版]]></title>
+        <id>https://runine.github.io/Bandicam/</id>
+        <link href="https://runine.github.io/Bandicam/">
+        </link>
+        <updated>2021-02-17T08:35:24.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Bandicam（班迪录屏）</strong> 是一款由韩国开发的一款高清录屏软件，电脑屏幕录像软件，高清视频录像软件。软件录制的视频文件不仅体积小，而且画质非常清晰，号称世界三大视频录制神器之一。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Bandicam（班迪录屏）</strong> 是一款由韩国开发的一款高清录屏软件，电脑屏幕录像软件，高清视频录像软件。软件录制的视频文件不仅体积小，而且画质非常清晰，号称世界三大视频录制神器之一。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装机必备 微软常用运行库合集 v2021.01.15 x32/64]]></title>
+        <id>https://runine.github.io/MSVC/</id>
+        <link href="https://runine.github.io/MSVC/">
+        </link>
+        <updated>2021-02-17T07:55:14.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>微软常用运行库合集32/64位</strong>这些运行库都是采用Microsoft Visual Studio 20XX编写的软件必须使用的公用DLL运行库，相当于程序的字典文件；只需要一键全部安装，堪称装机必备神器！</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[专业屏幕录像编辑软件 TechSmith Camtasia v2020.0.13 特别版]]></title>
         <id>https://runine.github.io/Camtasia/</id>
         <link href="https://runine.github.io/Camtasia/">
@@ -86,61 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>TechSmith Camtasia</strong> 是一款集视频录制、剪辑、编辑和播放于一体的多功能屏幕录制软件，它能够轻松为您将屏幕上的所有声音、影音、鼠标移动的轨迹和麦克风声音全部录制下来，支持全屏区域录制。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>TechSmith Camtasia</strong> 是一款集视频录制、剪辑、编辑和播放于一体的多功能屏幕录制软件，它能够轻松为您将屏幕上的所有声音、影音、鼠标移动的轨迹和麦克风声音全部录制下来，支持全屏区域录制。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电脑远程协助控制软件 ToDesk fow Windows v2.1.2]]></title>
-        <id>https://runine.github.io/ToDesk/</id>
-        <link href="https://runine.github.io/ToDesk/">
-        </link>
-        <updated>2021-02-15T16:09:39.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>ToDesk</strong> 是海南有趣科技旗下的一款简单易用的多平台远程控制软件，ToDesk为用户提供实用、安全、高效的服务，随时随地远程访问同事、供应商和客户，及时有效地沟通，提高工作效率。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>ToDesk</strong> 是海南有趣科技旗下的一款简单易用的多平台远程控制软件，ToDesk为用户提供实用、安全、高效的服务，随时随地远程访问同事、供应商和客户，及时有效地沟通，提高工作效率。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三维电影特效软件 SideFX Houdini FX v18.5.462 特别版]]></title>
-        <id>https://runine.github.io/Houdini/</id>
-        <link href="https://runine.github.io/Houdini/">
-        </link>
-        <updated>2021-02-15T16:09:31.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Houdini</strong> 是一款专业的3D特效软件，提供逼真的物理模型特效处理，让你在设计电影、设计电视特效的时候更加简单，完美融合创意技能和技术，您将拥有探索、创建、优化完善从概念到最终效果。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Houdini</strong> 是一款专业的3D特效软件，提供逼真的物理模型特效处理，让你在设计电影、设计电视特效的时候更加简单，完美融合创意技能和技术，您将拥有探索、创建、优化完善从概念到最终效果。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[磁盘性能测试工具 CrystalDiskInfo v8.11.1 中文便携版]]></title>
-        <id>https://runine.github.io/CrystalDiskInfo/</id>
-        <link href="https://runine.github.io/CrystalDiskInfo/">
-        </link>
-        <updated>2021-02-15T05:20:09.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>CrystalDiskInfo</strong> 是由日本人 hiyohiyo 开发的一款小工具，能够全面详细检查硬盘的健康状态及各种参数。是一款非常专业易用的硬盘健康状态信息检测工具。支持检测机械硬盘及固态硬盘信息。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>CrystalDiskInfo</strong> 是由日本人 hiyohiyo 开发的一款小工具，能够全面详细检查硬盘的健康状态及各种参数。是一款非常专业易用的硬盘健康状态信息检测工具。支持检测机械硬盘及固态硬盘信息。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe通用破解补丁 Adobe 2021 GenP Win v2.7.0 ]]></title>
-        <id>https://runine.github.io/AdobeGenP/</id>
-        <link href="https://runine.github.io/AdobeGenP/">
-        </link>
-        <updated>2021-02-15T04:59:44.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Adobe 2021 GenP</strong> 是国外大神制作的一款通用河蟹补丁，适用于Windows平台的全部Adobe产品授权，使用简单一键破解。如果你个人比较中意官方原版的话那歪果推荐你食用这款补丁！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Adobe 2021 GenP</strong> 是国外大神制作的一款通用河蟹补丁，适用于Windows平台的全部Adobe产品授权，使用简单一键破解。如果你个人比较中意官方原版的话那歪果推荐你食用这款补丁！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Win10数字永久激活工具 W10 Digital Activation v1.4.1 中文版]]></title>
-        <id>https://runine.github.io/w10da/</id>
-        <link href="https://runine.github.io/w10da/">
-        </link>
-        <updated>2021-02-14T06:07:06.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>W10 Digital Activation</strong> 是由俄罗斯人Ratiborus制作的一款Windows 10永久激活数字许可激活工具，相比其它激活工具安全不报毒，无需联网操作简单，单执行文件绿色无残留，激活成功率非常不错！</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>W10 Digital Activation</strong> 是由俄罗斯人Ratiborus制作的一款Windows 10永久激活数字许可激活工具，相比其它激活工具安全不报毒，无需联网操作简单，单执行文件绿色无残留，激活成功率非常不错！</p>
 ]]></content>
     </entry>
 </feed>
