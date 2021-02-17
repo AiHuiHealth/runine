@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-17T17:39:53.106Z</updated>
+    <updated>2021-02-17T18:42:19.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -82,10 +82,21 @@
         <id>https://runine.github.io/ON1PhotoRAW/</id>
         <link href="https://runine.github.io/ON1PhotoRAW/">
         </link>
-        <updated>2021-02-17T17:36:14.000Z</updated>
+        <updated>2021-02-17T18:34:24.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>ON1 Photo RAW 2021</strong> 是一款专业化的摄影后期处理软件，全新的ON1 Photo RAW 2020将摄影师的主要照片编辑需求放在一个屋顶下，使工作流程优雅，强大而又简单。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>ON1 Photo RAW 2021</strong> 是一款专业化的摄影后期处理软件，全新的ON1 Photo RAW 2020将摄影师的主要照片编辑需求放在一个屋顶下，使工作流程优雅，强大而又简单。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷电安卓模拟器 v4.0.50.1 去广告绿色版]]></title>
+        <id>https://runine.github.io/LDPlayer/</id>
+        <link href="https://runine.github.io/LDPlayer/">
+        </link>
+        <updated>2021-02-17T18:34:08.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>雷电模拟器</strong> 是上海畅指网络旗下的一款安卓模拟器，能够让你在电脑上畅玩手机游戏。使模拟器具备极高兼容性，加上超高帧率模式，能够在电脑上运行高性能、高清手游。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>雷电模拟器</strong> 是上海畅指网络旗下的一款安卓模拟器，能够让你在电脑上畅玩手机游戏。使模拟器具备极高兼容性，加上超高帧率模式，能够在电脑上运行高性能、高清手游。</p>
 ]]></content>
     </entry>
     <entry>
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>压缩宝</strong> (压缩宝) 是Apowersoft旗下一款专业的多功能压缩工具，采用了最先进的压缩技术，确保压缩时耗费的系统资源少且压缩速度快。相比同类产品，压缩宝的压缩率更高且能保证压缩后的文件画质清晰。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>压缩宝</strong> (压缩宝) 是Apowersoft旗下一款专业的多功能压缩工具，采用了最先进的压缩技术，确保压缩时耗费的系统资源少且压缩速度快。相比同类产品，压缩宝的压缩率更高且能保证压缩后的文件画质清晰。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome v88.0.4324.182 增强稳定便携版]]></title>
-        <id>https://runine.github.io/Chrome/</id>
-        <link href="https://runine.github.io/Chrome/">
-        </link>
-        <updated>2021-02-17T09:35:34.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Google Chrome</strong> 是由Google开发的一款简单便捷的网页浏览工具。谷歌浏览器可以提帮助你快速、安全的搜索到自己需要的内容，功能强大，可以保证用户在多开网页的情况下使浏览器快速稳定运行。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Google Chrome</strong> 是由Google开发的一款简单便捷的网页浏览工具。谷歌浏览器可以提帮助你快速、安全的搜索到自己需要的内容，功能强大，可以保证用户在多开网页的情况下使浏览器快速稳定运行。</p>
 ]]></content>
     </entry>
 </feed>
