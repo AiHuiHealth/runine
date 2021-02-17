@@ -4,9 +4,9 @@
 <meta name="description" content=""/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-<title>装机必备 微软常用运行库合集 v2021.01.15 x32/64 | 歪果不求仁</title>
+<title>装机必备 微软常用运行库合集 v2021.02.17 x32/64 | 歪果不求仁</title>
 
-<link rel="shortcut icon" href="https://runine.github.io/favicon.ico?v=1613588158421">
+<link rel="shortcut icon" href="https://runine.github.io/favicon.ico?v=1613590032321">
 
 <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://runine.github.io/styles/main.css">
@@ -106,7 +106,7 @@
             
         </div>
         <div style="text-align: center">
-            <form id="gridea-search-form" style="position: relative" data-update="1613588158421" action="/search/index.html">
+            <form id="gridea-search-form" style="position: relative" data-update="1613590032321" action="/search/index.html">
                 <input class="search-input" autocomplete="off" spellcheck="false" name="q" placeholder="搜索文章" />
                 <i class="fas fa-search gt-c-content-color-first" style="position: absolute; top: 9px; left: 10px;"></i>
             </form>
@@ -118,7 +118,7 @@
         <div class="post-detail gt-bg-theme-color-second">
             <article class="gt-post-content">
                 <h2 class="post-title">
-                    装机必备 微软常用运行库合集 v2021.01.15 x32/64
+                    装机必备 微软常用运行库合集 v2021.02.17 x32/64
                 </h2>
                 <div class="post-info">
                     <time class="post-time gt-c-content-color-first">
@@ -160,29 +160,29 @@
 <p>此工具不仅可以让用户不再遇到因缺少运行库导致的程序错误或游戏启动失败等各种烦人问题。安装系统之后也不再需要再一个个单独的去找运行库，省时省力！而且可以离线安装，绝对是装机必备的好工具。</p>
 <p>如果提示缺少DLL组件的可以尝试使用：全能运行库修复工具 <a href="https://runine.cn/DirectX">DirectX Repair</a> 进行修复，大多数的缺少DLL组件都可以使用此软件进行修复。</p>
 <hr>
-<h3 id="集成组件">集成组件</h3>
-<p>◍ Microsoft Visual Basic/C++ Runtime (x86/x64)<br>
-◍ Microsoft C Runtime Library (2002: 7.0.9975.0)<br>
-◍ Microsoft C Runtime Library (2003: 7.10.6119.0)<br>
-◍ Microsoft Visual C++ Redistributables (x86/x64)<br>
-◍ Microsoft Visual C++ 2005 Redistributable – 8.0.61187<br>
-◍ Microsoft Visual C++ 2008 Redistributable – 9.0.30729<br>
-◍ Microsoft Visual C++ 2010 Redistributable – 10.0.40219<br>
-◍ Microsoft Visual C++ 2012 Redistributable – 11.0.61135<br>
-◍ Microsoft Visual C++ 2013 Redistributable – 12.0.40664<br>
-◍ Microsoft Visual C++ 2015 Redistributable – 14.10.25008<br>
-◍ Microsoft Visual C++ 2005-2019 Redistributable – 14.28.29715<br>
+<h3 id="包含组件">包含组件</h3>
+<p>◍ Microsoft Visual Basic Visual Machine (5.1)<br>
+◍ Microsoft Visual Basic Visual Machine (6.1)<br>
+◍ Microsoft C Runtime Library 2002 (7.0.9975.0)<br>
+◍ Microsoft C Runtime Library 2003 (7.10.6119.0)<br>
+◍ Microsoft Visual C++ 2005 Redistributable (8.0.61187)<br>
+◍ Microsoft Visual C++ 2008 Redistributable (9.0.30729)<br>
+◍ Microsoft Visual C++ 2010 Redistributable (10.0.40219)<br>
+◍ Microsoft Visual C++ 2012 Redistributable (11.0.61135)<br>
+◍ Microsoft Visual C++ 2013 Redistributable (12.0.40664)<br>
+◍ Microsoft Visual C++ 2015 Redistributable (14.10.25008）<br>
+◍ Microsoft Visual C++ 2005-2019 Redistributable (14.28.29812)<br>
 ◍ Microsoft Visual Studio 2010 Tools for Office Runtime (x86/x64)</p>
 <hr>
 <h3 id="安装参数">安装参数</h3>
 <p>系统封装爱好者，可利用静默参数调用安装!</p>
-<p><strong>微软常用运行库合集版</strong><br>
+<p><strong>微软常用运行库合集</strong><br>
 /SILENT -显示窗口直接安装<br>
 /VERYSILENT -静默安装</p>
-<p>示例：全程静默安装所有运行库版本<br>
+<p>示例：静默安装所有运行库版本<br>
 微软常用运行库合集.exe /VERYSILENT</p>
 <hr>
-<p><strong>VisualCppRedist版</strong><br>
+<p><strong>VisualCppRedist</strong><br>
 /ai    -自动安装全部，不显示提取解压对话框<br>
 /y     -自动安装全部，提供安装界面进度显示<br>
 /aiM -自选安装全部，安装每个版本有解压对话框并询问确认<br>
@@ -204,27 +204,25 @@
 /aiD  -调试模式，创建VCpp_debug.log而不安装/卸载任何组件<br>
 /gm2 -7zSFX的静默模式参数，用于禁用解压对话框的可选参数</p>
 <p>示例：仅静默安装 Microsoft Visual C ++2019<br>
-VisualCppRedist_AIO_x86_x64.exe /ai9 /gm2</p>
-<p>示例：全程静默安装所有运行库版本<br>
-VisualCppRedist_AIO_x86_x64.exe /ai /gm2</p>
+VisualCppRedist.exe /ai9 /gm2</p>
+<p>示例：静默安装所有运行库版本<br>
+VisualCppRedist.exe /ai /gm2</p>
 <hr>
 <h3 id="更新日志">更新日志</h3>
 <p>系统常用运行库合集，是装机必备的系统组件之一，之前是由睿派克论坛站长roustar31在维护，由于思杰马克丁的缘故，roustar31暂停了更新，现在是Dreamcast接盘，关注小站会为大家持续更新。</p>
+<p>2021.02.17<br>
+⨮ 更新 VC++ 2019 v14.28.29910.0</p>
 <p>2021.01.15<br>
-更新 VC++ 2019 v14.28.29812.0</p>
+⨮ 更新 VC++ 2019 v14.28.29812.0</p>
 <p>2021.01.08<br>
-更新 VC++ 2019 v14.28.29715.0</p>
-<p>2020.12.10<br>
-更新Visual C++ 2019 Redistributable – 14.28.29617.0</p>
-<p>2020.11.11<br>
-更新Visual C++ 2019 Redistributable – 14.28.29515.1</p>
+⨮ 更新 VC++ 2019 v14.28.29715.0</p>
 <hr>
 <p><strong>文件校验</strong> (请务必核对文件信息，不正确切勿使用! )</p>
 <blockquote>
 <p><strong>国人维护版 - 微软常用运行库合集</strong><br>
-文件名称: 微软常用运行库合集_v2021.01.15.exe<br>
-MD5: f98dfb58b9ddf9186cd6bf0483c308b8<br>
-SHA1: b01b37238d8ce9d83892982935b14dd77268344c</p>
+文件名称: 微软常用运行库合集_v2021.02.17.exe<br>
+MD5: b3c6ccb7409b1486aa4644c1d414dd1b<br>
+SHA1: 3d84d94b3e3542a7074ad3891bf98b1f8392f486</p>
 </blockquote>
 <blockquote>
 <p><strong>老毛子维护版 - VisualCppRedist</strong><br>
@@ -239,7 +237,7 @@ SHA1: 56c523b1f62a7723d33048237653a3c56cc6813e</p>
 <a href="http://pan.runine.cn/d/31227200-42502464-9b23fe">高速下载（密码: 52fx）</a><br>
 <a href="https://www.lanzoux.com/b00zsghfc">蓝奏云盘（密码: 52fx）</a><br>
 <a href="https://cloud.189.cn/t/nIvyYzrUfA7v">天翼云盘（密码: 1PIM）</a><br>
-<a href="#">访问官网</a></p>
+<a href="http://dreamcast2.ys168.com">项目地址</a></p>
 <h2 id="br"><br></h2>
 <br>
 <div align="center"><p>如果觉得资源不错，欢迎任意金额打赏支持！<p></div>
