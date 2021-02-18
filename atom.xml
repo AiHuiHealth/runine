@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-17T19:40:33.573Z</updated>
+    <updated>2021-02-18T08:26:57.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -138,9 +138,9 @@
         <link href="https://runine.github.io/ApowerCompress/">
         </link>
         <updated>2021-02-17T16:19:07.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>压缩宝</strong> (压缩宝) 是Apowersoft旗下一款专业的多功能压缩工具，采用了最先进的压缩技术，确保压缩时耗费的系统资源少且压缩速度快。相比同类产品，压缩宝的压缩率更高且能保证压缩后的文件画质清晰。</p>
+        <summary type="html"><![CDATA[<p><strong>ApowerCompress</strong> (压缩宝) 是Apowersoft旗下一款专业的多功能压缩工具，采用最先进的压缩技术，压缩时系统资源少且压缩速度快。相比同类产品，压缩宝的压缩率更高且能保证压缩后的文件画质清晰。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><strong>压缩宝</strong> (压缩宝) 是Apowersoft旗下一款专业的多功能压缩工具，采用了最先进的压缩技术，确保压缩时耗费的系统资源少且压缩速度快。相比同类产品，压缩宝的压缩率更高且能保证压缩后的文件画质清晰。</p>
+        <content type="html"><![CDATA[<p><strong>ApowerCompress</strong> (压缩宝) 是Apowersoft旗下一款专业的多功能压缩工具，采用最先进的压缩技术，压缩时系统资源少且压缩速度快。相比同类产品，压缩宝的压缩率更高且能保证压缩后的文件画质清晰。</p>
 ]]></content>
     </entry>
 </feed>
