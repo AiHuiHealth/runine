@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-18T16:03:53.093Z</updated>
+    <updated>2021-02-18T16:11:43.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Adobe Acrobat Pro DC v2021.001.20138 直装特别版]]></title>
+        <id>https://runine.github.io/Acrobat/</id>
+        <link href="https://runine.github.io/Acrobat/">
+        </link>
+        <updated>2021-02-18T16:05:49.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Adobe Acrobat Pro DC</strong> 是世界领先的PDF解决方案。现在，你可以在任何设备上填写、签名和共享PDF文件。编辑任何东西，甚至是纸张打印输出。即时访问最近在电脑、移动设备和网络上查看的PDF文件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Adobe Acrobat Pro DC</strong> 是世界领先的PDF解决方案。现在，你可以在任何设备上填写、签名和共享PDF文件。编辑任何东西，甚至是纸张打印输出。即时访问最近在电脑、移动设备和网络上查看的PDF文件。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft Edge v88.0.705.74 增强稳定便携版]]></title>
         <id>https://runine.github.io/Edge/</id>
         <link href="https://runine.github.io/Edge/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>ApowerEdit</strong> (视频编辑王) 是香港 Apowersoft 公司最近开发的一款集分割/剪辑/合并/缩放/裁剪/加马赛克等多功能为一体多轨道视频剪辑软件。为用户轻轻松松创造精彩、生动的视频。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>ApowerEdit</strong> (视频编辑王) 是香港 Apowersoft 公司最近开发的一款集分割/剪辑/合并/缩放/裁剪/加马赛克等多功能为一体多轨道视频剪辑软件。为用户轻轻松松创造精彩、生动的视频。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水印管家 Watermark Remover v1.4.10.2 多语便携版]]></title>
-        <id>https://runine.github.io/watermark-remover/</id>
-        <link href="https://runine.github.io/watermark-remover/">
-        </link>
-        <updated>2021-02-17T16:43:43.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Watermark Remover</strong> (水印管家) 是Apowersoft旗下的一款专业去水印工具，一键处理视频/图片水印，可以自由选取需要清除的范围，让你轻松去除烦人水印，快速制作你的专属logo。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>Watermark Remover</strong> (水印管家) 是Apowersoft旗下的一款专业去水印工具，一键处理视频/图片水印，可以自由选取需要清除的范围，让你轻松去除烦人水印，快速制作你的专属logo。</p>
 ]]></content>
     </entry>
 </feed>
