@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-18T08:27:54.853Z</updated>
+    <updated>2021-02-18T08:50:41.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -78,6 +78,17 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft Edge v88.0.705.74 增强稳定便携版]]></title>
+        <id>https://runine.github.io/Edge/</id>
+        <link href="https://runine.github.io/Edge/">
+        </link>
+        <updated>2021-02-18T08:46:50.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Microsoft Edge</strong> 是由微软开发的一款基于Chromium内核运行在Windows 10系统上的新型浏览器。Edge浏览器的交互界面更加简洁，还将兼容现有Chrome与Firefox两大浏览器的扩展程序。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>Microsoft Edge</strong> 是由微软开发的一款基于Chromium内核运行在Windows 10系统上的新型浏览器。Edge浏览器的交互界面更加简洁，还将兼容现有Chrome与Firefox两大浏览器的扩展程序。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[图像处理软件 ON1 Photo RAW 2021.1 v15.1.0.10100 特别版]]></title>
         <id>https://runine.github.io/ON1PhotoRAW/</id>
         <link href="https://runine.github.io/ON1PhotoRAW/">
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>Watermark Remover</strong> (水印管家) 是Apowersoft旗下的一款专业去水印工具，一键处理视频/图片水印，可以自由选取需要清除的范围，让你轻松去除烦人水印，快速制作你的专属logo。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>Watermark Remover</strong> (水印管家) 是Apowersoft旗下的一款专业去水印工具，一键处理视频/图片水印，可以自由选取需要清除的范围，让你轻松去除烦人水印，快速制作你的专属logo。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[压缩宝 ApowerCompress v1.1.13.1 多语便携版]]></title>
-        <id>https://runine.github.io/ApowerCompress/</id>
-        <link href="https://runine.github.io/ApowerCompress/">
-        </link>
-        <updated>2021-02-17T16:19:07.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>ApowerCompress</strong> (压缩宝) 是Apowersoft旗下一款专业的多功能压缩工具，采用最先进的压缩技术，压缩时系统资源少且压缩速度快。相比同类产品，压缩宝的压缩率更高且能保证压缩后的文件画质清晰。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>ApowerCompress</strong> (压缩宝) 是Apowersoft旗下一款专业的多功能压缩工具，采用最先进的压缩技术，压缩时系统资源少且压缩速度快。相比同类产品，压缩宝的压缩率更高且能保证压缩后的文件画质清晰。</p>
 ]]></content>
     </entry>
 </feed>
