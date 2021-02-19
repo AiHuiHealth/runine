@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-19T16:06:48.089Z</updated>
+    <updated>2021-02-19T16:08:11.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -100,7 +100,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[图像处理软件 ON1 Photo RAW 2021.1 v15.1.0.10100 官方正式版]]></title>
+        <title type="html"><![CDATA[图像处理软件 ON1 Photo RAW 2021.1 v15.1.0.10100 正式版]]></title>
         <id>https://runine.github.io/ON1PhotoRAW/</id>
         <link href="https://runine.github.io/ON1PhotoRAW/">
         </link>
@@ -111,7 +111,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[人像处理软件 ON1 Portrait AI 2021.1 v15.1.0.10100 官方正式版]]></title>
+        <title type="html"><![CDATA[人像处理软件 ON1 Portrait AI 2021.1 v15.1.0.10100 正式版]]></title>
         <id>https://runine.github.io/ON1PortraitAI/</id>
         <link href="https://runine.github.io/ON1PortraitAI/">
         </link>
@@ -122,7 +122,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HDR图像处理软件 ON1 HDR 2021.1 v15.1.0.10100 官方正式版]]></title>
+        <title type="html"><![CDATA[HDR图像处理软件 ON1 HDR 2021.1 v15.1.0.10100 正式版]]></title>
         <id>https://runine.github.io/ON1HDR/</id>
         <link href="https://runine.github.io/ON1HDR/">
         </link>
