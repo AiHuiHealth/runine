@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://runine.github.io</id>
     <title>歪果不求仁</title>
-    <updated>2021-02-21T16:53:33.823Z</updated>
+    <updated>2021-02-21T17:28:39.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://runine.github.io"/>
     <link rel="self" href="https://runine.github.io/atom.xml"/>
@@ -11,6 +11,17 @@
     <logo>https://runine.github.io/images/avatar.png</logo>
     <icon>https://runine.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 歪果不求仁</rights>
+    <entry>
+        <title type="html"><![CDATA[2021.02.22 公告还是后悔无期]]></title>
+        <id>https://runine.github.io/20210222/</id>
+        <link href="https://runine.github.io/20210222/">
+        </link>
+        <updated>2021-02-22T15:59:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>2021新的开始！或许该放弃一些沉迷，拾起一份家的责任！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2021新的开始！或许该放弃一些沉迷，拾起一份家的责任！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[富强上网全平台客户端合集 + 8K稳定机场推荐]]></title>
         <id>https://runine.github.io/kexue/</id>
@@ -130,17 +141,6 @@
         <summary type="html"><![CDATA[<p><strong>BitComet</strong> (比特彗星) 是一款专业的老牌国产BT下载软件，堪称BT资源下载利器！支持断点续传和边下载边播放下载管理软件，也称BT下载客户端，同时也是一个集BT/HTTP/FTP于一体的下载管理器。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>BitComet</strong> (比特彗星) 是一款专业的老牌国产BT下载软件，堪称BT资源下载利器！支持断点续传和边下载边播放下载管理软件，也称BT下载客户端，同时也是一个集BT/HTTP/FTP于一体的下载管理器。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专业文件编辑器 IDM UltraEdit v28.0.0.86 中文绿色版]]></title>
-        <id>https://runine.github.io/UltraEdit/</id>
-        <link href="https://runine.github.io/UltraEdit/">
-        </link>
-        <updated>2021-02-20T16:00:24.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>UltraEdit</strong> 被称作是世界上最好的专业文本编辑/十六进制编辑器。支持配置高亮语法和几乎所有编程语言的代码结构，可同时编辑多个文件，编辑功能强大，具有代码提示、折叠、列操作等人性化功能。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><strong>UltraEdit</strong> 被称作是世界上最好的专业文本编辑/十六进制编辑器。支持配置高亮语法和几乎所有编程语言的代码结构，可同时编辑多个文件，编辑功能强大，具有代码提示、折叠、列操作等人性化功能。</p>
 ]]></content>
     </entry>
 </feed>
